@@ -1,0 +1,246 @@
+# Route 2 (12) - Route 16 (126)
+12,South,90,126,North,0
+# Route 17 (129) - Route 16 (126)
+129,North,6,126,South,0
+# Celadon City (80) - Route 16 (126)
+80,West,8,126,East,0
+# Route 13 (155) - Route 14 (154)
+155,South,12,154,North,0
+# Route 15 (153) - Route 14 (154)
+153,East,4,154,West,0
+# Route 21 (163) - Cinnabar Island (160)
+163,South,0,160,North,0
+# Route 20 (174) - Cinnabar Island (160)
+174,West,0,160,East,0
+# Route 8 (73) - Route 6 (39)
+73,South,0,39,North,75
+# Vermilion City (41) - Route 6 (39)
+41,North,0,39,South,12
+# Naval Rock (295) - Route 6 (39)
+295,North,8,39,South,0
+# Saffron City (98) - Route 6 (39)
+98,South,0,39,North,6
+# Celadon City (80) - Route 7 (78)
+80,East,0,78,West,4
+# Saffron City (98) - Route 7 (78)
+98,West,24,78,East,0
+# Route 4 (24) - Route 5 (34)
+24,South,80,34,North,0
+# Cerulean City (26) - Route 5 (34)
+26,South,0,34,North,18
+# Saffron City (98) - Route 5 (34)
+98,North,0,34,South,6
+# Route 10 (58) - Route 9 (56)
+58,North,1,56,South,0
+# Cerulean City (26) - Route 9 (56)
+26,East,24,56,West,0
+# Route 11 (52) - Route 13 (155)
+52,South,0,155,North,32
+# Route 1 (3) - Route 13 (155)
+3,South,322,155,North,0
+# Route 12 (54) - Route 13 (155)
+54,South,0,155,North,92
+# Route 18 (130) - Fuchsia City (133)
+130,East,0,133,West,20
+# Route 19 (175) - Fuchsia City (133)
+175,North,3,133,South,0
+# Route 15 (153) - Fuchsia City (133)
+153,West,10,133,East,0
+# Viridian City (9) - Route 2 (12)
+9,North,22,12,South,0
+# Pewter City (15) - Route 2 (12)
+15,South,0,12,North,3
+# Route 23 (184) - Route 22 (18)
+184,East,148,18,West,0
+# Route 1 (3) - Route 22 (18)
+3,West,0,18,East,42
+# Indigo Plateau (185) - Route 22 (18)
+185,East,169,18,West,0
+# Viridian City (9) - Route 22 (18)
+9,West,20,18,East,0
+# Route 12 (156) - Route 8 (73)
+156,West,0,73,East,37
+# Route 10 (58) - Route 8 (73)
+58,South,0,73,North,8
+# Lavender Town (59) - Route 8 (73)
+59,West,0,73,East,0
+# Saffron City (98) - Route 8 (73)
+98,East,25,73,West,0
+# Route 3 (20) - Route 4 (24)
+20,East,4,24,West,0
+# Indigo Plateau (185) - Route 4 (24)
+185,South,294,24,North,0
+# Cerulean City (26) - Route 4 (24)
+26,West,1,24,East,0
+# Lavender Town (59) - Route 12 (156)
+59,South,0,156,North,0
+# Route 12 (54) - Route 12 (156)
+54,North,0,156,South,4
+# Route 11 (52) - Pallet Town (2)
+52,South,0,2,North,326
+# Route 1 (3) - Pallet Town (2)
+3,South,28,2,North,0
+# Route 21 (163) - Pallet Town (2)
+163,North,0,2,South,0
+# Route 20 (174) - Pallet Town (2)
+174,West,0,2,East,123
+# Route 12 (54) - Pallet Town (2)
+54,South,0,2,North,386
+# Indigo Plateau (185) - Route 23 (184)
+185,South,0,184,North,0
+# Route 11 (52) - Vermilion City (41)
+52,West,7,41,East,0
+# Naval Rock (295) - Vermilion City (41)
+295,East,0,41,West,0
+# Route 12 (54) - Route 11 (52)
+54,West,12,52,East,0
+# Route 18 (130) - Route 17 (129)
+130,North,0,129,South,1
+# Route 20 (174) - Route 1 (3)
+174,West,0,3,East,184
+# Viridian City (9) - Route 1 (3)
+9,South,0,3,North,0
+# Lavender Town (59) - Route 10 (58)
+59,North,0,58,South,61
+# Cerulean City (26) - Route 24 (31)
+26,North,22,31,South,0
+# Route 25 (32) - Route 24 (31)
+32,South,1,31,North,0
+# Pewter City (15) - Route 3 (20)
+15,East,23,20,West,0
+# Route 20 (174) - Route 21 (163)
+174,West,0,163,East,95
+# Viridian City (9) - Route 20 (174)
+9,East,246,174,West,0
+# Route 19 (175) - Route 20 (174)
+175,West,31,174,East,0
+# Route 127 (303) - Route 126 (302)
+303,West,0,302,East,0
+# Route 128 (304) - Route 126 (302)
+304,North,0,302,South,79
+# Mossdeep City (249) - Route 126 (302)
+249,West,40,302,East,0
+# Route 124 (300) - Route 126 (302)
+300,South,0,302,North,0
+# Lilycove City (234) - Route 126 (302)
+234,East,67,302,West,0
+# Route 122 (293) - Route 121 (291)
+293,North,0,291,South,10
+# Lilycove City (234) - Route 121 (291)
+234,West,3,291,East,0
+# Route 120 (290) - Route 121 (291)
+290,East,75,291,West,0
+# Route 119 (289) - Fortree City (247)
+289,East,0,247,West,1
+# Route 120 (290) - Fortree City (247)
+290,West,0,247,East,5
+# Mauville City (250) - Route 110 (280)
+250,South,2,280,North,0
+# Route 103 (273) - Route 110 (280)
+273,East,0,280,West,45
+# Route 131 (307) - Route 132 (308)
+307,West,5,308,East,0
+# Route 128 (304) - Ever Grande City (242)
+304,East,0,242,West,42
+# Water 108/109 (278) - Route 116 (286)
+278,West,0,286,East,227
+# Rustboro city (240) - Route 116 (286)
+240,East,0,286,West,0
+# Route 115 (285) - Route 116 (286)
+285,South,43,286,North,0
+# Route 106 (276) - Route 105 (275)
+276,North,0,275,South,2
+# Route 104 (274) - Route 105 (275)
+274,South,0,275,North,0
+# Route 128 (304) - Route 127 (303)
+304,North,1,303,South,0
+# Mossdeep City (249) - Route 127 (303)
+249,South,0,303,North,0
+# Route 124 (300) - Route 127 (303)
+300,East,80,303,West,0
+# Slateport City (248) - Route 111 (281)
+248,East,0,281,West,296
+# Route 117 (287) - Route 111 (281)
+287,East,0,281,West,138
+# Route 118 (288) - Route 111 (281)
+288,North,0,281,South,40
+# Route 113 (283) - Route 111 (281)
+283,East,3,281,West,0
+# Mauville City (250) - Route 111 (281)
+250,North,0,281,South,0
+# Water 108/109 (278) - Route 111 (281)
+278,East,0,281,West,352
+# Mauville City (250) - Slateport City (248)
+250,West,156,248,East,0
+# Water 108/109 (278) - Slateport City (248)
+278,North,26,248,South,0
+# Route 134 (310) - Route 133 (309)
+310,East,0,309,West,1
+# Mauville City (250) - Route 117 (287)
+250,West,0,287,East,2
+# Route 106 (276) - Dewford Town (243)
+276,South,52,243,North,0
+# Route 107 (277) - Dewford Town (243)
+277,West,0,243,East,0
+# Route 107 (277) - Route 106 (276)
+277,West,0,276,East,20
+# Route 101 (271) - Petalburg City (232)
+271,North,0,232,South,79
+# Route 102 (272) - Petalburg City (232)
+272,West,0,232,East,0
+# Route 104 (274) - Petalburg City (232)
+274,East,48,232,West,0
+# Route 129 (305) - Route 128 (304)
+305,North,0,304,South,2
+# Route 124 (300) - Mossdeep City (249)
+300,East,40,249,West,0
+# Route 125 (301) - Mossdeep City (249)
+301,South,0,249,North,1
+# Route 123 (299) - Route 122 (293)
+299,North,95,293,South,0
+# Lavaridge Town (244) - Route 112 (282)
+244,East,0,282,West,35
+# Route 113 (283) - Route 112 (282)
+283,South,63,282,North,0
+# Route 102 (272) - Route 101 (271)
+272,South,43,271,North,0
+# Oldale Town (251) - Route 101 (271)
+251,South,0,271,North,7
+# Littleroot Town (246) - Route 101 (271)
+246,North,0,271,South,0
+# Route 104 (274) - Route 134 (310)
+274,South,281,310,North,0
+# Mauville City (250) - Route 118 (288)
+250,East,0,288,West,0
+# Route 119 (289) - Route 118 (288)
+289,South,0,288,North,40
+# Water 108/109 (278) - Route 107 (277)
+278,West,13,277,East,0
+# Route 130 (306) - Route 129 (305)
+306,East,0,305,West,3
+# Mauville City (250) - Route 113 (283)
+250,West,0,283,East,143
+# Fallarbor Town (245) - Route 113 (283)
+245,East,1,283,West,0
+# Route 119 (289) - Mauville City (250)
+289,South,0,250,North,80
+# Water 108/109 (278) - Mauville City (250)
+278,East,0,250,West,212
+# Oldale Town (251) - Route 102 (272)
+251,West,0,272,East,14
+# Lilycove City (234) - Route 124 (300)
+234,East,0,300,West,13
+# Route 114 (284) - Fallarbor Town (245)
+284,East,0,245,West,2
+# Route 125 (301) - Route 130 (306)
+301,West,203,306,East,0
+# Route 131 (307) - Route 130 (306)
+307,East,2,306,West,0
+# Route 104 (274) - Route 114 (284)
+274,East,0,284,West,187
+# Route 115 (285) - Rustboro city (240)
+285,South,3,240,North,0
+# Route 104 (274) - Rustboro city (240)
+274,North,2,240,South,0
+# Oldale Town (251) - Route 103 (273)
+251,North,0,273,South,20

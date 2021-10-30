@@ -1,0 +1,1776 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[000]
+PlayerA = PkMnTRAINER_Male,trchar000.png,128.PNG,trchar000.png,trchar000.png,trchar000.png,trchar000.png,trchar000.png
+PlayerB = PkMnTRAINER_Female,trchar001.png,128.PNG,trchar001.png,trchar001.png,trchar001.png,trchar001.png,trchar001.png
+TrainerVictoryME = Victory - Trainer.mid
+WildVictoryME = Victory - Wild Pokemon.mid
+TrainerBattleBGM = 210 - Vs. Kanto Trainer.mp3
+SurfBGM = 008 - Surfing.mp3
+BicycleBGM = 007 - Bicycle.mp3
+WildCaptureME = BW_captured.wav
+Home = 43,7,7,6
+WildBattleBGM = 209 - Vs. Wild Kanto Pokémon.mp3
+#-------------------------------
+[001]
+# Routes
+Bicycle = true
+MapPosition = 0,10,3
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[002]
+# Pallet Town
+SnapEdges = false
+MapPosition = 0,6,15
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[003]
+# Route 1
+BattleBack = 
+MapPosition = 0,13,12
+Outdoor = true
+Environment = TallGrass
+ShowArea = true
+#-------------------------------
+[004]
+# Towns
+Outdoor = false
+ShowArea = false
+#-------------------------------
+[005]
+# Oak's Lab
+Outdoor = false
+ShowArea = false
+#-------------------------------
+[006]
+# \PN's Home
+Outdoor = false
+HealingSpot = 6,4,7
+#-------------------------------
+[007]
+# \PN's Home
+MapSize = 2,11
+MapPosition = 0,13,10
+Outdoor = false
+ShowArea = false
+#-------------------------------
+[008]
+# Daisy's House
+MapPosition = 0,10,2
+Outdoor = false
+#-------------------------------
+[009]
+# Viridian City
+SnapEdges = false
+MapPosition = 0,6,11
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[010]
+# Pokemon Center
+BattleBack = IndoorB
+MapPosition = 0,13,10
+Outdoor = false
+HealingSpot = 10,9,8
+#-------------------------------
+[011]
+# Tournament Lobby
+Outdoor = false
+#-------------------------------
+[012]
+# Route 2
+MapPosition = 0,13,8
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[013]
+# House
+Outdoor = false
+#-------------------------------
+[014]
+# Viridian Forest
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[015]
+# Pewter City
+SnapEdges = false
+MapPosition = 0,6,7
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[016]
+# Pokemon Center
+MapPosition = 0,10,6
+Outdoor = false
+#-------------------------------
+[017]
+# Gym
+BattleBack = city
+Bicycle = false
+MapPosition = 0,10,5
+Outdoor = false
+BicycleAlways = false
+Environment = Cave
+ShowArea = true
+#-------------------------------
+[018]
+# Route 22
+MapPosition = 0,9,10
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[019]
+# PokeMart
+MapPosition = 0,10,7
+Outdoor = false
+#-------------------------------
+[020]
+# Route 3
+MapPosition = 0,16,5
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[021]
+# Mt. Moon 1F
+MapSize = 1,11
+MapPosition = 0,14,8
+Outdoor = false
+ShowArea = true
+#-------------------------------
+[022]
+# Mt. Moon B1F
+#-------------------------------
+[023]
+# Mt. Moon B2F
+MapPosition = 0,15,8
+Outdoor = false
+ShowArea = true
+#-------------------------------
+[024]
+# Route 4
+MapPosition = 0,20,5
+Outdoor = true
+HealingSpot = 51,8,12
+ShowArea = true
+#-------------------------------
+[025]
+# Sycamore's Lab
+MapPosition = 0,15,8
+#-------------------------------
+[026]
+# Cerulean City
+SnapEdges = false
+MapPosition = 0,23,5
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[027]
+# Cerulean Gym
+BattleBack = city
+MapPosition = 0,15,8
+Environment = StillWater
+#-------------------------------
+[028]
+# House
+BattleBack = Forest
+MapPosition = 0,16,8
+Outdoor = false
+ShowArea = false
+#-------------------------------
+[029]
+# Pokemon Center
+Bicycle = true
+MapPosition = 0,16,8
+HealingSpot = 29,9,8
+#-------------------------------
+[030]
+# PokeMart
+MapPosition = 0,16,8
+#-------------------------------
+[031]
+# Route 24
+MapSize = 2,1101
+MapPosition = 0,24,3
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[032]
+# Route 25
+MapPosition = 0,27,2
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[033]
+# Bill's Cottage
+#-------------------------------
+[034]
+# Route 5
+BattleBack = IndoorC
+Bicycle = true
+MapPosition = 0,23,7
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[035]
+# Daycare
+Outdoor = false
+BicycleAlways = false
+ShowArea = false
+#-------------------------------
+[036]
+# Underground Pass Entrance
+Outdoor = false
+ShowArea = false
+#-------------------------------
+[037]
+# Route 5 -> Saffron
+BattleBack = EliteA
+Outdoor = false
+#-------------------------------
+[038]
+# Underground Pass
+Outdoor = false
+#-------------------------------
+[039]
+# Route 6
+MapSize = 2,11
+MapPosition = 0,23,10
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[040]
+# Underground Pass Entrance
+Outdoor = false
+BicycleAlways = false
+ShowArea = false
+#-------------------------------
+[041]
+# Vermillion City
+MapSize = 1,111
+SnapEdges = false
+Bicycle = true
+MapPosition = 0,23,12
+Outdoor = true
+BicycleAlways = false
+ShowArea = true
+#-------------------------------
+[042]
+# Rest House
+Bicycle = true
+MapPosition = 0,4,8
+Outdoor = false
+ShowArea = true
+#-------------------------------
+[043]
+# Intro
+Bicycle = false
+MapPosition = 0,4,8
+Outdoor = false
+BicycleAlways = false
+ShowArea = false
+#-------------------------------
+[044]
+# Pokemon Center
+MapSize = 2,11
+Outdoor = false
+HealingSpot = 44,8,8
+ShowArea = false
+#-------------------------------
+[045]
+# Pokemon Center
+Outdoor = false
+BicycleAlways = false
+ShowArea = false
+#-------------------------------
+[046]
+# PokeMart
+Bicycle = false
+Outdoor = false
+#-------------------------------
+[047]
+# Gym
+MapSize = 2,11
+BattleBack = city
+Outdoor = false
+Environment = None
+ShowArea = false
+#-------------------------------
+[048]
+# Pokemon Fan Club
+Bicycle = false
+MapPosition = 0,4,8
+Outdoor = false
+BicycleAlways = false
+ShowArea = false
+#-------------------------------
+[049]
+# Fishing
+Bicycle = false
+Outdoor = false
+#-------------------------------
+[050]
+# Bike Shop
+BattleBack = CaveDark
+Bicycle = false
+DarkMap = false
+Outdoor = false
+#-------------------------------
+[051]
+# SS. Anne
+Bicycle = false
+Dungeon = false
+Outdoor = false
+ShowArea = false
+#-------------------------------
+[052]
+# Route 11
+Bicycle = true
+MapPosition = 0,26,11
+Outdoor = true
+BicycleAlways = false
+ShowArea = true
+#-------------------------------
+[053]
+# Route 11 -> Route 12
+Outdoor = false
+#-------------------------------
+[054]
+# Route 12
+MapPosition = 0,28,12
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[055]
+# Diglett's Cave
+Outdoor = false
+#-------------------------------
+[056]
+# Route 9
+BattleBack = EliteA
+MapPosition = 0,26,6
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[057]
+# Museum
+Outdoor = false
+#-------------------------------
+[058]
+# Route 10
+MapPosition = 0,28,8
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[059]
+# Lavender Town
+SnapEdges = false
+BattleBack = IndoorC
+MapPosition = 0,28,9
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[060]
+# Pokemon Center
+Outdoor = false
+#-------------------------------
+[061]
+# PokeMart
+BattleBack = EliteB
+Outdoor = false
+#-------------------------------
+[062]
+# Rock Tunnel 1F
+Outdoor = false
+#-------------------------------
+[063]
+# Rock Tunnel B1F
+Outdoor = false
+#-------------------------------
+[064]
+# Pokemon Tower 1F
+BattleBack = EliteC
+Outdoor = false
+#-------------------------------
+[065]
+# Pokemon Tower 2F
+Bicycle = true
+MapPosition = 0,13,5
+Outdoor = false
+ShowArea = true
+#-------------------------------
+[066]
+# Pokemon Tower 3F
+Outdoor = false
+ShowArea = true
+#-------------------------------
+[067]
+# Pokemon Tower 4F
+Outdoor = false
+ShowArea = true
+#-------------------------------
+[068]
+# Pokemon Tower 5F
+BattleBack = Forest
+SafariMap = true
+Outdoor = false
+ShowArea = true
+#-------------------------------
+[069]
+# Pokemon Tower 6F
+DiveMap = 70
+Outdoor = false
+ShowArea = true
+#-------------------------------
+[070]
+# Pokemon Tower 7F
+Outdoor = false
+ShowArea = true
+#-------------------------------
+[071]
+# Volunteer Pokemon House
+Outdoor = false
+#-------------------------------
+[072]
+# Name Rater
+Weather = Storm,50
+MapPosition = 0,2,3
+Outdoor = false
+ShowArea = true
+#-------------------------------
+[073]
+# Route 8
+Outdoor = true
+ShowArea = false
+#-------------------------------
+[074]
+# Route 8 -> Saffron
+Bicycle = true
+Outdoor = false
+#-------------------------------
+[075]
+# Underground Pass Entrance
+Outdoor = false
+#-------------------------------
+[076]
+# Underground Pass
+Bicycle = false
+MapPosition = 0,4,8
+Outdoor = false
+BicycleAlways = false
+ShowArea = false
+#-------------------------------
+[077]
+# Underground Pass Entrance
+Bicycle = false
+MapPosition = 0,4,8
+Outdoor = false
+BicycleAlways = false
+ShowArea = true
+#-------------------------------
+[078]
+# Route 7
+Bicycle = true
+MapPosition = 0,21,9
+Outdoor = true
+BicycleAlways = false
+ShowArea = true
+#-------------------------------
+[079]
+# Route 7 -> Saffron
+Bicycle = true
+MapPosition = 0,4,6
+Outdoor = true
+BicycleAlways = false
+ShowArea = true
+#-------------------------------
+[080]
+# Celadon City
+SnapEdges = false
+MapPosition = 0,19,10
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[081]
+# Pokemon Center
+Bicycle = false
+MapPosition = 0,4,6
+Outdoor = false
+BicycleAlways = false
+ShowArea = false
+#-------------------------------
+[082]
+# Department Store 1F
+Bicycle = false
+MapPosition = 0,4,6
+Outdoor = false
+BicycleAlways = false
+ShowArea = true
+#-------------------------------
+[083]
+# Department Store 2F
+Bicycle = false
+MapPosition = 0,4,6
+Outdoor = false
+BicycleAlways = false
+ShowArea = false
+#-------------------------------
+[084]
+# Department Store 3F
+Bicycle = false
+MapPosition = 0,4,6
+Outdoor = false
+BicycleAlways = false
+ShowArea = false
+#-------------------------------
+[085]
+# Department Store 4F
+Bicycle = false
+MapPosition = 0,4,7
+Outdoor = false
+BicycleAlways = false
+ShowArea = false
+#-------------------------------
+[086]
+# Department Store 5F
+Bicycle = true
+MapPosition = 0,4,6
+Outdoor = false
+BicycleAlways = false
+ShowArea = false
+#-------------------------------
+[087]
+# Department Store Roof
+Bicycle = true
+MapPosition = 0,4,5
+Outdoor = true
+BicycleAlways = false
+ShowArea = true
+#-------------------------------
+[088]
+# Celadon Mansion
+Bicycle = true
+MapPosition = 0,4,5
+Outdoor = false
+BicycleAlways = false
+ShowArea = false
+#-------------------------------
+[089]
+# Game Corner
+Bicycle = true
+MapPosition = 0,4,5
+Outdoor = false
+BicycleAlways = false
+ShowArea = false
+#-------------------------------
+[090]
+# Prize Corner
+Bicycle = true
+MapPosition = 0,4,6
+Outdoor = false
+BicycleAlways = false
+ShowArea = true
+#-------------------------------
+[091]
+# Rocket Hideout B1F
+Bicycle = true
+MapPosition = 0,4,4
+Outdoor = false
+BicycleAlways = false
+ShowArea = true
+#-------------------------------
+[092]
+# Rocket Hideout B2F
+Bicycle = false
+MapPosition = 0,4,5
+Outdoor = false
+BicycleAlways = false
+ShowArea = false
+#-------------------------------
+[093]
+# Rocket Hideout B3F
+#-------------------------------
+[094]
+# Rocket Hideout B4F
+Bicycle = false
+MapPosition = 0,4,4
+Outdoor = false
+BicycleAlways = false
+ShowArea = false
+#-------------------------------
+[095]
+# Gym
+BattleBack = city
+Bicycle = false
+MapPosition = 0,4,4
+Outdoor = false
+BicycleAlways = false
+Environment = Grass
+ShowArea = false
+#-------------------------------
+[096]
+# Route 6 -> Saffron
+BattleBack = IndoorA
+Bicycle = false
+TrainerBattleBGM = VS Johto Gym Leader.mp3
+MapPosition = 0,4,4
+Outdoor = false
+BicycleAlways = false
+ShowArea = false
+#-------------------------------
+[097]
+# Pokemon Center
+MapPosition = 0,4,4
+Outdoor = false
+ShowArea = false
+#-------------------------------
+[098]
+# Saffron City
+SnapEdges = false
+MapPosition = 0,23,8
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[099]
+# PokeMart
+Outdoor = false
+#-------------------------------
+[100]
+# Mr. Psychic's House
+#-------------------------------
+[101]
+# Copycat's House
+Bicycle = true
+MapPosition = 0,6,4
+Outdoor = false
+BicycleAlways = false
+ShowArea = true
+#-------------------------------
+[102]
+# Fighting Dojo
+Bicycle = false
+MapPosition = 0,7,3
+Outdoor = false
+BicycleAlways = false
+ShowArea = true
+#-------------------------------
+[103]
+# Gym
+BattleBack = city
+Environment = None
+#-------------------------------
+[104]
+# Silph Co. 1F
+#-------------------------------
+[105]
+# Gatehouse
+#-------------------------------
+[106]
+# Gatehouse
+Bicycle = true
+MapPosition = 0,8,3
+Outdoor = true
+BicycleAlways = false
+ShowArea = true
+#-------------------------------
+[107]
+# Mine
+Dungeon = true
+Outdoor = false
+#-------------------------------
+[108]
+# House
+Outdoor = false
+#-------------------------------
+[109]
+# House
+Outdoor = false
+#-------------------------------
+[110]
+# House
+Outdoor = false
+#-------------------------------
+[111]
+# House
+Bicycle = true
+MapPosition = 0,8,5
+Outdoor = false
+ShowArea = false
+#-------------------------------
+[112]
+# Safari Entrance
+SafariMap = true
+Outdoor = true
+#-------------------------------
+[113]
+# Silph Co. 3F
+Outdoor = false
+#-------------------------------
+[114]
+# Lift
+Outdoor = false
+#-------------------------------
+[115]
+# Lift
+Outdoor = false
+#-------------------------------
+[116]
+# Silph Co. 2F
+Outdoor = false
+#-------------------------------
+[117]
+# Silph Co. 4F
+Outdoor = false
+#-------------------------------
+[118]
+# Silph Co. 5F
+Bicycle = false
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[119]
+# Silph Co. 6F
+Bicycle = true
+MapPosition = 0,9,9
+Outdoor = false
+ShowArea = true
+#-------------------------------
+[120]
+# Silph Co. 7F
+Bicycle = false
+Outdoor = false
+ShowArea = true
+#-------------------------------
+[121]
+# Silph Co. 8F
+Outdoor = false
+#-------------------------------
+[122]
+# Silph Co. 9F
+Outdoor = false
+#-------------------------------
+[123]
+# Silph Co. 10F
+Outdoor = false
+#-------------------------------
+[124]
+# Silph Co. 11F
+Outdoor = false
+#-------------------------------
+[125]
+# Restaurant
+Outdoor = false
+#-------------------------------
+[126]
+# Route 16
+MapPosition = 0,17,10
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[127]
+# House
+Outdoor = false
+#-------------------------------
+[128]
+# Mt. Moon B3F
+Outdoor = false
+#-------------------------------
+[129]
+# Route 17
+Bicycle = true
+MapPosition = 0,16,13
+Outdoor = true
+BicycleAlways = true
+ShowArea = true
+#-------------------------------
+[130]
+# Route 18
+MapPosition = 0,17,16
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[131]
+# House
+Outdoor = false
+#-------------------------------
+[132]
+# Kitchen
+#-------------------------------
+[133]
+# Fuchsia City
+SnapEdges = false
+MapPosition = 0,20,16
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[134]
+# Safari
+Bicycle = false
+SafariMap = true
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[135]
+# SnowPoint
+SafariMap = true
+Outdoor = true
+#-------------------------------
+[136]
+# Volcano
+SafariMap = true
+Outdoor = false
+#-------------------------------
+[137]
+# PokeMart
+SafariMap = true
+Outdoor = false
+#-------------------------------
+[138]
+# Fishing Guru's House
+SafariMap = true
+Outdoor = false
+#-------------------------------
+[139]
+# Safari Warden House
+SafariMap = true
+Outdoor = false
+#-------------------------------
+[140]
+# Route 18
+Outdoor = false
+ShowArea = true
+#-------------------------------
+[141]
+# Entrance
+Outdoor = false
+ShowArea = true
+#-------------------------------
+[142]
+# Safari Area 1
+Bicycle = true
+SafariMap = true
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[143]
+# Safari Area 2
+SafariMap = true
+DarkMap = false
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[144]
+# Safari Area 3
+MapPosition = 0,13,4
+SafariMap = true
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[145]
+# Secret House
+MapPosition = 0,6,7
+Outdoor = false
+BicycleAlways = false
+ShowArea = true
+#-------------------------------
+[146]
+# Rest House
+Outdoor = false
+#-------------------------------
+[147]
+# Rest House
+MapPosition = 0,6,10
+Outdoor = false
+#-------------------------------
+[148]
+# Rest House
+Bicycle = false
+MapPosition = 0,2,6
+Outdoor = false
+ShowArea = true
+#-------------------------------
+[149]
+# Tournament Lobby
+Bicycle = false
+MapPosition = 0,2,4
+Outdoor = false
+ShowArea = true
+#-------------------------------
+[150]
+# Blank
+MapPosition = 0,0,9
+Outdoor = false
+ShowArea = true
+#-------------------------------
+[151]
+# Blank
+Bicycle = true
+MapPosition = 0,9,5
+Outdoor = false
+ShowArea = true
+#-------------------------------
+[152]
+# Blank
+Bicycle = true
+MapPosition = 0,11,5
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[153]
+# Route 15
+Bicycle = true
+MapPosition = 0,22,16
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[154]
+# Route 14
+Bicycle = true
+MapPosition = 0,25,16
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[155]
+# Route 13
+Bicycle = true
+MapPosition = 0,26,14
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[156]
+# Route 12
+MapPosition = 0,28,11
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[157]
+# Route 15
+Bicycle = false
+Outdoor = false
+ShowArea = false
+#-------------------------------
+[158]
+# Fisherman's House
+Outdoor = false
+ShowArea = false
+#-------------------------------
+[159]
+# Power Plant
+Bicycle = false
+MapPosition = 0,13,7
+Outdoor = false
+ShowArea = true
+#-------------------------------
+[160]
+# Cinnabar Island
+SnapEdges = false
+Bicycle = true
+MapPosition = 0,12,18
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[161]
+# Fill
+Bicycle = true
+MapPosition = 0,11,9
+Outdoor = false
+ShowArea = true
+#-------------------------------
+[162]
+# Gym
+BattleBack = city
+Bicycle = true
+MapPosition = 0,10,9
+Outdoor = false
+ShowArea = true
+#-------------------------------
+[163]
+# Route 21
+MapPosition = 0,12,15
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[164]
+# SS. Anne B1
+MapPosition = 0,7,5
+Outdoor = false
+BicycleAlways = false
+#-------------------------------
+[165]
+# Volcano 2
+#-------------------------------
+[166]
+# Lab
+Outdoor = false
+BicycleAlways = false
+ShowArea = true
+#-------------------------------
+[167]
+# Pokemon Mansion 1F
+#-------------------------------
+[168]
+# Pokemon Mansion 2F
+Bicycle = true
+MapPosition = 0,9,10
+Outdoor = false
+ShowArea = true
+#-------------------------------
+[169]
+# Pokemon Mansion 3F
+MapPosition = 0,7,10
+Outdoor = false
+ShowArea = true
+#-------------------------------
+[170]
+# Pokemon Mansion B1F
+MapPosition = 0,4,9
+Outdoor = false
+ShowArea = true
+#-------------------------------
+[171]
+# Pokemon Mansion
+Bicycle = true
+MapPosition = 0,3,6
+Outdoor = false
+ShowArea = true
+#-------------------------------
+[172]
+# Gym
+BattleBack = city
+Bicycle = false
+MapPosition = 0,2,5
+Outdoor = false
+Environment = Volcano
+ShowArea = true
+#-------------------------------
+[173]
+# Gym
+BattleBack = city
+Bicycle = false
+MapPosition = 0,2,7
+Outdoor = false
+ShowArea = true
+#-------------------------------
+[174]
+# Route 20
+Bicycle = true
+MapPosition = 0,17,18
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[175]
+# Route 19
+Bicycle = true
+MapPosition = 0,19,18
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[176]
+# Seafoam Islands
+Outdoor = false
+ShowArea = true
+#-------------------------------
+[177]
+# Seafoam Island 1F
+Outdoor = false
+#-------------------------------
+[178]
+# Seafoam Island B1F
+#-------------------------------
+[179]
+# Seafoam Island B2F
+Outdoor = false
+#-------------------------------
+[180]
+# Seafoam Island B3F
+Outdoor = false
+#-------------------------------
+[181]
+# Seafoam Island B4F
+Bicycle = true
+MapPosition = 1,14,10
+Outdoor = false
+ShowArea = true
+#-------------------------------
+[182]
+# Seafoam Island 1F
+Outdoor = false
+#-------------------------------
+[183]
+# Pokémon League Reception Gate
+Outdoor = false
+#-------------------------------
+[184]
+# Route 23
+MapPosition = 0,7,10
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[185]
+# Indigo Plateau
+MapPosition = 0,7,8
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[186]
+# Victory Road
+Outdoor = false
+#-------------------------------
+[187]
+# Victory Road 1F
+Outdoor = false
+#-------------------------------
+[188]
+# Victory Road 2F
+Bicycle = true
+MapPosition = 1,12,10
+Outdoor = false
+ShowArea = true
+#-------------------------------
+[189]
+# Victory Road 3F
+Bicycle = true
+MapPosition = 1,10,10
+Outdoor = false
+WildBattleBGM = VS Johto Wild.mp3
+ShowArea = true
+#-------------------------------
+[190]
+# Indigo Plateau
+Bicycle = false
+Outdoor = false
+ShowArea = false
+#-------------------------------
+[191]
+# Room 1
+Bicycle = false
+Outdoor = false
+ShowArea = false
+#-------------------------------
+[192]
+# Room 2
+Bicycle = false
+Outdoor = false
+ShowArea = false
+#-------------------------------
+[193]
+# Room 3
+Bicycle = false
+Outdoor = false
+ShowArea = false
+#-------------------------------
+[194]
+# Room 4
+Bicycle = true
+TrainerBattleBGM = VS Johto Trainer.mp3
+MapPosition = 1,10,7
+Outdoor = false
+WildBattleBGM = VS Johto Wild.mp3
+ShowArea = true
+#-------------------------------
+[195]
+# Room 5
+Outdoor = false
+#-------------------------------
+[197]
+# Hall Of Fame
+Bicycle = true
+TrainerBattleBGM = VS Johto Trainer.mp3
+MapPosition = 1,10,5
+Outdoor = false
+WildBattleBGM = VS Johto Wild.mp3
+ShowArea = true
+#-------------------------------
+[199]
+# Pokemon Center
+Outdoor = false
+#-------------------------------
+[200]
+# SS. Anne 2F
+Bicycle = true
+MapPosition = 1,9,5
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[201]
+# Tournament
+Outdoor = false
+#-------------------------------
+[202]
+# Cerulean Cave B1F
+Outdoor = false
+ShowArea = true
+#-------------------------------
+[203]
+# Cerulean Cave 2F
+Outdoor = false
+ShowArea = true
+#-------------------------------
+[204]
+# Cerulean Cave 1F
+Outdoor = false
+ShowArea = true
+#-------------------------------
+[205]
+# Disortion
+Outdoor = false
+#-------------------------------
+[206]
+# Tournament
+Bicycle = true
+TrainerBattleBGM = VS Johto Trainer.mp3
+MapPosition = 1,9,9
+Outdoor = false
+WildBattleBGM = VS Johto Wild.mp3
+ShowArea = false
+#-------------------------------
+[207]
+# Gym
+BattleBack = IndoorC
+Outdoor = false
+#-------------------------------
+[208]
+# Sinnoh
+Bicycle = false
+Outdoor = false
+WildBattleBGM = VS Johto Trainer.mp3
+ShowArea = true
+#-------------------------------
+[209]
+# Temple
+Bicycle = true
+MapPosition = 1,8,12
+Outdoor = false
+ShowArea = true
+#-------------------------------
+[210]
+# PokeMart
+Bicycle = true
+MapPosition = 1,7,12
+Outdoor = false
+ShowArea = true
+#-------------------------------
+[211]
+# Mystery Cave
+Outdoor = false
+#-------------------------------
+[212]
+# Pokemon Center
+Outdoor = false
+#-------------------------------
+[213]
+# Temple
+Outdoor = false
+#-------------------------------
+[214]
+# Delta
+Outdoor = true
+#-------------------------------
+[215]
+# Gym
+SnapEdges = true
+BattleBack = IndoorC
+Outdoor = false
+#-------------------------------
+[216]
+# Gym
+BattleBack = IndoorC
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[217]
+# Hoenn
+Bicycle = true
+MapPosition = 1,5,11
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[218]
+# Rustboro GYM
+BattleBack = IndoorC
+Outdoor = true
+#-------------------------------
+[219]
+# Dewford GYM
+BattleBack = IndoorC
+Outdoor = true
+#-------------------------------
+[220]
+# Towns
+Bicycle = true
+MapPosition = 1,5,10
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[221]
+# Route
+Bicycle = true
+MapPosition = 1,5,8
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[222]
+# Mauville GYM
+BattleBack = IndoorC
+Outdoor = true
+#-------------------------------
+[223]
+# Lavaridge GYM 1F
+BattleBack = IndoorC
+Outdoor = true
+#-------------------------------
+[224]
+# Fortree GYM
+BattleBack = IndoorC
+Outdoor = true
+#-------------------------------
+[225]
+# Mossdeep GYM
+BattleBack = IndoorC
+Outdoor = true
+#-------------------------------
+[226]
+# Sootopolis GYM 1F
+BattleBack = IndoorC
+Outdoor = false
+#-------------------------------
+[227]
+# Pokemon Center
+Outdoor = false
+#-------------------------------
+[228]
+# Pokemon Center
+Outdoor = false
+#-------------------------------
+[229]
+# Pokemon Center
+Outdoor = false
+#-------------------------------
+[230]
+# Pokemon Center
+Outdoor = false
+#-------------------------------
+[231]
+# Pokemon Center
+Outdoor = false
+#-------------------------------
+[232]
+# Petalburg City
+Bicycle = true
+MapPosition = 1,5,7
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[234]
+# Lilycove City
+Bicycle = true
+MapPosition = 1,7,6
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[235]
+# SS. Anne
+Bicycle = true
+MapPosition = 1,7,5
+Outdoor = false
+ShowArea = false
+#-------------------------------
+[236]
+# Kitchen
+Bicycle = true
+MapPosition = 1,7,4
+Outdoor = false
+ShowArea = false
+#-------------------------------
+[237]
+# SS. Anne B1
+Outdoor = false
+#-------------------------------
+[238]
+# SS. Anne 2F
+Outdoor = false
+#-------------------------------
+[239]
+# SS. Anne Upper Deck
+Outdoor = false
+#-------------------------------
+[240]
+# Rustboro city
+Outdoor = false
+#-------------------------------
+[241]
+# Jagged Pass
+Outdoor = false
+#-------------------------------
+[242]
+# Ever Grande City
+Outdoor = false
+#-------------------------------
+[243]
+# Dewford Town
+Outdoor = true
+#-------------------------------
+[244]
+# Lavaridge Town
+DarkMap = false
+Outdoor = true
+#-------------------------------
+[245]
+# Fallarbor Town
+Outdoor = false
+#-------------------------------
+[246]
+# Littleroot Town
+Outdoor = false
+#-------------------------------
+[247]
+# Fortree City
+Outdoor = true
+#-------------------------------
+[248]
+# Slateport City
+Outdoor = false
+#-------------------------------
+[249]
+# Mossdeep City
+Bicycle = true
+MapPosition = 1,4,4
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[251]
+# Oldale Town
+Bicycle = true
+MapPosition = 1,2,4
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[252]
+# Verdanturf Town
+Bicycle = true
+MapPosition = 1,2,8
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[253]
+# Sootopolis City
+Outdoor = false
+#-------------------------------
+[254]
+# Pokemon Center
+Outdoor = true
+#-------------------------------
+[255]
+# Pokemon Center
+Outdoor = false
+#-------------------------------
+[256]
+# Pokemon Center
+Outdoor = false
+#-------------------------------
+[257]
+# Pokemon Center
+Outdoor = true
+#-------------------------------
+[262]
+# Pokemon Center
+Bicycle = true
+MapPosition = 1,1,9
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[263]
+# PokeMart
+Bicycle = true
+MapPosition = 1,2,9
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[264]
+# Birch Lab
+Bicycle = true
+MapPosition = 1,2,9
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[269]
+# PokeMart
+Outdoor = false
+#-------------------------------
+[270]
+# PokeMart
+Outdoor = false
+#-------------------------------
+[271]
+# Route 101
+Outdoor = false
+#-------------------------------
+[272]
+# Route 102
+Outdoor = false
+#-------------------------------
+[273]
+# Route 103
+Bicycle = true
+MapPosition = 1,9,4
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[274]
+# Route 104
+MapPosition = 1,8,3
+Outdoor = false
+ShowArea = true
+#-------------------------------
+[275]
+# Route 105
+Outdoor = true
+#-------------------------------
+[276]
+# Route 106
+Weather = Rain,70
+Bicycle = true
+MapPosition = 1,10,4
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[277]
+# Route 107
+Outdoor = true
+#-------------------------------
+[278]
+# Water 108/109
+Outdoor = true
+#-------------------------------
+[279]
+# Route 109
+Outdoor = false
+#-------------------------------
+[280]
+# Route 110
+Outdoor = false
+#-------------------------------
+[281]
+# Route 111
+Outdoor = false
+#-------------------------------
+[282]
+# Route 112
+Bicycle = true
+Dungeon = true
+MapPosition = 0,24,18
+Outdoor = false
+ShowArea = false
+#-------------------------------
+[283]
+# Route 113
+Weather = Storm,90
+Bicycle = true
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[285]
+# Route 115
+Bicycle = true
+MapPosition = 1,11,4
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[286]
+# Route 116
+MapPosition = 1,12,4
+Outdoor = false
+ShowArea = true
+#-------------------------------
+[287]
+# Route 117
+Bicycle = true
+MapPosition = 1,13,4
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[288]
+# Route 118
+Outdoor = false
+#-------------------------------
+[289]
+# Route 119
+Outdoor = false
+#-------------------------------
+[290]
+# Route 120
+Outdoor = true
+#-------------------------------
+[291]
+# Route 121
+Outdoor = false
+#-------------------------------
+[292]
+# Events
+Bicycle = true
+MapPosition = 1,13,6
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[293]
+# Route 122
+MapPosition = 1,13,9
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[295]
+# Naval Rock
+SnapEdges = false
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[297]
+# Mt.Silver
+#-------------------------------
+[298]
+# Galar Stadium
+#-------------------------------
+[299]
+# Route 123
+Outdoor = true
+#-------------------------------
+[304]
+# Route 128
+Outdoor = true
+#-------------------------------
+[309]
+# Route 133
+Outdoor = true
+#-------------------------------
+[317]
+# PokeMart
+Outdoor = true
+#-------------------------------
+[319]
+# PokeMart
+Outdoor = true
+#-------------------------------
+[325]
+# Department Store 4F
+Outdoor = true
+#-------------------------------
+[326]
+# Department Store 5F
+Outdoor = true
+#-------------------------------
+[328]
+# Game Corner
+Outdoor = true
+#-------------------------------
+[331]
+# Battle Dome
+Outdoor = false
+#-------------------------------
+[336]
+# Battle Frontier
+Outdoor = true
+#-------------------------------
+[337]
+# Battle Tower
+Outdoor = false
+#-------------------------------
+[338]
+# Battle Tower arena
+Outdoor = false
+#-------------------------------
+[339]
+# Stadium Cup lobby
+Outdoor = false
+#-------------------------------
+[340]
+# Battle Palace
+Outdoor = false
+#-------------------------------
+[341]
+# Battle Palace arena
+Outdoor = false
+#-------------------------------
+[342]
+# Battle Arena
+Outdoor = false
+#-------------------------------
+[343]
+# Battle Arena arena
+Outdoor = false
+#-------------------------------
+[344]
+# Battle Factory
+Outdoor = false
+#-------------------------------
+[345]
+# Battle Factory
+Outdoor = false
+#-------------------------------
+[346]
+# Battle Factory
+Outdoor = false
+#-------------------------------
+[347]
+# Battle Pike
+Outdoor = false
+#-------------------------------
+[348]
+# Battle Pike
+Outdoor = false
+#-------------------------------
+[349]
+# Battle Pike
+SnapEdges = true
+Dungeon = true
+Outdoor = false
+#-------------------------------
+[350]
+# Battle Pyramid
+SnapEdges = true
+Dungeon = true
+Outdoor = false
+#-------------------------------
+[351]
+# Pyramid
+Outdoor = true
+#-------------------------------
+[352]
+# Battle Dome
+Outdoor = false
+#-------------------------------
+[353]
+# Battle Dome
+Outdoor = false
+#-------------------------------
+[354]
+# Sinjoh Ruins
+Outdoor = true
+#-------------------------------
+[355]
+# Ruins
+Outdoor = false
+#-------------------------------
+[357]
+# Natural Park
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[358]
+# Natural Park Pavillion
+Outdoor = false
+#-------------------------------
+[365]
+# Tower Of Darkness
+#-------------------------------
+[387]
+# Police Station
+Outdoor = true
+#-------------------------------
+[457]
+# Pokemon Center
+HealingSpot = 457,9,8
+#-------------------------------
+[463]
+# New Island

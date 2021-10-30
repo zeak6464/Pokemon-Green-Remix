@@ -1,0 +1,3633 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[BOSS,Giovanni,1]
+Pokemon = ONIX,25
+    Moves = ROCKTHROW,BIND,RAGE,SCREECH
+    IV = 15
+Pokemon = RHYHORN,24
+    Moves = HORNATTACK
+    IV = 15
+Pokemon = PERSIAN,29
+    Moves = PAYDAY,SCRATCH,BITE,GROWL
+    IV = 15
+#-------------------------------
+[RIVAL,???]
+Pokemon = EEVEE,5
+    Moves = TACKLE,TAILWHIP
+    IV = 15
+#-------------------------------
+[BUGCATCHER,Michael]
+Pokemon = CATERPIE,7
+    Moves = TACKLE,STRINGSHOT
+Pokemon = CATERPIE,7
+    Moves = TACKLE,STRINGSHOT
+#-------------------------------
+[RIVAL,???,1]
+Pokemon = SPEAROW,9
+    Moves = PECK,GROWL,LEER
+    IV = 16
+Pokemon = EEVEE,8
+    Moves = TACKLE,TAILWHIP,SANDATTACK
+    IV = 17
+#-------------------------------
+[LASS,Nicole]
+Pokemon = NIDORANmA,6
+    Moves = LEER,PECK
+Pokemon = NIDORANfE,6
+    Moves = GROWL,SCRATCH
+#-------------------------------
+[BUGCATCHER,Thomas]
+Pokemon = METAPOD,6
+    Moves = HARDEN
+Pokemon = CATERPIE,6
+    Moves = TACKLE,STRINGSHOT
+Pokemon = METAPOD,6
+    Moves = HARDEN
+#-------------------------------
+[BUGCATCHER,Ronald]
+Pokemon = CATERPIE,8
+    Moves = TACKLE,STRINGSHOT
+Pokemon = METAPOD,8
+    Moves = HARDEN
+#-------------------------------
+[BUGCATCHER,Dale]
+Pokemon = CATERPIE,10
+    Moves = TACKLE,STRINGSHOT
+#-------------------------------
+[JRTRAINER_m,Liam]
+Pokemon = GEODUDE,9
+    Moves = TACKLE,DEFENSECURL,MUDSPORT,ROCKPOLISH
+Pokemon = SANDSHREW,9
+    Gender = male
+    Moves = POISONSTING,ROLLOUT,RAPIDSPIN,SWIFT
+#-------------------------------
+[LEADER_BROCK,Brock]
+Pokemon = GEODUDE,10
+    Moves = TACKLE
+    IV = 16
+Pokemon = ONIX,12
+    Moves = TACKLE,BIDE,SCREECH,BIND
+    IV = 16
+#-------------------------------
+[LASS,Jessica]
+Pokemon = PIDGEY,9
+Pokemon = PIDGEY,9
+#-------------------------------
+[BUGCATCHER,Michael,1]
+Pokemon = CATERPIE,10
+Pokemon = WEEDLE,10
+Pokemon = CATERPIE,10
+#-------------------------------
+[YOUNGSTER,Nick]
+Pokemon = RATTATA,11
+Pokemon = EKANS,11
+#-------------------------------
+[BUGCATCHER,Toby]
+Pokemon = WEEDLE,9
+Pokemon = KAKUNA,9
+Pokemon = CATERPIE,9
+Pokemon = METAPOD,9
+#-------------------------------
+[LASS,Claire]
+Pokemon = RATTATA,10
+Pokemon = NIDORANfE,10
+#-------------------------------
+[YOUNGSTER,Jason]
+Pokemon = SPEAROW,14
+#-------------------------------
+[BUGCATCHER,Rob]
+Pokemon = CATERPIE,11
+Pokemon = METAPOD,11
+#-------------------------------
+[LASS,Louise]
+Pokemon = JIGGLYPUFF,14
+#-------------------------------
+[TEAMROCKET_JJ,JJ]
+Pokemon = EKANS,14
+    Moves = LEER,POISONSTING,BITE,GLARE
+    IV = 16
+Pokemon = KOFFING,14
+    Moves = POISONGAS,TACKLE,SMOG,SMOKESCREEN
+    IV = 16
+Pokemon = MEOWTH,14
+    Moves = GROWL,BITE,FAKEOUT,FURYSWIPES
+    IV = 16
+#-------------------------------
+[BUGCATCHER,David]
+Pokemon = CATERPIE,10
+Pokemon = METAPOD,10
+Pokemon = CATERPIE,10
+#-------------------------------
+[LASS,Jade]
+Pokemon = ODDISH,11
+Pokemon = BELLSPROUT,11
+#-------------------------------
+[YOUNGSTER,Tommy]
+Pokemon = RATTATA,10
+Pokemon = RATTATA,10
+Pokemon = ZUBAT,10
+#-------------------------------
+[BUGCATCHER,Richard]
+Pokemon = WEEDLE,11
+Pokemon = KAKUNA,11
+#-------------------------------
+[HIKER,Jim]
+Pokemon = GEODUDE,10
+Pokemon = GEODUDE,10
+Pokemon = ONIX,10
+#-------------------------------
+[LASS,Terri]
+Pokemon = CLEFAIRY,14
+#-------------------------------
+[SUPERNERD,Martin]
+Pokemon = MAGNEMITE,11
+Pokemon = VOLTORB,11
+#-------------------------------
+[SUPERNERD,Ted]
+Pokemon = GRIMER,12
+Pokemon = VOLTORB,12
+Pokemon = KOFFING,12
+#-------------------------------
+[TEAMROCKET_Female,Grunt,1]
+Pokemon = RATTATA,13
+Pokemon = ZUBAT,13
+#-------------------------------
+[TEAMROCKET_Female,Grunt]
+Pokemon = SANDSHREW,11
+Pokemon = RATTATA,11
+Pokemon = ZUBAT,11
+#-------------------------------
+[TEAMROCKET_Female,Grunt,1]
+Pokemon = ZUBAT,12
+Pokemon = EKANS,12
+#-------------------------------
+[TEAMROCKET_Female,Grunt]
+Pokemon = RATTATA,13
+Pokemon = ZUBAT,13
+#-------------------------------
+[TEAMROCKET_Male,Grunt,2]
+Pokemon = RATTATA,13
+Pokemon = ZUBAT,13
+#-------------------------------
+[LASS,Donna]
+Pokemon = PARAS,31
+Pokemon = PARAS,31
+Pokemon = PARASECT,31
+#-------------------------------
+[LEADER_MISTY,Misty]
+Pokemon = STARYU,18
+    Moves = TACKLE,WATERGUN
+    IV = 16
+Pokemon = STARMIE,21
+    Moves = TACKLE,WATERGUN,HARDEN,BUBBLEBEAM
+    IV = 16
+Pokemon = GYARADOS,22
+    Moves = HYDROPUMP,WATERFALL,TACKLE,SURF
+    IV = 16
+#-------------------------------
+[JRTRAINER_f,Jess]
+Pokemon = GOLDEEN,19
+#-------------------------------
+[SWIMMERmA,Tom]
+Pokemon = HORSEA,16
+Pokemon = SHELLDER,16
+#-------------------------------
+[BUGCATCHER,Tom]
+Pokemon = CATERPIE,14
+Pokemon = WEEDLE,14
+#-------------------------------
+[LASS,Gina]
+Pokemon = PIDGEY,14
+Pokemon = NIDORANfE,14
+#-------------------------------
+[YOUNGSTER,Grey]
+Pokemon = RATTATA,14
+Pokemon = EKANS,14
+Pokemon = ZUBAT,14
+#-------------------------------
+[LASS,Lucy]
+Pokemon = PIDGEY,16
+Pokemon = NIDORANfE,16
+#-------------------------------
+[JRTRAINER_m,Derek]
+Pokemon = MANKEY,18
+#-------------------------------
+[JRTRAINER_m,Reece]
+Pokemon = RATTATA,14
+Pokemon = EKANS,14
+#-------------------------------
+[TEAMROCKET_Male,Jamie]
+Pokemon = EKANS,15
+Pokemon = ZUBAT,15
+#-------------------------------
+[LASS,Abagail]
+Pokemon = ODDISH,13
+Pokemon = PIDGEY,13
+Pokemon = ODDISH,13
+#-------------------------------
+[JRTRAINER_m,Terry]
+Pokemon = EKANS,14
+Pokemon = SANDSHREW,14
+#-------------------------------
+[HIKER,Milo]
+Pokemon = GEODUDE,13
+Pokemon = GEODUDE,13
+Pokemon = MACHOP,13
+#-------------------------------
+[LASS,Jenny]
+Pokemon = NIDORANfE,15
+Pokemon = NIDORANfE,15
+Pokemon = NIDORANfE,15
+#-------------------------------
+[YOUNGSTER,Jerry]
+Pokemon = SLOWPOKE,17
+#-------------------------------
+[HIKER,Martin]
+Pokemon = ONIX,17
+#-------------------------------
+[YOUNGSTER,Jed]
+Pokemon = RATTATA,15
+Pokemon = SPEAROW,15
+#-------------------------------
+[HIKER,Craig]
+Pokemon = MACHOP,15
+Pokemon = GEODUDE,15
+#-------------------------------
+[RIVAL,???,2]
+Pokemon = SPEAROW,18
+    Moves = PECK,GROWL,LEER,FURYATTACK
+    IV = 16
+Pokemon = SANDSHREW,15
+    Moves = SCRATCH,SANDATTACK
+    IV = 16
+Pokemon = RATTATA,15
+    Moves = TACKLE,TAILWHIP,QUICKATTACK,HYPERFANG
+    IV = 16
+Pokemon = EEVEE,17
+    Moves = TACKLE,TAILWHIP,SANDATTACK
+    IV = 16
+#-------------------------------
+[BUGCATCHER,Joshua]
+Pokemon = WEEDLE,16
+Pokemon = CATERPIE,16
+Pokemon = WEEDLE,16
+#-------------------------------
+[JRTRAINER_m,Dylan]
+Pokemon = SQUIRTLE,20
+#-------------------------------
+[JRTRAINER_f,Chloe]
+Pokemon = RATTATA,16
+Pokemon = PIKACHU,16
+#-------------------------------
+[BUGCATCHER,Lewis]
+Pokemon = BUTTERFREE,20
+#-------------------------------
+[JRTRAINER_f,Megan]
+Pokemon = PIDGEY,16
+Pokemon = PIDGEY,16
+Pokemon = PIDGEY,16
+#-------------------------------
+[JRTRAINER_m,Jacob]
+Pokemon = SPEAROW,16
+Pokemon = RATICATE,16
+#-------------------------------
+[TEAMROCKET,Grunt,2]
+Pokemon = MACHOP,17
+Pokemon = DROWZEE,17
+#-------------------------------
+[RIVAL,???,3]
+Pokemon = SPEAROW,19
+    Moves = PECK,GROWL,LEER,FURYATTACK
+    IV = 16
+Pokemon = SANDSHREW,18
+    Moves = SCRATCH,SANDATTACK,SLASH
+    IV = 16
+Pokemon = RATTATA,16
+    Moves = TACKLE,TAILWHIP,QUICKATTACK,HYPERFANG
+    IV = 16
+Pokemon = EEVEE,17
+    Moves = TACKLE,TAILWHIP,SANDATTACK,GROWL
+    IV = 16
+#-------------------------------
+[LEADER_SURGE,Lt. Surge]
+Pokemon = RAICHU,28
+    Moves = THUNDERSHOCK,TAILWHIP,QUICKATTACK,THUNDERBOLT
+    IV = 19
+Pokemon = PIKACHU,28
+    Moves = THUNDERSHOCK,TAILWHIP,QUICKATTACK,THUNDERBOLT
+    IV = 19
+Pokemon = VOLTORB,28
+    Moves = THUNDERSHOCK,THUNDERBOLT,QUICKATTACK,THUNDERBOLT
+    IV = 19
+Pokemon = ELECTABUZZ,28
+    Moves = THUNDERSHOCK,THUNDER,THUNDERPUNCH,THUNDERBOLT
+    IV = 19
+#-------------------------------
+[GENTLEMAN,James]
+Pokemon = GROWLITHE,18
+Pokemon = GROWLITHE,18
+#-------------------------------
+[GENTLEMAN,Kyle]
+Pokemon = NIDORANfE,19
+Pokemon = NIDORANfE,19
+#-------------------------------
+[YOUNGSTER,Terrence]
+Pokemon = NIDORANfE,21
+#-------------------------------
+[JRTRAINER_f,Julie]
+Pokemon = PIDGEY,18
+Pokemon = NIDORANfE,18
+#-------------------------------
+[FISHERMAN,Kyle]
+Pokemon = GOLDEEN,17
+Pokemon = TENTACOOL,17
+Pokemon = GOLDEEN,17
+#-------------------------------
+[GENTLEMAN,Harris]
+Pokemon = PIKACHU,23
+#-------------------------------
+[GENTLEMAN,Ethan]
+Pokemon = GROWLITHE,17
+Pokemon = PONYTA,17
+#-------------------------------
+[LASS,Tiffany]
+Pokemon = RATTATA,18
+Pokemon = PIKACHU,18
+#-------------------------------
+[GAMBLER,Joshua]
+Pokemon = POLIWAG,18
+Pokemon = HORSEA,18
+#-------------------------------
+[GAMBLER,Jason]
+Pokemon = BELLSPROUT,18
+Pokemon = ODDISH,18
+#-------------------------------
+[GAMBLER,Nathan]
+Pokemon = GROWLITHE,18
+Pokemon = VULPIX,18
+#-------------------------------
+[GAMBLER,Carl]
+Pokemon = VOLTORB,18
+Pokemon = MAGNEMITE,18
+#-------------------------------
+[YOUNGSTER,Mikey]
+Pokemon = EKANS,21
+#-------------------------------
+[YOUNGSTER,Tony]
+Pokemon = NIDORANfE,18
+Pokemon = NIDORINO,18
+#-------------------------------
+[YOUNGSTER,Garrick]
+Pokemon = SANDSHREW,19
+Pokemon = ZUBAT,19
+#-------------------------------
+[YOUNGSTER,James]
+Pokemon = RATTATA,17
+Pokemon = RATTATA,17
+Pokemon = RATICATE,17
+#-------------------------------
+[ENGINEER,Carl]
+Pokemon = MAGNEMITE,18
+Pokemon = MAGNEMITE,18
+Pokemon = MAGNEMITE,18
+#-------------------------------
+[ENGINEER,Lewis]
+Pokemon = MAGNEMITE,21
+#-------------------------------
+[ROCKER,James]
+Pokemon = VOLTORB,20
+Pokemon = MAGNEMITE,20
+Pokemon = VOLTORB,20
+#-------------------------------
+[SAILOR,Martin]
+Pokemon = PIKACHU,21
+Pokemon = PIKACHU,21
+#-------------------------------
+[GENTLEMAN,Todd]
+Pokemon = PIKACHU,23
+#-------------------------------
+[JRTRAINER_f,Linda]
+Pokemon = ODDISH,18
+Pokemon = BELLSPROUT,18
+Pokemon = ODDISH,18
+Pokemon = BELLSPROUT,18
+#-------------------------------
+[HIKER,Teddy]
+Pokemon = MACHOP,20
+Pokemon = ONIX,20
+#-------------------------------
+[YOUNGSTER,Melvin]
+Pokemon = SANDSHREW,24
+#-------------------------------
+[BUGCATCHER,Charlie]
+Pokemon = BEEDRILL,19
+Pokemon = BEEDRILL,19
+#-------------------------------
+[BUGCATCHER,Will]
+Pokemon = CATERPIE,20
+Pokemon = WEEDLE,20
+Pokemon = VENONAT,20
+#-------------------------------
+[JRTRAINER_m,Cole]
+Pokemon = RATTATA,19
+Pokemon = DIGLETT,19
+Pokemon = EKANS,19
+Pokemon = SANDSHREW,19
+#-------------------------------
+[HIKER,Scott]
+Pokemon = GEODUDE,21
+Pokemon = ONIX,21
+#-------------------------------
+[HIKER,Lou]
+Pokemon = GEODUDE,20
+Pokemon = MACHOP,20
+Pokemon = GEODUDE,20
+#-------------------------------
+[JRTRAINER_f,Marie]
+Pokemon = MEOWTH,23
+#-------------------------------
+[POKEMANIAC,Drew]
+Pokemon = CUBONE,23
+Pokemon = SLOWPOKE,23
+#-------------------------------
+[HIKER,Barry]
+Pokemon = GEODUDE,19
+Pokemon = MACHOP,19
+Pokemon = GEODUDE,19
+Pokemon = GEODUDE,19
+#-------------------------------
+[HIKER,Cliff]
+Pokemon = ONIX,20
+Pokemon = ONIX,20
+Pokemon = GEODUDE,20
+#-------------------------------
+[HIKER,Thomas]
+Pokemon = GEODUDE,21
+Pokemon = GRAVELER,21
+#-------------------------------
+[JRTRAINER_f,Lacey]
+Pokemon = BELLSPROUT,22
+Pokemon = CLEFAIRY,22
+#-------------------------------
+[JRTRAINER_f,Tess]
+Pokemon = PIDGEY,19
+Pokemon = RATTATA,19
+Pokemon = RATTATA,19
+Pokemon = BELLSPROUT,19
+#-------------------------------
+[JRTRAINER_f,Bridget]
+Pokemon = MEOWTH,20
+Pokemon = ODDISH,20
+Pokemon = PIDGEY,20
+#-------------------------------
+[POKEMANIAC,Melvin]
+Pokemon = SLOWPOKE,25
+#-------------------------------
+[JRTRAINER_f,Melanie]
+Pokemon = ODDISH,22
+Pokemon = BULBASAUR,22
+#-------------------------------
+[POKEMANIAC,Henry]
+Pokemon = CHARMANDER,22
+Pokemon = CUBONE,22
+#-------------------------------
+[HIKER,Wes]
+Pokemon = GEODUDE,25
+#-------------------------------
+[HIKER,Marc]
+Pokemon = MACHOP,20
+Pokemon = ONIX,20
+#-------------------------------
+[JRTRAINER_f,Louisa]
+Pokemon = JIGGLYPUFF,21
+Pokemon = PIDGEY,21
+Pokemon = MEOWTH,21
+#-------------------------------
+[HIKER,Rusty]
+Pokemon = GEODUDE,21
+Pokemon = GEODUDE,21
+Pokemon = GRAVELER,21
+#-------------------------------
+[POKEMANIAC,Jayden]
+Pokemon = SLOWPOKE,20
+Pokemon = SLOWPOKE,20
+Pokemon = SLOWPOKE,20
+#-------------------------------
+[RIVAL,???,4]
+Pokemon = FEAROW,25
+    Moves = MIRRORMOVE,GROWL,LEER,FURYATTACK
+    IV = 19
+Pokemon = SANDSHREW,20
+    Moves = SCRATCH,SANDATTACK,SLASH
+    IV = 19
+Pokemon = VULPIX,23
+    Moves = EMBER,TAILWHIP,QUICKATTACK,ROAR
+    IV = 19
+Pokemon = MAGNEMITE,22
+    Gender = male
+    Shiny = yes
+    Moves = TACKLE,SONICBOOM
+    Happiness = 0
+Pokemon = EEVEE,25
+    Moves = QUICKATTACK,TAILWHIP,SANDATTACK,GROWL
+    IV = 19
+#-------------------------------
+[RIVAL,???,5]
+Pokemon = FEAROW,25
+    Moves = MIRRORMOVE,GROWL,LEER,FURYATTACK
+    IV = 19
+Pokemon = SANDSHREW,20
+    Moves = SCRATCH,SANDATTACK,SLASH
+    IV = 19
+Pokemon = MAGNEMITE,23
+    Moves = TACKLE,SONICBOOM
+    IV = 19
+Pokemon = SHELLDER,22
+    Moves = TACKLE,WITHDRAW,SUPERSONIC,CLAMP
+    IV = 19
+Pokemon = EEVEE,25
+    Moves = QUICKATTACK,TAILWHIP,SANDATTACK,GROWL
+    IV = 19
+#-------------------------------
+[RIVAL,???,5]
+Pokemon = FEAROW,25
+    Moves = MIRRORMOVE,GROWL,LEER,FURYATTACK
+    IV = 19
+Pokemon = SANDSHREW,20
+    Moves = SCRATCH,SANDATTACK,SLASH
+    IV = 19
+Pokemon = SHELLDER,23
+    Moves = TACKLE,WITHDRAW,SUPERSONIC,CLAMP
+    IV = 19
+Pokemon = VULPIX,22
+    Moves = EMBER,TAILWHIP,QUICKATTACK,ROAR
+    IV = 19
+Pokemon = EEVEE,25
+    Moves = QUICKATTACK,TAILWHIP,SANDATTACK,GROWL
+    IV = 19
+#-------------------------------
+[CHANNELER,Hope]
+Pokemon = GASTLY,23
+#-------------------------------
+[CHANNELER,Patricia]
+Pokemon = GASTLY,22
+#-------------------------------
+[CHANNELER,Carly]
+Pokemon = GASTLY,24
+#-------------------------------
+[CHANNELER,Laurel]
+Pokemon = GASTLY,23
+Pokemon = GASTLY,23
+#-------------------------------
+[CHANNELER,Jody]
+Pokemon = GASTLY,22
+#-------------------------------
+[CHANNELER,Paula]
+Pokemon = GASTLY,24
+#-------------------------------
+[CHANNELER,Ruth]
+Pokemon = GASTLY,22
+#-------------------------------
+[CHANNELER,Tammy]
+Pokemon = HAUNTER,23
+#-------------------------------
+[CHANNELER,Karina]
+Pokemon = GASTLY,24
+#-------------------------------
+[CHANNELER,Janae]
+Pokemon = GASTLY,22
+#-------------------------------
+[CHANNELER,Angelica]
+Pokemon = GASTLY,22
+Pokemon = GASTLY,22
+Pokemon = GASTLY,22
+#-------------------------------
+[CHANNELER,Jennifer]
+Pokemon = GASTLY,24
+#-------------------------------
+[CHANNELER,Emilia]
+Pokemon = GASTLY,24
+#-------------------------------
+[LASS,Julia]
+Pokemon = CLEFAIRY,22
+Pokemon = CLEFAIRY,22
+#-------------------------------
+[GAMBLER,Rich]
+Pokemon = GROWLITHE,24
+Pokemon = VULPIX,24
+#-------------------------------
+[SUPERNERD,Glenn]
+Pokemon = GRIMER,22
+Pokemon = MUK,22
+Pokemon = GRIMER,22
+#-------------------------------
+[LASS,Paige]
+Pokemon = PIDGEY,19
+Pokemon = RATTATA,19
+Pokemon = NIDORANfE,19
+Pokemon = MEOWTH,19
+Pokemon = PIKACHU,19
+#-------------------------------
+[LASS,Andrea]
+Pokemon = MEOWTH,24
+Pokemon = MEOWTH,24
+Pokemon = MEOWTH,24
+#-------------------------------
+[SUPERNERD,Aiden]
+Pokemon = KOFFING,26
+#-------------------------------
+[LASS,Lulu]
+Pokemon = NIDORANfE,23
+Pokemon = NIDORINA,23
+#-------------------------------
+[GAMBLER,Stan]
+Pokemon = POLIWAG,22
+Pokemon = POLIWAG,22
+Pokemon = POLIWHIRL,22
+#-------------------------------
+[SUPERNERD,Jaren]
+Pokemon = VOLTORB,20
+Pokemon = KOFFING,20
+Pokemon = VOLTORB,20
+Pokemon = MAGNEMITE,20
+#-------------------------------
+[TEAMROCKET_Female,Grunt,3]
+Pokemon = RATICATE,20
+Pokemon = ZUBAT,20
+#-------------------------------
+[TEAMROCKET_Female,Grunt,4]
+Pokemon = DROWZEE,21
+Pokemon = MACHOP,21
+#-------------------------------
+[TEAMROCKET_Female,Grunt,5]
+Pokemon = RATICATE,21
+Pokemon = RATICATE,21
+#-------------------------------
+[TEAMROCKET_Male,Grunt,3]
+Pokemon = GRIMER,22
+Pokemon = KOFFING,22
+#-------------------------------
+[TEAMROCKET_Male,Grunt,4]
+Pokemon = RATTATA,19
+Pokemon = RATICATE,19
+Pokemon = RATICATE,19
+Pokemon = RATTATA,19
+#-------------------------------
+[TEAMROCKET_Female,Grunt,6]
+Pokemon = GRIMER,20
+Pokemon = KOFFING,20
+Pokemon = KOFFING,20
+#-------------------------------
+[TEAMROCKET_Female,Grunt,7]
+Pokemon = ZUBAT,17
+Pokemon = KOFFING,17
+Pokemon = GRIMER,17
+Pokemon = ZUBAT,17
+Pokemon = RATICATE,17
+#-------------------------------
+[TEAMROCKET_Male,Grunt,5]
+Pokemon = MACHOP,21
+Pokemon = MACHOP,21
+#-------------------------------
+[TEAMROCKET_Female,Grunt,8]
+Pokemon = RATTATA,20
+Pokemon = RATICATE,20
+Pokemon = DROWZEE,20
+#-------------------------------
+[LEADER_ERIKA,Erika]
+Pokemon = TANGELA,30
+    Moves = BIND,MEGADRAIN,VINEWHIP,CONSTRICT
+    IV = 21
+Pokemon = WEEPINBELL,32
+    Moves = WRAP,STUNSPORE,SLEEPPOWDER,RAZORLEAF
+    IV = 21
+Pokemon = GLOOM,32
+    Moves = ACID,PETALDANCE,STUNSPORE,SLEEPPOWDER
+    IV = 21
+Pokemon = VENUSAUR,36
+    Moves = ACID,PETALDANCE,STUNSPORE,SLEEPPOWDER
+    IV = 21
+#-------------------------------
+[LASS,Michelle]
+Pokemon = BELLSPROUT,23
+Pokemon = WEEPINBELL,23
+#-------------------------------
+[BEAUTY,Julia]
+Pokemon = BELLSPROUT,24
+Pokemon = BELLSPROUT,24
+#-------------------------------
+[BEAUTY,Bridget]
+Pokemon = BELLSPROUT,21
+Pokemon = BELLSPROUT,21
+Pokemon = ODDISH,21
+Pokemon = ODDISH,21
+#-------------------------------
+[JRTRAINER_f,Tanya]
+Pokemon = BULBASAUR,24
+Pokemon = IVYSAUR,24
+#-------------------------------
+[BEAUTY,Tamina]
+Pokemon = EXEGGCUTE,26
+#-------------------------------
+[COOLTRAINER_Female,Mary]
+Pokemon = WEEPINBELL,24
+Pokemon = GLOOM,24
+Pokemon = IVYSAUR,24
+#-------------------------------
+[LASS,Lisa]
+Pokemon = ODDISH,23
+Pokemon = GLOOM,23
+#-------------------------------
+[BLACKBELT,Hideki]
+Pokemon = MACHOP,32
+Pokemon = MACHOKE,32
+#-------------------------------
+[BLACKBELT,Hitoshi]
+Pokemon = MACHOP,31
+Pokemon = MANKEY,31
+Pokemon = PRIMEAPE,31
+#-------------------------------
+[BLACKBELT,Mike]
+Pokemon = MANKEY,31
+Pokemon = MANKEY,31
+Pokemon = PRIMEAPE,31
+#-------------------------------
+[BLACKBELT,Aaron]
+Pokemon = PRIMEAPE,36
+#-------------------------------
+[BLACKBELT,Koichi]
+Pokemon = HITMONLEE,37
+    Moves = DOUBLEKICK,ROLLINGKICK,MEDITATE,MEGAKICK
+    IV = 21
+Pokemon = HITMONCHAN,37
+    Moves = COMETPUNCH,MEGAPUNCH,AGILITY,FIREPUNCH
+    IV = 21
+#-------------------------------
+[PSYCHIC_Male,Cameron]
+Pokemon = SLOWPOKE,33
+Pokemon = SLOWPOKE,33
+Pokemon = SLOWBRO,33
+#-------------------------------
+[PSYCHIC_Male,Tyron]
+Pokemon = MRMIME,34
+Pokemon = KADABRA,34
+#-------------------------------
+[CHANNELER,Stacy]
+Pokemon = HAUNTER,38
+#-------------------------------
+[PSYCHIC_Male,Preston]
+Pokemon = SLOWBRO,38
+#-------------------------------
+[CHANNELER,Amanda]
+Pokemon = GASTLY,34
+Pokemon = HAUNTER,34
+#-------------------------------
+[CHANNELER,Tasha]
+Pokemon = GASTLY,33
+Pokemon = GASTLY,33
+Pokemon = HAUNTER,33
+#-------------------------------
+[PSYCHIC_Male,Johan]
+Pokemon = KADABRA,31
+Pokemon = MRMIME,31
+Pokemon = SLOWPOKE,31
+Pokemon = KADABRA,31
+#-------------------------------
+[PSYCHIC_Female,Hillery]
+Pokemon = KADABRA,31
+Pokemon = MRMIME,31
+Pokemon = SLOWPOKE,31
+Pokemon = KADABRA,31
+#-------------------------------
+[LEADER_SABRINA,Sabrina]
+Pokemon = ABRA,50
+    Moves = PSYCHIC,FLASH
+    IV = 23
+Pokemon = KADABRA,50
+    Moves = PSYBEAM,RECOVER,KINESIS,PSYWAVE
+    IV = 23
+Pokemon = ALAKAZAM,50
+    Moves = PSYBEAM,PSYWAVE,REFLECT,RECOVER
+    IV = 23
+Pokemon = GENGAR,50
+    Moves = PSYBEAM,PSYWAVE,PSYCHIC,RECOVER
+    IV = 23
+Pokemon = HAUNTER,50
+    Moves = PSYBEAM,PSYWAVE,HYPNOSIS,RECOVER
+    IV = 23
+#-------------------------------
+[TEAMROCKET,Grunt,6]
+Pokemon = GOLBAT,25
+Pokemon = ZUBAT,25
+Pokemon = ZUBAT,25
+Pokemon = RATICATE,25
+Pokemon = ZUBAT,25
+#-------------------------------
+[SCIENTIST,Jerry]
+Pokemon = MAGNEMITE,28
+Pokemon = VOLTORB,28
+Pokemon = MAGNETON,28
+#-------------------------------
+[TEAMROCKET,Grunt,11]
+Pokemon = CUBONE,29
+Pokemon = ZUBAT,29
+#-------------------------------
+[SCIENTIST,Connor]
+Pokemon = GRIMER,26
+Pokemon = WEEZING,26
+Pokemon = KOFFING,26
+Pokemon = WEEZING,26
+#-------------------------------
+[TEAMROCKET,Grunt,12]
+Pokemon = RATICATE,28
+Pokemon = HYPNO,28
+Pokemon = RATICATE,28
+#-------------------------------
+[SCIENTIST,Jose]
+Pokemon = ELECTRODE,29
+Pokemon = WEEZING,29
+#-------------------------------
+[TEAMROCKET,Grunt,7]
+Pokemon = EKANS,28
+Pokemon = ZUBAT,28
+Pokemon = CUBONE,28
+#-------------------------------
+[TEAMROCKET,Grunt,8]
+Pokemon = MACHOP,29
+Pokemon = DROWZEE,29
+#-------------------------------
+[SCIENTIST,Rodney]
+Pokemon = ELECTRODE,33
+#-------------------------------
+[TEAMROCKET,Grunt,13]
+Pokemon = HYPNO,33
+#-------------------------------
+[JUGGLER,Dalton]
+Pokemon = KADABRA,29
+Pokemon = MRMIME,29
+#-------------------------------
+[SCIENTIST,Beau]
+Pokemon = MAGNETON,26
+Pokemon = MAGNEMITE,26
+Pokemon = KOFFING,26
+Pokemon = WEEZING,26
+#-------------------------------
+[TEAMROCKET,Grunt,14]
+Pokemon = ARBOK,33
+#-------------------------------
+[TEAMROCKET,Grunt,15]
+Pokemon = MACHOP,29
+Pokemon = MACHOKE,29
+#-------------------------------
+[TEAMROCKET,Grunt,9]
+Pokemon = ZUBAT,28
+Pokemon = ZUBAT,28
+Pokemon = GOLBAT,28
+#-------------------------------
+[SCIENTIST,Taylor]
+Pokemon = VOLTORB,25
+Pokemon = KOFFING,25
+Pokemon = MAGNETON,25
+Pokemon = MAGNEMITE,25
+Pokemon = KOFFING,25
+#-------------------------------
+[TEAMROCKET,Grunt,16]
+Pokemon = CUBONE,29
+Pokemon = CUBONE,29
+#-------------------------------
+[TEAMROCKET,Grunt,17]
+Pokemon = RATICATE,26
+Pokemon = ARBOK,26
+Pokemon = KOFFING,26
+Pokemon = GOLBAT,26
+#-------------------------------
+[SCIENTIST,Joshua]
+Pokemon = ELECTRODE,29
+Pokemon = MUK,29
+#-------------------------------
+[TEAMROCKET,Grunt,18]
+Pokemon = SANDSHREW,29
+Pokemon = SANDSLASH,29
+#-------------------------------
+[TEAMROCKET,Grunt,19]
+Pokemon = RATICATE,26
+Pokemon = ZUBAT,26
+Pokemon = GOLBAT,26
+Pokemon = RATTATA,26
+#-------------------------------
+[TEAMROCKET,Grunt,20]
+Pokemon = WEEZING,28
+Pokemon = KOFFING,26
+Pokemon = GOLBAT,28
+#-------------------------------
+[SCIENTIST,Parker]
+Pokemon = GRIMER,29
+Pokemon = ELECTRODE,29
+#-------------------------------
+[TEAMROCKET_Female,Grunt,10]
+Pokemon = GOLBAT,28
+Pokemon = DROWZEE,28
+Pokemon = HYPNO,28
+#-------------------------------
+[TEAMROCKET_Male,Grunt,10]
+Pokemon = GOLBAT,28
+Pokemon = DROWZEE,28
+Pokemon = HYPNO,28
+#-------------------------------
+[TEAMROCKET,Grunt,21]
+Pokemon = DROWZEE,28
+Pokemon = GRIMER,28
+Pokemon = MACHOP,28
+#-------------------------------
+[SCIENTIST,Ed]
+Pokemon = VOLTORB,28
+Pokemon = MAGNETON,28
+Pokemon = KOFFING,28
+#-------------------------------
+[TEAMROCKET,Grunt,22]
+Pokemon = MACHOKE,33
+#-------------------------------
+[SCIENTIST,Travis]
+Pokemon = MAGNEMITE,29
+Pokemon = KOFFING,29
+#-------------------------------
+[TEAMROCKET_Female,Grunt,11]
+Pokemon = RATTATA,25
+Pokemon = ZUBAT,25
+Pokemon = EKANS,25
+Pokemon = RATTATA,25
+Pokemon = RATTATA,25
+#-------------------------------
+[TEAMROCKET,Jessie and James,4]
+Pokemon = ARBOK,31
+    Moves = BITE,LEER,POISONSTING,GLARE
+    IV = 23
+Pokemon = WEEZING,31
+    Moves = TACKLE,SLUDGE,SMOG
+    IV = 23
+Pokemon = MEOWTH,31
+    Moves = BITE,SCREECH,GROWL,PAYDAY
+    IV = 23
+#-------------------------------
+[BOSS,Giovanni,2]
+Pokemon = NIDORINO,37
+    Moves = DOUBLEKICK,POISONSTING,FOCUSENERGY,FURYATTACK
+    IV = 23
+Pokemon = RHYHORN,37
+    Moves = HORNATTACK,STOMP,TAILWHIP
+    IV = 23
+Pokemon = PERSIAN,35
+    Moves = SCRATCH,GROWL,BITE,PAYDAY
+    IV = 23
+Pokemon = NIDOQUEEN,41
+    Moves = DOUBLEKICK,TAILWHIP,POISONSTING,BODYSLAM
+    IV = 23
+#-------------------------------
+[RIVAL,???,6]
+Pokemon = SANDSLASH,38
+    Moves = SLASH,SANDATTACK,POISONSTING,SWIFT
+    IV = 23
+Pokemon = KADABRA,35
+    Moves = CONFUSION,DISABLE,PSYBEAM,RECOVER
+    IV = 23
+Pokemon = CLOYSTER,37
+    Moves = WITHDRAW,SUPERSONIC,CLAMP,AURORABEAM
+    IV = 23
+Pokemon = NINETALES,35
+    Moves = EMBER,TAILWHIP,QUICKATTACK,ROAR
+    IV = 23
+Pokemon = JOLTEON,40
+    Moves = THUNDERSHOCK,QUICKATTACK,DOUBLEKICK,PINMISSILE
+    IV = 23
+#-------------------------------
+[RIVAL,???,7]
+Pokemon = SANDSLASH,35
+    Moves = SLASH,SANDATTACK,POISONSTING,SWIFT
+    IV = 23
+Pokemon = KADABRA,35
+    Moves = CONFUSION,DISABLE,PSYBEAM,RECOVER
+    IV = 23
+Pokemon = MAGNETON,37
+    Moves = TACKLE,SONICBOOM,THUNDERSHOCK,SUPERSONIC
+    IV = 23
+Pokemon = CLOYSTER,35
+    Moves = WITHDRAW,SUPERSONIC,CLAMP,AURORABEAM
+    IV = 23
+Pokemon = FLAREON,40
+    Moves = EMBER,QUICKATTACK,BITE,FIRESPIN
+    IV = 23
+#-------------------------------
+[RIVAL,???,8]
+Pokemon = SANDSLASH,35
+    Moves = SLASH,SANDATTACK,POISONSTING,SWIFT
+    IV = 23
+Pokemon = KADABRA,35
+    Moves = CONFUSION,DISABLE,PSYBEAM,RECOVER
+    IV = 23
+Pokemon = NINETALES,37
+    Moves = EMBER,TAILWHIP,QUICKATTACK,ROAR
+    IV = 23
+Pokemon = MAGNETON,35
+    Moves = TACKLE,SONICBOOM,THUNDERSHOCK,SUPERSONIC
+    IV = 23
+Pokemon = VAPOREON,40
+    Moves = WATERGUN,QUICKATTACK,BITE,AURORABEAM
+    IV = 23
+#-------------------------------
+[CUEBALL,Isaiah]
+Pokemon = MACHOP,29
+Pokemon = MACHOKE,29
+#-------------------------------
+[CUEBALL,Raul]
+Pokemon = MANKEY,29
+Pokemon = PRIMEAPE,29
+#-------------------------------
+[BIKER,Virgil]
+Pokemon = WEEZING,28
+Pokemon = KOFFING,28
+Pokemon = WEEZING,28
+#-------------------------------
+[BIKER,Billy]
+Pokemon = MUK,33
+#-------------------------------
+[BIKER,Jaxon]
+Pokemon = VOLTORB,29
+Pokemon = VOLTORB,29
+#-------------------------------
+[CUEBALL,Jamal]
+Pokemon = MACHOKE,33
+#-------------------------------
+[CUEBALL,Zeek]
+Pokemon = PRIMEAPE,29
+Pokemon = MACHOKE,29
+#-------------------------------
+[CUEBALL,Corey]
+Pokemon = MANKEY,26
+Pokemon = MANKEY,26
+Pokemon = MACHOKE,26
+Pokemon = MACHOP,26
+#-------------------------------
+[BIKER,William]
+Pokemon = WEEZING,29
+Pokemon = MUK,29
+#-------------------------------
+[BIKER,Nikolas]
+Pokemon = KOFFING,25
+Pokemon = WEEZING,25
+Pokemon = KOFFING,25
+Pokemon = KOFFING,25
+Pokemon = WEEZING,25
+#-------------------------------
+[BIKER,Lao]
+Pokemon = GRIMER,29
+Pokemon = KOFFING,29
+#-------------------------------
+[BIKER,Hideo]
+Pokemon = WEEZING,33
+#-------------------------------
+[BIKER,Ruben]
+Pokemon = GRIMER,26
+Pokemon = GRIMER,26
+Pokemon = GRIMER,26
+Pokemon = GRIMER,26
+#-------------------------------
+[CUEBALL,Koji]
+Pokemon = MACHOP,28
+Pokemon = MANKEY,28
+Pokemon = MACHOP,28
+#-------------------------------
+[CUEBALL,Luke]
+Pokemon = MANKEY,29
+Pokemon = MACHOP,29
+#-------------------------------
+[CUEBALL,Camron]
+Pokemon = MACHOP,33
+#-------------------------------
+[BIRDKEEPER,Jacob]
+Pokemon = SPEAROW,26
+Pokemon = SPEAROW,26
+Pokemon = FEAROW,26
+Pokemon = SPEAROW,26
+#-------------------------------
+[BIRDKEEPER,Wilton]
+Pokemon = SPEAROW,29
+Pokemon = FEAROW,29
+#-------------------------------
+[BIRDKEEPER,Ramiro]
+Pokemon = DODRIO,34
+#-------------------------------
+[JRTRAINER_f,Heidi]
+Pokemon = PIKACHU,20
+Pokemon = CLEFAIRY,20
+#-------------------------------
+[JRTRAINER_f,Kindra]
+Pokemon = CLEFAIRY,33
+#-------------------------------
+[BEAUTY,Olivia]
+Pokemon = PIDGEOTTO,29
+Pokemon = WIGGLYTUFF,29
+#-------------------------------
+[JRTRAINER_f,Becky]
+Pokemon = PIDGEY,29
+Pokemon = PIDGEOTTO,29
+#-------------------------------
+[BIKER,Ernest]
+Pokemon = KOFFING,25
+Pokemon = KOFFING,25
+Pokemon = WEEZING,25
+Pokemon = KOFFING,25
+Pokemon = GRIMER,25
+#-------------------------------
+[BIKER,Alex]
+Pokemon = KOFFING,28
+Pokemon = GRIMER,28
+Pokemon = WEEZING,28
+#-------------------------------
+[JRTRAINER_f,Celia]
+Pokemon = GLOOM,28
+Pokemon = ODDISH,28
+Pokemon = ODDISH,28
+#-------------------------------
+[BEAUTY,Grace]
+Pokemon = BULBASAUR,29
+Pokemon = IVYSAUR,29
+#-------------------------------
+[BIRDKEEPER,Chester]
+Pokemon = DODRIO,28
+Pokemon = DODUO,28
+Pokemon = DODUO,28
+#-------------------------------
+[BIRDKEEPER,Edwin]
+Pokemon = PIDGEOTTO,26
+Pokemon = FARFETCHD,26
+Pokemon = DODUO,26
+Pokemon = PIDGEY,26
+#-------------------------------
+[JRTRAINER_f,Yazmin]
+Pokemon = BELLSPROUT,29
+Pokemon = ODDISH,29
+Pokemon = TANGELA,29
+#-------------------------------
+[BIKER,Marcus]
+Pokemon = KOFFING,29
+Pokemon = MUK,29
+#-------------------------------
+[BIRDKEEPER,Benny]
+Pokemon = FARFETCHD,33
+#-------------------------------
+[BIKER,Tommy]
+Pokemon = GRIMER,28
+Pokemon = GRIMER,28
+Pokemon = KOFFING,28
+#-------------------------------
+[BIKER,Malik]
+Pokemon = KOFFING,29
+Pokemon = GRIMER,29
+#-------------------------------
+[BIKER,Lukas]
+Pokemon = KOFFING,26
+Pokemon = KOFFING,26
+Pokemon = GRIMER,26
+Pokemon = KOFFING,26
+#-------------------------------
+[BIRDKEEPER,Marlon]
+Pokemon = SPEAROW,29
+Pokemon = FEAROW,28
+#-------------------------------
+[JRTRAINER_f,Alma]
+Pokemon = GOLDEEN,28
+Pokemon = POLIWAG,28
+Pokemon = HORSEA,28
+#-------------------------------
+[BIRDKEEPER,Sebastian]
+Pokemon = PIDGEY,29
+Pokemon = PIDGEOTTO,29
+#-------------------------------
+[JRTRAINER_f,Susie]
+Pokemon = PIDGEY,24
+Pokemon = MEOWTH,24
+Pokemon = RATTATA,24
+Pokemon = PIDGEY,24
+Pokemon = MEOWTH,24
+#-------------------------------
+[BEAUTY,Lola]
+Pokemon = RATTATA,27
+Pokemon = VULPIX,27
+Pokemon = RATTATA,27
+#-------------------------------
+[BEAUTY,Sheila]
+Pokemon = CLEFAIRY,29
+Pokemon = MEOWTH,29
+#-------------------------------
+[JRTRAINER_f,Valerie]
+Pokemon = POLIWAG,30
+Pokemon = POLIWAG,30
+#-------------------------------
+[JRTRAINER_f,Gwen]
+Pokemon = PIDGEY,27
+Pokemon = MEOWTH,27
+Pokemon = PIDGEY,27
+Pokemon = PIDGEOTTO,27
+#-------------------------------
+[BIRDKEEPER,Robert]
+Pokemon = SPEAROW,25
+Pokemon = PIDGEY,25
+Pokemon = PIDGEY,25
+Pokemon = SPEAROW,25
+Pokemon = SPEAROW,25
+#-------------------------------
+[BIKER,Jared]
+Pokemon = KOFFING,28
+Pokemon = KOFFING,28
+Pokemon = KOFFING,28
+#-------------------------------
+[BIRDKEEPER,Bret]
+Pokemon = PIDGEY,26
+Pokemon = PIDGEOTTO,26
+Pokemon = SPEAROW,26
+Pokemon = FEAROW,26
+#-------------------------------
+[BIRDKEEPER,Perry]
+Pokemon = PIDGEY,26
+Pokemon = SPEAROW,26
+Pokemon = PIDGEY,26
+Pokemon = FEAROW,26
+#-------------------------------
+[BIRDKEEPER,Josh]
+Pokemon = PIDGEY,28
+Pokemon = PIDGEOTTO,28
+Pokemon = DODUO,28
+#-------------------------------
+[BIRDKEEPER,Max]
+Pokemon = PIDGEOTTO,29
+Pokemon = FEAROW,28
+#-------------------------------
+[BIRDKEEPER,Kenny]
+Pokemon = SPEAROW,28
+Pokemon = DODUO,28
+Pokemon = FEAROW,28
+#-------------------------------
+[FISHERMAN,Connor]
+Pokemon = GOLDEEN,22
+Pokemon = POLIWAG,22
+Pokemon = GOLDEEN,22
+#-------------------------------
+[FISHERMAN,Jack]
+Pokemon = TENTACOOL,24
+Pokemon = GOLDEEN,24
+#-------------------------------
+[FISHERMAN,Kay]
+Pokemon = GOLDEEN,27
+#-------------------------------
+[FISHERMAN,Benny]
+Pokemon = POLIWAG,21
+Pokemon = SHELLDER,21
+Pokemon = GOLDEEN,21
+Pokemon = HORSEA,21
+#-------------------------------
+[ROCKER,Barry]
+Pokemon = VOLTORB,29
+Pokemon = ELECTRODE,29
+#-------------------------------
+[FISHERMAN,Aaron]
+Pokemon = MAGIKARP,24
+Pokemon = MAGIKARP,24
+#-------------------------------
+[JRTRAINER_m,Jay]
+Pokemon = NIDORANfE,29
+Pokemon = NIDORINO,29
+#-------------------------------
+[TEAMROCKET,Grunt,3]
+Pokemon = RATICATE,20
+Pokemon = ZUBAT,20
+#-------------------------------
+[LEADER_KOGA,Koga]
+Pokemon = VENONAT,44
+    Moves = TACKLE,TOXIC,SLEEPPOWDER,PSYCHIC
+    IV = 25
+Pokemon = VENONAT,46
+    Moves = TOXIC,PSYBEAM,SUPERSONIC,PSYCHIC
+    IV = 25
+Pokemon = VENONAT,48
+    Moves = TOXIC,PSYCHIC,SLEEPPOWDER,DOUBLEEDGE
+    IV = 25
+Pokemon = VENOMOTH,50
+    Moves = TOXIC,PSYCHIC,LEECHLIFE,DOUBLETEAM
+    IV = 25
+#-------------------------------
+[JUGGLER,Marcus]
+Pokemon = DROWZEE,34
+Pokemon = KADABRA,34
+#-------------------------------
+[JUGGLER,Tomas]
+Pokemon = HYPNO,38
+#-------------------------------
+[JUGGLER,Martin]
+Pokemon = DROWZEE,31
+Pokemon = KADABRA,31
+Pokemon = DROWZEE,31
+Pokemon = DROWZEE,31
+#-------------------------------
+[TAMER,Kyle]
+Pokemon = ARBOK,33
+Pokemon = SANDSLASH,33
+Pokemon = ARBOK,33
+#-------------------------------
+[TAMER,Barry]
+Pokemon = SANDSLASH,34
+Pokemon = ARBOK,34
+#-------------------------------
+[JUGGLER,Brian]
+Pokemon = DROWZEE,34
+Pokemon = HYPNO,34
+#-------------------------------
+[FISHERMAN,Arnold]
+Pokemon = SEAKING,28
+Pokemon = GOLDEEN,28
+Pokemon = SEAKING,28
+Pokemon = SEAKING,28
+#-------------------------------
+[FISHERMAN,Wade]
+Pokemon = MAGIKARP,27
+Pokemon = MAGIKARP,27
+Pokemon = MAGIKARP,27
+Pokemon = MAGIKARP,27
+Pokemon = MAGIKARP,27
+Pokemon = MAGIKARP,27
+#-------------------------------
+[CUEBALL,Ronald]
+Pokemon = TENTACOOL,31
+Pokemon = TENTACOOL,31
+Pokemon = TENTACRUEL,31
+#-------------------------------
+[SWIMMERfE,Nikki]
+Pokemon = SEADRA,33
+Pokemon = TENTACRUEL,33
+#-------------------------------
+[FISHERMAN,Nolan]
+Pokemon = SHELLDER,31
+Pokemon = CLOYSTER,31
+#-------------------------------
+[FISHERMAN,Jerome]
+Pokemon = SEAKING,33
+Pokemon = GOLDEEN,33
+#-------------------------------
+[SWIMMERmA,Murphy]
+Pokemon = STARMIE,37
+#-------------------------------
+[SWIMMERmA,Liam]
+Pokemon = POLIWHIRL,32
+Pokemon = TENTACOOL,32
+Pokemon = SEADRA,32
+#-------------------------------
+[SWIMMERfE,Kendra]
+Pokemon = STARYU,33
+Pokemon = WARTORTLE,33
+#-------------------------------
+[SCIENTIST,Roger]
+Pokemon = ELECTRODE,29
+Pokemon = WEEZING,39
+#-------------------------------
+[BURGLER,Michael]
+Pokemon = CHARMANDER,34
+Pokemon = CHARMANDER,34
+#-------------------------------
+[BURGLER,Jordan]
+Pokemon = NINETALES,38
+#-------------------------------
+[SCIENTIST,Stan]
+Pokemon = MAGNETON,33
+Pokemon = MAGNEMITE,33
+Pokemon = VOLTORB,33
+#-------------------------------
+[BURGLER,Tom]
+Pokemon = GROWLITHE,34
+Pokemon = PONYTA,34
+#-------------------------------
+[SCIENTIST,Liam]
+Pokemon = MAGNEMITE,34
+Pokemon = ELECTRODE,34
+#-------------------------------
+[SUPERNERD,Erik]
+Pokemon = VULPIX,36
+Pokemon = VULPIX,36
+Pokemon = NINETALES,36
+#-------------------------------
+[BURGLER,Quinn]
+Pokemon = GROWLITHE,36
+Pokemon = VULPIX,36
+Pokemon = NINETALES,36
+#-------------------------------
+[SUPERNERD,Avery]
+Pokemon = PONYTA,34
+Pokemon = CHARMANDER,34
+Pokemon = VULPIX,34
+Pokemon = GROWLITHE,34
+#-------------------------------
+[BURGLER,Ramon]
+Pokemon = PONYTA,41
+#-------------------------------
+[SUPERNERD,Derek]
+Pokemon = RAPIDASH,41
+#-------------------------------
+[BURGLER,Dusty]
+Pokemon = VULPIX,37
+Pokemon = GROWLITHE,37
+#-------------------------------
+[SUPERNERD,Zac]
+Pokemon = GROWLITHE,37
+Pokemon = VULPIX,37
+#-------------------------------
+[LEADER_BLAINE,Blaine]
+Pokemon = NINETALES,48
+    Moves = CONFUSERAY,QUICKATTACK,TAILWHIP,FLAMETHROWER
+    IV = 25
+Pokemon = RAPIDASH,50
+    Moves = TAILWHIP,STOMP,GROWL,FIRESPIN
+    IV = 25
+Pokemon = ARCANINE,54
+    Moves = REFLECT,TAKEDOWN,FIREBLAST,FLAMETHROWER
+    IV = 25
+Pokemon = MAGMAR,57
+    Moves = FIREBLAST,FIREFANG,FIREPUNCH,FIRESPIN
+    IV = 25
+Pokemon = CHARIZARD,60
+    Moves = FIREBLAST,FIREFANG,FIREPUNCH,FIRESPIN
+    IV = 25
+Pokemon = CHARMELEON,50
+    Moves = FIREBLAST,FIREFANG,FIREPUNCH,FIRESPIN
+    IV = 25
+#-------------------------------
+[BLACKBELT,Terry]
+Pokemon = MACHOP,40
+Pokemon = MACHOKE,40
+#-------------------------------
+[COOLTRAINER_Male,Philip]
+Pokemon = SANDSLASH,39
+Pokemon = DUGTRIO,39
+#-------------------------------
+[TAMER,Paul]
+Pokemon = RHYHORN,43
+#-------------------------------
+[COOLTRAINER_Male,Darren]
+Pokemon = RHYHORN,43
+#-------------------------------
+[BLACKBELT,Tai]
+Pokemon = MACHOKE,38
+Pokemon = MACHOP,38
+Pokemon = MACHOKE,38
+#-------------------------------
+[TAMER,Matt]
+Pokemon = ARBOK,39
+Pokemon = TAUROS,39
+#-------------------------------
+[BLACKBELT,John]
+Pokemon = MACHOKE,43
+#-------------------------------
+[COOLTRAINER_Male,Jason]
+Pokemon = NIDORINO,39
+Pokemon = NIDOKING,39
+#-------------------------------
+[LEADER_GIOVANNI,Giovanni]
+Pokemon = DUGTRIO,60
+    Moves = SANDATTACK,DIG,FISSURE,EARTHQUAKE
+    IV = 27
+Pokemon = PERSIAN,63
+    Moves = SCREECH,SLASH,FURYSWIPES,DOUBLETEAM
+    IV = 27
+Pokemon = NIDOQUEEN,63
+    Moves = TAILWHIP,EARTHQUAKE,DOUBLEKICK,THUNDER
+    IV = 27
+Pokemon = NIDOKING,65
+    Moves = THUNDER,LEER,EARTHQUAKE,DOUBLEKICK
+    IV = 27
+Pokemon = RHYDON,65
+    Moves = ROCKSLIDE,FURYATTACK,EARTHQUAKE,HORNDRILL
+    IV = 27
+Pokemon = MEWTWO,70
+    Moves = THUNDER,ICEBEAM,HYPERBEAM,PSYCHIC
+    IV = 27
+#-------------------------------
+[BEAUTY,Jess]
+Pokemon = POLIWAG,31
+Pokemon = SEAKING,31
+#-------------------------------
+[BEAUTY,Jane]
+Pokemon = SHELLDER,30
+Pokemon = SHELLDER,30
+Pokemon = CLOYSTER,30
+#-------------------------------
+[JRTRAINER_f,Ruby]
+Pokemon = GOLDEEN,31
+Pokemon = SEAKING,31
+#-------------------------------
+[BIRDKEEPER,Ben]
+Pokemon = FEAROW,30
+Pokemon = FEAROW,30
+Pokemon = PIDGEOTTO,30
+#-------------------------------
+[SWIMMERfE,Sara]
+Pokemon = STARYU,35
+#-------------------------------
+[BEAUTY,Peggy]
+Pokemon = SEADRA,30
+Pokemon = HORSEA,30
+Pokemon = SEADRA,30
+#-------------------------------
+[SWIMMERmA,Jude]
+Pokemon = SHELLDER,31
+Pokemon = CLOYSTER,31
+#-------------------------------
+[SWIMMERfE,Jackie]
+Pokemon = HORSEA,28
+Pokemon = HORSEA,28
+Pokemon = SEADRA,28
+Pokemon = KINGDRA,28
+#-------------------------------
+[BEAUTY,Sandra]
+Pokemon = POLIWAG,27
+Pokemon = GOLDEEN,27
+Pokemon = SEAKING,27
+Pokemon = GOLDEEN,27
+Pokemon = POLIWAG,27
+#-------------------------------
+[SWIMMERmA,Tucker]
+Pokemon = TENTACOOL,27
+Pokemon = TENTACOOL,27
+Pokemon = STARYU,27
+Pokemon = HORSEA,27
+Pokemon = TENTACRUEL,27
+#-------------------------------
+[BEAUTY,Julie]
+Pokemon = STARYU,29
+Pokemon = STARYU,29
+Pokemon = STARYU,29
+#-------------------------------
+[BEAUTY,Tara]
+Pokemon = GOLDEEN,30
+Pokemon = SEAKING,30
+#-------------------------------
+[SWIMMERfE,Dawn]
+Pokemon = GOLDEEN,29
+Pokemon = SHELLDER,29
+Pokemon = SEAKING,29
+#-------------------------------
+[SWIMMERfE,Alice]
+Pokemon = HORSEA,29
+Pokemon = TENTACOOL,27
+Pokemon = TENTACOOL,27
+Pokemon = GOLDEEN,27
+#-------------------------------
+[SWIMMERmA,Douglas]
+Pokemon = POLIWAG,30
+Pokemon = POLIWHIRL,30
+#-------------------------------
+[SWIMMERmA,Axle]
+Pokemon = HORSEA,30
+Pokemon = HORSEA,30
+#-------------------------------
+[SWIMMERmA,Jamie]
+Pokemon = TENTACOOL,30
+Pokemon = SHELLDER,30
+#-------------------------------
+[SWIMMERfE,Debbie]
+Pokemon = GOLDEEN,29
+Pokemon = HORSEA,29
+Pokemon = STARYU,29
+#-------------------------------
+[RIVAL,???,9]
+Pokemon = SANDSLASH,47
+    Moves = SLASH,SWIFT,FURYATTACK,POISONSTING
+    IV = 27
+Pokemon = KADABRA,50
+    Moves = PSYBEAM,PSYCHIC,REFLECT,RECOVER
+    IV = 27
+Pokemon = EXEGGCUTE,45
+    Moves = LEECHSEED,STUNSPORE,POISONPOWDER,SOLARBEAM
+    IV = 27
+Pokemon = NINETALES,45
+    Moves = EMBER,TAILWHIP,QUICKATTACK,ROAR
+    IV = 27
+Pokemon = CLOYSTER,47
+    Moves = WITHDRAW,CLAMP,SUPERSONIC,AURORABEAM
+    IV = 27
+Pokemon = JOLTEON,53
+    Moves = THUNDER,THUNDERWAVE,PINMISSILE,AGILITY
+    IV = 27
+#-------------------------------
+[RIVAL,???,10]
+Pokemon = SANDSLASH,47
+    Moves = SLASH,SWIFT,FURYATTACK,POISONSTING
+    IV = 27
+Pokemon = KADABRA,50
+    Moves = PSYBEAM,PSYCHIC,REFLECT,RECOVER
+    IV = 27
+Pokemon = EXEGGCUTE,45
+    Moves = LEECHSEED,STUNSPORE,POISONPOWDER,SOLARBEAM
+    IV = 27
+Pokemon = CLOYSTER,45
+    Moves = WITHDRAW,CLAMP,SUPERSONIC,AURORABEAM
+    IV = 27
+Pokemon = MAGNETON,47
+    Moves = THUNDERSHOCK,THUNDERWAVE,SUPERSONIC,SWIFT
+    IV = 27
+Pokemon = FLAREON,53
+    Moves = FLAMETHROWER,LEER,FIRESPIN,SMOG
+    IV = 27
+#-------------------------------
+[RIVAL,???,11]
+Pokemon = SANDSLASH,47
+    Moves = SLASH,SWIFT,FURYATTACK,POISONSTING
+    IV = 27
+Pokemon = KADABRA,50
+    Moves = PSYBEAM,PSYCHIC,REFLECT,RECOVER
+    IV = 27
+Pokemon = EXEGGCUTE,45
+    Moves = LEECHSEED,STUNSPORE,POISONPOWDER,SOLARBEAM
+    IV = 27
+Pokemon = MAGNETON,47
+    Moves = THUNDERSHOCK,THUNDERWAVE,SUPERSONIC,SWIFT
+    IV = 27
+Pokemon = NINETALES,47
+    Moves = EMBER,TAILWHIP,QUICKATTACK,ROAR
+    IV = 27
+Pokemon = VAPOREON,53
+    Moves = HYDROPUMP,AURORABEAM,HAZE,ACIDARMOR
+    IV = 27
+#-------------------------------
+[LASS,Testing]
+Pokemon = ABOMASNOW,10
+    Moves = POWDERSNOW,LEER,RAZORLEAF,ICYWIND
+Pokemon = ABOMASNOW,11
+    Moves = POWDERSNOW,LEER,RAZORLEAF,ICYWIND
+#-------------------------------
+[LASS,Test]
+Pokemon = ABRA,10
+    Moves = TELEPORT
+#-------------------------------
+[LASS,Tested]
+Pokemon = ZWEILOUS,10
+    Moves = DOUBLEHIT,DRAGONRAGE,FOCUSENERGY,BITE
+#-------------------------------
+[TEAMROCKET_Male,Grunt,9]
+Pokemon = KOFFING,21
+    Moves = SMOKESCREEN,ASSURANCE,CLEARSMOG,SLUDGE
+Pokemon = ZUBAT,21
+    Moves = ASTONISH,BITE,WINGATTACK,CONFUSERAY
+#-------------------------------
+[COOLTRAINER_Male,Rolando]
+Pokemon = PERSIAN,44
+Pokemon = NINETALES,44
+#-------------------------------
+[COOLTRAINER_Female,Naomi]
+Pokemon = IVYSAUR,42
+Pokemon = WARTORTLE,42
+Pokemon = CHARMELEON,42
+Pokemon = CHARIZARD,42
+#-------------------------------
+[BLACKBELT,Marcus]
+Pokemon = MACHOKE,43
+Pokemon = MACHOP,43
+Pokemon = MACHOKE,43
+#-------------------------------
+[JUGGLER,Nelson]
+Pokemon = DROWZEE,41
+Pokemon = HYPNO,41
+Pokemon = KADABRA,41
+Pokemon = KADABRA,41
+#-------------------------------
+[TAMER,Vincent]
+Pokemon = PERSIAN,44
+Pokemon = GOLDUCK,44
+#-------------------------------
+[JUGGLER,Gregory]
+Pokemon = MRMIME,48
+#-------------------------------
+[POKEMANIAC,Dawson]
+Pokemon = CHARMELEON,40
+Pokemon = LAPRAS,40
+Pokemon = LICKITUNG,40
+#-------------------------------
+[COOLTRAINER_Male,Colby]
+Pokemon = EXEGGUTOR,43
+Pokemon = CLOYSTER,43
+Pokemon = ARCANINE,43
+#-------------------------------
+[COOLTRAINER_Female,Caitlin]
+Pokemon = PARASECT,43
+Pokemon = DEWGONG,43
+Pokemon = CHANSEY,43
+#-------------------------------
+[COOLTRAINER_Female,Caroline]
+Pokemon = BELLSPROUT,43
+Pokemon = WEEPINBELL,43
+Pokemon = VICTREEBEL,43
+#-------------------------------
+[COOLTRAINER_Male,Ray]
+Pokemon = KINGLER,43
+Pokemon = TENTACRUEL,43
+Pokemon = BLASTOISE,43
+#-------------------------------
+[ELITE_LORELEI,Lorelei]
+Pokemon = DEWGONG,54
+    Moves = BUBBLEBEAM,AURORABEAM,REST,TAKEDOWN
+    IV = 29
+Pokemon = CLOYSTER,53
+    Moves = SUPERSONIC,CLAMP,ICEBEAM,SPIKECANNON
+    IV = 29
+Pokemon = SLOWBRO,54
+    Moves = SURF,PSYCHIC,WITHDRAW,AMNESIA
+    IV = 29
+Pokemon = JYNX,56
+    Moves = DOUBLESLAP,ICEPUNCH,LOVELYKISS,THRASH
+    IV = 29
+Pokemon = LAPRAS,56
+    Moves = BODYSLAM,CONFUSERAY,HYDROPUMP,BLIZZARD
+    IV = 29
+#-------------------------------
+[ELITE_BRUNO,Bruno]
+Pokemon = ONIX,53
+    Moves = ROCKSLIDE,DIG,SCREECH,SLAM
+    IV = 29
+Pokemon = HITMONCHAN,55
+    Moves = ICEPUNCH,FIREPUNCH,THUNDERPUNCH,DOUBLETEAM
+    IV = 29
+Pokemon = HITMONLEE,55
+    Moves = DOUBLEKICK,DOUBLETEAM,MEGAKICK
+    IV = 29
+Pokemon = ONIX,56
+    Moves = ROCKSLIDE,SCREECH,EARTHQUAKE,SLAM
+    IV = 29
+Pokemon = MACHAMP,58
+    Moves = LEER,STRENGTH,KARATECHOP,SUBMISSION
+    IV = 29
+#-------------------------------
+[ELITE_AGATHA,Agatha]
+Pokemon = GENGAR,56
+    Moves = CONFUSERAY,LICK,SUBSTITUTE,MEGADRAIN
+    IV = 29
+Pokemon = GOLBAT,56
+    Moves = SUPERSONIC,LEECHLIFE,WINGATTACK,TOXIC
+    IV = 29
+Pokemon = HAUNTER,55
+    Moves = CONFUSERAY,LICK,HYPNOSIS,DREAMEATER
+    IV = 29
+Pokemon = ARBOK,58
+    Moves = WRAP,GLARE,SCREECH,ACID
+    IV = 29
+Pokemon = GENGAR,60
+    Moves = CONFUSERAY,PSYCHIC,HYPNOSIS,DREAMEATER
+    IV = 29
+#-------------------------------
+[ELITE_LANCE,Lance]
+Pokemon = GYARADOS,58
+    Moves = HYDROPUMP,DRAGONRAGE,LEER,HYPERBEAM
+    IV = 29
+Pokemon = DRAGONAIR,56
+    Moves = THUNDERBOLT,SLAM,THUNDERWAVE,HYPERBEAM
+    IV = 29
+Pokemon = DRAGONAIR,56
+    Moves = WRAP,BUBBLEBEAM,ICEBEAM,HYPERBEAM
+    IV = 29
+Pokemon = AERODACTYL,60
+    Moves = WINGATTACK,FLY,SWIFT,HYPERBEAM
+    IV = 29
+Pokemon = DRAGONITE,62
+    Moves = BLIZZARD,FIREBLAST,THUNDER,HYPERBEAM
+    IV = 29
+#-------------------------------
+[CHAMPION,???]
+Pokemon = SANDSLASH,61
+    Moves = EARTHQUAKE,SLASH,POISONSTING,FURYSWIPES
+    IV = 29
+Pokemon = ALAKAZAM,59
+    Moves = PSYBEAM,RECOVER,PSYCHIC,KINESIS
+    IV = 29
+Pokemon = EXEGGUTOR,61
+    Moves = BARRAGE,HYPNOSIS,STOMP,LEECHSEED
+    IV = 29
+Pokemon = NINETALES,61
+    Moves = FIRESPIN,TAILWHIP,QUICKATTACK,CONFUSERAY
+    IV = 29
+Pokemon = MAGNETON,63
+    Moves = THUNDERBOLT,THUNDERWAVE,SCREECH,SWIFT
+    IV = 29
+Pokemon = VAPOREON,65
+    Moves = HYDROPUMP,AURORABEAM,QUICKATTACK,MIST
+    IV = 29
+#-------------------------------
+[CHAMPION,???,1]
+Pokemon = SANDSLASH,61
+    Moves = EARTHQUAKE,SLASH,POISONSTING,FURYSWIPES
+    IV = 29
+Pokemon = ALAKAZAM,59
+    Moves = PSYBEAM,RECOVER,PSYCHIC,KINESIS
+    IV = 29
+Pokemon = EXEGGUTOR,61
+    Moves = BARRAGE,HYPNOSIS,STOMP,LEECHSEED
+    IV = 29
+Pokemon = CLOYSTER,61
+    Moves = ICEBEAM,SPIKECANNON,AURORABEAM,CLAMP
+    IV = 29
+Pokemon = NINETALES,63
+    Moves = FIRESPIN,TAILWHIP,QUICKATTACK,CONFUSERAY
+    IV = 29
+Pokemon = JOLTEON,65
+    Moves = THUNDER,THUNDERBOLT,QUICKATTACK,PINMISSILE
+    IV = 29
+#-------------------------------
+[CHAMPION,???,2]
+Pokemon = SANDSLASH,61
+    Moves = EARTHQUAKE,SLASH,POISONSTING,FURYSWIPES
+    IV = 29
+Pokemon = ALAKAZAM,59
+    Moves = PSYBEAM,RECOVER,PSYCHIC,KINESIS
+    IV = 29
+Pokemon = EXEGGUTOR,61
+    Moves = BARRAGE,HYPNOSIS,STOMP,LEECHSEED
+    IV = 29
+Pokemon = MAGNETON,63
+    Moves = THUNDERBOLT,THUNDERWAVE,SCREECH,SWIFT
+    IV = 29
+Pokemon = CLOYSTER,61
+    Moves = ICEBEAM,SPIKECANNON,AURORABEAM,CLAMP
+    IV = 29
+Pokemon = FLAREON,65
+    Moves = FLAMETHROWER,QUICKATTACK,REFLECT,FIRESPIN
+    IV = 29
+#-------------------------------
+[SAILOR,Mario]
+Pokemon = SHELLDER,21
+#-------------------------------
+[SAILOR,Darien]
+Pokemon = HORSEA,17
+Pokemon = SHELLDER,17
+Pokemon = TENTACOOL,17
+#-------------------------------
+[SAILOR,Terrance]
+Pokemon = HORSEA,17
+Pokemon = HORSEA,17
+Pokemon = HORSEA,17
+#-------------------------------
+[SAILOR,Adam]
+Pokemon = TENTACOOL,18
+Pokemon = STARYU,18
+#-------------------------------
+[FISHERMAN,Mike]
+Pokemon = TENTACOOL,17
+Pokemon = STARYU,17
+Pokemon = SHELLDER,17
+#-------------------------------
+[SAILOR,Mark]
+Pokemon = MACHOP,20
+#-------------------------------
+[FISHERMAN,Thomas]
+Pokemon = GOLDEEN,17
+Pokemon = TENTACOOL,17
+Pokemon = GOLDEEN,17
+#-------------------------------
+[GENTLEMAN,Andy]
+Pokemon = VOLTORB,22
+Pokemon = MAGNEMITE,22
+#-------------------------------
+[GENTLEMAN,Romeo]
+Pokemon = GROWLITHE,17
+Pokemon = PONYTA,17
+#-------------------------------
+[LASS,Laura]
+Pokemon = JIGGLYPUFF,20
+#-------------------------------
+[SAILOR,Jimmy]
+Pokemon = MACHOP,18
+Pokemon = SHELLDER,18
+#-------------------------------
+[SAILOR,Adam]
+Pokemon = MACHOP,17
+Pokemon = TENTACOOL,17
+#-------------------------------
+[RIVAL,???]
+Pokemon = ABOMASNOW,10
+    Moves = POWDERSNOW,LEER,RAZORLEAF,ICYWIND
+#-------------------------------
+[JRTRAINER_m,Liam]
+Pokemon = ABOMASNOW,10
+    Moves = POWDERSNOW,LEER,RAZORLEAF,ICYWIND
+#-------------------------------
+[TEAMROCKET_Male,Grunt,1]
+Pokemon = ABOMASNOW,10
+    Moves = POWDERSNOW,LEER,RAZORLEAF,ICYWIND
+#-------------------------------
+[TEAMROCKET_Female,Grunt,1]
+Pokemon = ABOMASNOW,10
+    Moves = POWDERSNOW,LEER,RAZORLEAF,ICYWIND
+#-------------------------------
+[TEAMROCKET_Male,Grunt]
+Pokemon = ABOMASNOW,10
+    Moves = POWDERSNOW,LEER,RAZORLEAF,ICYWIND
+#-------------------------------
+[TEAMROCKET_Female,Grunt]
+Pokemon = ABOMASNOW,10
+    Moves = POWDERSNOW,LEER,RAZORLEAF,ICYWIND
+#-------------------------------
+[JRTRAINER_f,Jess]
+Pokemon = ABOMASNOW,10
+    Moves = POWDERSNOW,LEER,RAZORLEAF,ICYWIND
+#-------------------------------
+[JRTRAINER_m,Derek]
+Pokemon = ABOMASNOW,10
+    Moves = POWDERSNOW,LEER,RAZORLEAF,ICYWIND
+#-------------------------------
+[JRTRAINER_m,Reece]
+Pokemon = ABOMASNOW,10
+    Moves = POWDERSNOW,LEER,RAZORLEAF,ICYWIND
+#-------------------------------
+[JRTRAINER_m,Terry]
+Pokemon = ABOMASNOW,10
+    Moves = POWDERSNOW,LEER,RAZORLEAF,ICYWIND
+#-------------------------------
+[JRTRAINER_m,Dylan]
+Pokemon = ABOMASNOW,10
+    Moves = POWDERSNOW,LEER,RAZORLEAF,ICYWIND
+#-------------------------------
+[JRTRAINER_f,Chloe]
+Pokemon = ABOMASNOW,10
+    Moves = POWDERSNOW,LEER,RAZORLEAF,ICYWIND
+#-------------------------------
+[JRTRAINER_f,Megan]
+Pokemon = ABOMASNOW,10
+    Moves = POWDERSNOW,LEER,RAZORLEAF,ICYWIND
+#-------------------------------
+[JRTRAINER_m,Jacob]
+Pokemon = ABOMASNOW,10
+    Moves = POWDERSNOW,LEER,RAZORLEAF,ICYWIND
+#-------------------------------
+[JRTRAINER_m,Jay]
+Pokemon = ABOMASNOW,10
+    Moves = POWDERSNOW,LEER,RAZORLEAF,ICYWIND
+#-------------------------------
+[JRTRAINER_m,Cole]
+Pokemon = ABOMASNOW,10
+    Moves = POWDERSNOW,LEER,RAZORLEAF,ICYWIND
+#-------------------------------
+[JRTRAINER_f,Linda]
+Pokemon = ABOMASNOW,10
+    Moves = POWDERSNOW,LEER,RAZORLEAF,ICYWIND
+#-------------------------------
+[JRTRAINER_f,Marie]
+Pokemon = ABOMASNOW,10
+    Moves = POWDERSNOW,LEER,RAZORLEAF,ICYWIND
+#-------------------------------
+[TEAMROCKET_Male,Grunt,6]
+Pokemon = ABOMASNOW,10
+    Moves = POWDERSNOW,LEER,RAZORLEAF,ICYWIND
+#-------------------------------
+[TEAMROCKET_Male,Grunt,7]
+Pokemon = ABOMASNOW,10
+    Moves = POWDERSNOW,LEER,RAZORLEAF,ICYWIND
+#-------------------------------
+[TEAMROCKET_Male,Grunt,8]
+Pokemon = ABOMASNOW,10
+    Moves = POWDERSNOW,LEER,RAZORLEAF,ICYWIND
+#-------------------------------
+[TEAMROCKET_Male,Grunt,11]
+Pokemon = ABOMASNOW,10
+    Moves = POWDERSNOW,LEER,RAZORLEAF,ICYWIND
+#-------------------------------
+[TEAMROCKET_Male,Grunt,10]
+Pokemon = ABOMASNOW,10
+    Moves = POWDERSNOW,LEER,RAZORLEAF,ICYWIND
+#-------------------------------
+[TEAMROCKET_Male,Grunt,13]
+Pokemon = ABOMASNOW,10
+    Moves = POWDERSNOW,LEER,RAZORLEAF,ICYWIND
+Pokemon = ABOMASNOW,10
+    Moves = POWDERSNOW,LEER,RAZORLEAF,ICYWIND
+#-------------------------------
+[TEAMROCKET_Male,Grunt,12]
+Pokemon = ABOMASNOW,10
+    Moves = POWDERSNOW,LEER,RAZORLEAF,ICYWIND
+#-------------------------------
+[TEAMROCKET_Male,Grunt,14]
+Pokemon = ABOMASNOW,10
+    Moves = POWDERSNOW,LEER,RAZORLEAF,ICYWIND
+#-------------------------------
+[TEAMROCKET_Female,Grunt,9]
+Pokemon = ABOMASNOW,10
+    Moves = POWDERSNOW,LEER,RAZORLEAF,ICYWIND
+#-------------------------------
+[TEAMROCKET_Female,Grunt,10]
+Pokemon = ABOMASNOW,10
+    Moves = POWDERSNOW,LEER,RAZORLEAF,ICYWIND
+#-------------------------------
+[TEAMROCKET_Male,Grunt,15]
+Pokemon = ABOMASNOW,10
+    Moves = POWDERSNOW,LEER,RAZORLEAF,ICYWIND
+#-------------------------------
+[TEAMROCKET_Male,Grunt,16]
+Pokemon = ABOMASNOW,10
+    Moves = POWDERSNOW,LEER,RAZORLEAF,ICYWIND
+#-------------------------------
+[TEAMROCKET_Male,Grunt,17]
+Pokemon = ABOMASNOW,10
+    Moves = POWDERSNOW,LEER,RAZORLEAF,ICYWIND
+#-------------------------------
+[TEAMROCKET_Male,Grunt,18]
+Pokemon = ABOMASNOW,10
+    Moves = POWDERSNOW,LEER,RAZORLEAF,ICYWIND
+#-------------------------------
+[TEAMROCKET_Male,Grunt,19]
+Pokemon = ABOMASNOW,10
+    Moves = POWDERSNOW,LEER,RAZORLEAF,ICYWIND
+#-------------------------------
+[TEAMROCKET_Male,Grunt,20]
+Pokemon = ABOMASNOW,10
+    Moves = POWDERSNOW,LEER,RAZORLEAF,ICYWIND
+#-------------------------------
+[TEAMROCKET_Male,Grunt,21]
+Pokemon = ABOMASNOW,10
+    Moves = POWDERSNOW,LEER,RAZORLEAF,ICYWIND
+#-------------------------------
+[LEADER_BROCK,Brock,1]
+Pokemon = ONIX,50
+    Moves = STEALTHROCK,DRAGONBREATH,SANDTOMB,IRONTAIL
+    IV = 21
+Pokemon = SUDOWOODO,50
+    Moves = STONEEDGE,HAMMERARM,WOODHAMMER,SUCKERPUNCH
+    Item = CHOPLEBERRY
+    IV = 21
+Pokemon = RHYPERIOR,50
+    Moves = THUNDERBOLT,ROCKBLAST,HAMMERARM,DRILLRUN
+    Item = CHARTIBERRY
+    IV = 21
+Pokemon = KABUTOPS,50
+    Moves = STONEEDGE,AQUAJET,SUPERPOWER,SWORDSDANCE
+    Item = LIECHIBERRY
+    IV = 21
+Pokemon = OMASTAR,50
+    Moves = HYDROPUMP,ANCIENTPOWER,EARTHPOWER,ICEBEAM
+    Item = RINDOBERRY
+    IV = 21
+Pokemon = RELICANTH,50
+    Moves = ROCKSLIDE,WATERFALL,YAWN,ROCKPOLISH
+    Item = ROCKGEM
+    IV = 21
+#-------------------------------
+[LEADER_MISTY,Misty,1]
+Pokemon = STARMIE,50
+    Moves = PSYCHIC,HYDROPUMP,ICEBEAM,THUNDERBOLT
+    Item = PETAYABERRY
+    IV = 21
+Pokemon = POLITOED,50
+    Moves = PERISHSONG,SURF,BOUNCE,HYPERVOICE
+    Item = APICOTBERRY
+    IV = 21
+Pokemon = LAPRAS,50
+    Moves = ICEBEAM,THUNDER,CONFUSERAY,HYDROPUMP
+    Item = GANLONBERRY
+    IV = 21
+Pokemon = SEAKING,50
+    Moves = MEGAHORN,WATERFALL,POISONJAB,AGILITY
+    Item = WACANBERRY
+    IV = 21
+Pokemon = GOLDUCK,50
+    Moves = BLIZZARD,FOCUSBLAST,AQUAJET,HONECLAWS
+    Item = WATERGEM
+    IV = 21
+Pokemon = BLASTOISE,50
+    Moves = AVALANCHE,HYDROPUMP,HEADSMASH,IRONTAIL
+    Item = SALACBERRY
+    IV = 21
+#-------------------------------
+[LEADER_SURGE,Lt.Surge,1]
+Pokemon = RAICHU,50
+    Moves = THUNDERWAVE,FOCUSBLAST,SIGNALBEAM,THUNDERBOLT
+    Item = ELECTRICGEM
+    IV = 21
+Pokemon = JOLTEON,50
+    Moves = RAINDANCE,SHADOWBALL,THUNDER,SIGNALBEAM
+    Item = SHUCABERRY
+    IV = 21
+Pokemon = ELECTIVIRE,50
+    Moves = ELECTROBALL,THUNDERPUNCH,DISCHARGE,THUNDERBOLT
+    IV = 21
+Pokemon = ELECTRODE,50
+    Moves = CHARGE,MIRRORCOAT,MAGNETRISE,THUNDER
+    Item = LUMBERRY
+    IV = 21
+Pokemon = MAGNETON,50
+    Moves = DISCHARGE,FLASHCANNON,BARRIER,SIGNALBEAM
+    Item = AIRBALLOON
+    IV = 21
+Pokemon = LANTURN,50
+    Moves = CHARGE,DISCHARGE,SURF,POWERGEM
+    Item = PETAYABERRY
+    IV = 21
+#-------------------------------
+[LEADER_ERIKA,Erika,1]
+Pokemon = VILEPLUME,50
+    Moves = PETALDANCE,SLEEPPOWDER,SUNNYDAY,MOONLIGHT
+    Item = GRASSGEM
+    IV = 21
+Pokemon = BELLOSSOM,50
+    Moves = SUNNYDAY,DRAINPUNCH,LEAFBLADE,MAGICALLEAF
+    Item = FIGHTINGGEM
+    IV = 21
+Pokemon = VICTREEBEL,50
+    Moves = SUCKERPUNCH,LEAFTORNADO,REFLECT,LEAFBLADE
+    Item = SALACBERRY
+    IV = 21
+Pokemon = EXEGGUTOR,50
+    Moves = PSYSHOCK,SOLARBEAM,HYPNOSIS,SUNNYDAY
+    Item = TANGABERRY
+    IV = 21
+Pokemon = JUMPLUFF,50
+    Moves = SWORDSDANCE,ROCKSLIDE,POWERWHIP,AERIALACE
+    Item = LIECHIBERRY
+    IV = 21
+Pokemon = VENUSAUR,50
+    Moves = SYNTHESIS,LIGHTSCREEN,LEAFSTORM,TOXIC
+    Item = SITRUSBERRY
+    IV = 21
+#-------------------------------
+[LEADER_SABRINA,Sabrina,1]
+Pokemon = ALAKAZAM,50
+    Moves = PSYSHOCK,SHADOWBALL,FOCUSBLAST,CHARGEBEAM
+    Item = COLBURBERRY
+    IV = 21
+Pokemon = HYPNO,50
+    Moves = HYPNOSIS,DREAMEATER,CALMMIND,SHADOWBALL
+    Item = SITRUSBERRY
+    IV = 21
+Pokemon = MRMIME,50
+    Moves = PSYCHIC,LIGHTSCREEN,CHARGEBEAM,REFLECT
+    Item = KASIBBERRY
+    IV = 21
+Pokemon = SLOWKING,50
+    Moves = PSYSHOCK,ICEBEAM,CALMMIND,SLACKOFF
+    Item = GANLONBERRY
+    IV = 21
+Pokemon = ESPEON,50
+    Moves = PSYSHOCK,SHADOWBALL,REFLECT,YAWN
+    Item = PETAYABERRY
+    IV = 21
+Pokemon = JYNX,50
+    Moves = LOVELYKISS,DREAMEATER,FROSTBREATH,ENERGYBALL
+    Item = SALACBERRY
+    IV = 21
+#-------------------------------
+[LEADER_KOGA,Koga,1]
+Pokemon = ARIADOS,50
+    Moves = POISONJAB,STRUGGLEBUG,ELECTROWEB,SUCKERPUNCH
+    Item = PAYAPABERRY
+    IV = 21
+Pokemon = MUK,50
+    Moves = FIREBLAST,SLUDGEBOMB,ACIDARMOR,SLUDGEWAVE
+    Item = FIREGEM
+    IV = 21
+Pokemon = CROBAT,50
+    Moves = TOXIC,SUPERFANG,HEATWAVE,TAILWIND
+    Item = SITRUSBERRY
+    IV = 21
+Pokemon = ARBOK,50
+    Moves = GUNKSHOT,SUCKERPUNCH,COIL,DRAGONTAIL
+    Item = SHUCABERRY
+    IV = 21
+Pokemon = VENOMOTH,50
+    Moves = SIGNALBEAM,BUGBUZZ,GIGADRAIN,SLUDGEBOMB
+    Item = PETAYABERRY
+    IV = 21
+Pokemon = DUSTOX,50
+    Moves = TOXICSPIKES,SIGNALBEAM,AERIALACE,BARRIER
+    Item = APICOTBERRY
+    IV = 21
+#-------------------------------
+[LEADER_BLAINE,Blaine,1]
+Pokemon = FLAREON,50
+    Moves = FLAMECHARGE,SUPERPOWER,FLAIL,YAWN
+    Item = SALACBERRY
+    IV = 21
+Pokemon = ARCANINE,50
+    Moves = FLAREBLITZ,WILDCHARGE,CLOSECOMBAT,EXTREMESPEED
+    Item = LIECHIBERRY
+    IV = 21
+Pokemon = MAGMORTAR,50
+    Moves = FIREBLAST,PSYCHIC,THUNDERBOLT,FOCUSBLAST
+    Item = PETAYABERRY
+    IV = 21
+Pokemon = NINETALES,50
+    Moves = HEATWAVE,ENERGYBALL,HYPNOSIS,NASTYPLOT
+    Item = CHARTIBERRY
+    IV = 21
+Pokemon = CHARIZARD,50
+    Moves = INFERNO,DRAGONRUSH,FOCUSBLAST,HONECLAWS
+    Item = DRAGONGEM
+    IV = 21
+Pokemon = RAPIDASH,50
+    Moves = FLAREBLITZ,MEGAHORN,WILDCHARGE,HYPNOSIS
+    Item = SHUCABERRY
+    IV = 21
+#-------------------------------
+[LEADER_GIOVANNI,Giovanni,1]
+Pokemon = SANDSLASH,50
+    Moves = SANDSTORM,ROCKSLIDE,EARTHQUAKE,BRICKBREAK
+    Item = SALACBERRY
+    IV = 21
+Pokemon = NIDOKING,50
+    Moves = MEGAHORN,BLIZZARD,EARTHPOWER,SLUDGEWAVE
+    Item = SHUCABERRY
+    IV = 21
+Pokemon = TYRANITAR,50
+    Moves = THRASH,DARKPULSE,EARTHQUAKE,CRUNCH
+    Item = RINDOBERRY
+    IV = 21
+Pokemon = MAROWAK,50
+    Moves = BONEMERANG,STONEEDGE,OUTRAGE,THUNDERPUNCH
+    Item = YACHEBERRY
+    IV = 21
+Pokemon = NIDOQUEEN,50
+    Moves = SUPERPOWER,POISONJAB,EARTHPOWER,THUNDER
+    Item = PASSHOBERRY
+    IV = 21
+Pokemon = RHYDON,50
+    Moves = HAMMERARM,STONEEDGE,MEGAHORN,DRILLRUN
+    Item = LIECHIBERRY
+    IV = 21
+#-------------------------------
+[TEAMROCKET_Male,GRUNT,3]
+Pokemon = ABOMASNOW,10
+    Moves = POWDERSNOW,LEER,RAZORLEAF,ICYWIND
+Pokemon = ABRA,10
+    Moves = TELEPORT
+#-------------------------------
+[ELITE_ASH,Ash]
+Pokemon = PIKACHU,99
+    Moves = AGILITY,WILDCHARGE,LIGHTSCREEN,THUNDER
+Pokemon = CRAWDAUNT,99
+    Moves = SWORDSDANCE,CRUNCH,CRABHAMMER,GUILLOTINE
+Pokemon = GLALIE,99
+    Moves = ICEFANG,HEADBUTT,PROTECT,FROSTBREATH
+Pokemon = SCEPTILE,99
+    Moves = LEAFBLADE,AERIALACE,SLAM,AGILITY
+Pokemon = SWELLOW,99
+    Moves = FOCUSENERGY,QUICKATTACK,WINGATTACK,AERIALACE
+Pokemon = LYCANROC,99
+    Moves = ROCKSLIDE,SCARYFACE,CRUNCH,STONEEDGE
+#-------------------------------
+[LEADER_Falkner,Falkner]
+Pokemon = PIDGEOT,60
+    Moves = TACKLE,SANDATTACK,GUST,QUICKATTACK
+Pokemon = CHARIZARD,60
+    Moves = SCRATCH,GROWL,EMBER,SMOKESCREEN
+Pokemon = DODRIO,60
+    Moves = PECK,GROWL,QUICKATTACK,RAGE
+Pokemon = GLIGAR,60
+    Moves = POISONSTING,SANDATTACK,HARDEN,KNOCKOFF
+Pokemon = SKARMORY,60
+    Moves = LEER,PECK,SANDATTACK,METALCLAW
+Pokemon = ZAPDOS,60
+    Moves = DRILLPECK,PECK,THUNDERSHOCK,THUNDERWAVE
+#-------------------------------
+[LEADER_Bugsy,Bugsy]
+Pokemon = SCYTHER,50
+    Moves = QUICKATTACK,LEER,FOCUSENERGY,PURSUIT
+Pokemon = HERACROSS,50
+    Moves = HORNATTACK,ENDURE,FEINT,AERIALACE
+Pokemon = PINSIR,50
+    Moves = FOCUSENERGY,BIND,SEISMICTOSS,HARDEN
+Pokemon = QUAGSIRE,50
+    Moves = WATERGUN,TAILWHIP,MUDSPORT,MUDSHOT
+Pokemon = SUICUNE,50
+    Moves = TAILWIND,BITE,LEER,BUBBLEBEAM
+Pokemon = SUDOWOODO,50
+    Moves = COPYCAT,FLAIL,LOWKICK,ROCKTHROW
+#-------------------------------
+[LEADER_Whitney,Whitney]
+Pokemon = MILTANK,70
+    Moves = GROWL,DEFENSECURL,STOMP,MILKDRINK
+Pokemon = DONPHAN,70
+    Moves = GROWL,DEFENSECURL,RAPIDSPIN,ROLLOUT
+Pokemon = FLAAFFY,70
+    Moves = GROWL,THUNDERWAVE,THUNDERSHOCK,COTTONSPORE
+Pokemon = MRMIME,70
+    Moves = CONFUSION,COPYCAT,MEDITATE,DOUBLESLAP
+Pokemon = DELIBIRD,70
+    Moves = PRESENT
+Pokemon = HITMONCHAN,70
+    Moves = FOCUSPUNCH,REVENGE,COMETPUNCH,AGILITY
+#-------------------------------
+[LEADER_Morty,Morty]
+Pokemon = GENGAR,70
+    Moves = HYPNOSIS,LICK,SPITE,MEANLOOK
+Pokemon = MISMAGIUS,70
+    Moves = GROWL,PSYWAVE,SPITE,ASTONISH
+Pokemon = MANTINE,70
+    Moves = BUBBLE,SUPERSONIC,BUBBLEBEAM,CONFUSERAY
+Pokemon = LAPRAS,70
+    Moves = WATERGUN,MIST,CONFUSERAY,ICESHARD
+Pokemon = GRANBULL,70
+    Moves = SCARYFACE,TAILWHIP,CHARM,BITE
+Pokemon = EXEGGUTOR,70
+    Moves = BARRAGE,HYPNOSIS,CONFUSION,STOMP
+#-------------------------------
+[LEADER_Chuck,Chuck]
+Pokemon = POLIWRATH,70
+    Moves = BUBBLEBEAM,HYPNOSIS,DOUBLESLAP,SUBMISSION
+Pokemon = MACHAMP,70
+    Moves = FOCUSENERGY,KARATECHOP,FORESIGHT,LOWSWEEP
+Pokemon = HITMONCHAN,70
+    Moves = REVENGE,COMETPUNCH,AGILITY,PURSUIT
+Pokemon = HITMONLEE,70
+    Moves = REVENGE,DOUBLEKICK,MEDITATE,ROLLINGKICK
+Pokemon = HITMONTOP,70
+    Moves = REVENGE,ROLLINGKICK,FOCUSENERGY,PURSUIT
+Pokemon = ELECTABUZZ,70
+    Moves = QUICKATTACK,LEER,THUNDERSHOCK,LOWKICK
+#-------------------------------
+[LEADER_Pryce,Pryce]
+Pokemon = MAMOSWINE,90
+    Moves = PECK,ODORSLEUTH,MUDSPORT,POWDERSNOW
+Pokemon = JYNX,90
+    Moves = POUND,LICK,LOVELYKISS,POWDERSNOW
+Pokemon = CLOYSTER,90
+    Moves = SUPERSONIC,PROTECT,AURORABEAM,SPIKECANNON
+Pokemon = LAPRAS,90
+    Moves = WATERGUN,MIST,CONFUSERAY,ICESHARD
+Pokemon = WEAVILE,90
+    Moves = LEER,TAUNT,QUICKATTACK,FEINTATTACK
+Pokemon = ARTICUNO,90
+    Moves = SHEERCOLD,GUST,POWDERSNOW,MIST
+#-------------------------------
+[LEADER_Clair,Clair]
+Pokemon = KINGDRA,90
+    Moves = BUBBLE,SMOKESCREEN,LEER,WATERGUN
+Pokemon = DRAGONITE,90
+    Moves = WRAP,LEER,THUNDERWAVE,TWISTER
+Pokemon = ALTARIA,90
+    Moves = ASTONISH,SING,FURYATTACK,SAFEGUARD
+Pokemon = SALAMENCE,90
+    Moves = EMBER,LEER,BITE,DRAGONBREATH
+Pokemon = DRUDDIGON,90
+    Moves = SCRATCH,HONECLAWS,BITE,SCARYFACE
+Pokemon = GARCHOMP,90
+    Moves = TACKLE,SANDATTACK,DRAGONRAGE,SANDSTORM
+#-------------------------------
+[LEADER_Jasmine,Jasmine]
+Pokemon = STEELIX,10
+    Moves = IRONTAIL,CRUNCH,ROCKSLIDE,SCREECH
+Pokemon = MAGNEZONE,90
+    Moves = TACKLE,SUPERSONIC,THUNDERSHOCK,SONICBOOM
+Pokemon = FORRETRESS,90
+    Moves = TACKLE,PROTECT,SELFDESTRUCT,BUGBITE
+Pokemon = SKARMORY,90
+    Moves = LEER,PECK,SANDATTACK,METALCLAW
+Pokemon = METAGROSS,90
+    Moves = MAGNETRISE,TAKEDOWN,CONFUSION,METALCLAW
+Pokemon = LUCARIO,90
+    Moves = FORESIGHT,QUICKATTACK,DETECT,METALCLAW
+#-------------------------------
+[YOUNGSTER,Don]
+Pokemon = AIPOM,10
+    Moves = TAILWHIP,SANDATTACK,ASTONISH,BATONPASS
+#-------------------------------
+[BUGCATCHER,Don]
+Pokemon = CATERPIE,10
+    Moves = TACKLE,STRINGSHOT
+#-------------------------------
+[RainbowROCKET_Male,Grunt]
+Pokemon = RATTATA,13
+Pokemon = ZUBAT,13
+Pokemon = ZUBAT,13
+#-------------------------------
+[RainbowROCKET_Female,Grunt]
+Pokemon = RATTATA,13
+Pokemon = ZUBAT,13
+Pokemon = ZUBAT,13
+#-------------------------------
+[RainbowROCKET_Giovanni,Giovanni]
+Pokemon = RHYPERIOR,100
+Pokemon = GARCHOMP,100
+Pokemon = NIDOKING,100
+Pokemon = MEWTWO,100
+Pokemon = PERSIAN,100
+Pokemon = GENGAR,100
+#-------------------------------
+[RainbowROCKET_Archie,Archie]
+Pokemon = KYOGRE,100
+Pokemon = SHARPEDO,100
+Pokemon = CROBAT,100
+Pokemon = MUK,100
+#-------------------------------
+[RainbowROCKET_Maxie,Maxie]
+Pokemon = GROUDON,100
+Pokemon = CAMERUPT,100
+Pokemon = CROBAT,100
+Pokemon = WEEZING,100
+#-------------------------------
+[RainbowROCKET_Cyrus,Cyrus]
+Pokemon = DIALGA,100
+Pokemon = PALKIA,100
+Pokemon = AZELF,100
+Pokemon = MESPRIT,100
+Pokemon = UXIE,100
+#-------------------------------
+[RainbowROCKET_Ghestis,Ghestis]
+Pokemon = KYUREM,100
+Pokemon = TOXICROAK,100
+Pokemon = DRAPION,100
+Pokemon = HYDREIGON,100
+Pokemon = EELEKTROSS,100
+Pokemon = SEISMITOAD,100
+#-------------------------------
+[RainbowROCKET_Lysandre,Lysandre]
+Pokemon = ZYGARDE,100
+Pokemon = MIENFOO,100
+Pokemon = PYROAR,100
+Pokemon = GYARADOS,100
+#-------------------------------
+[LEADER_0,Brock,1]
+Pokemon = ONIX,50
+    Moves = STEALTHROCK,DRAGONBREATH,SANDTOMB,IRONTAIL
+    Item = SITRUSBERRY
+    IV = 21
+Pokemon = SUDOWOODO,50
+    Moves = STONEEDGE,HAMMERARM,WOODHAMMER,SUCKERPUNCH
+    Item = CHOPLEBERRY
+    IV = 21
+Pokemon = RHYPERIOR,50
+    Moves = THUNDERBOLT,ROCKBLAST,HAMMERARM,DRILLRUN
+    Item = CHARTIBERRY
+    IV = 21
+Pokemon = KABUTOPS,50
+    Moves = STONEEDGE,AQUAJET,SUPERPOWER,SWORDSDANCE
+    Item = LIECHIBERRY
+    IV = 21
+Pokemon = OMASTAR,50
+    Moves = HYDROPUMP,ANCIENTPOWER,EARTHPOWER,ICEBEAM
+    Item = RINDOBERRY
+    IV = 21
+Pokemon = RELICANTH,50
+    Moves = ROCKSLIDE,WATERFALL,YAWN,ROCKPOLISH
+    Ability = 0
+    Item = ROCKGEM
+    Happiness = 21
+#-------------------------------
+[LEADER_1,Misty,1]
+Pokemon = STARMIE,50
+    Moves = PSYCHIC,HYDROPUMP,ICEBEAM,THUNDERBOLT
+    Item = PETAYABERRY
+    IV = 21
+Pokemon = POLITOED,50
+    Moves = PERISHSONG,SURF,BOUNCE,HYPERVOICE
+    Item = APICOTBERRY
+    IV = 21
+Pokemon = LAPRAS,50
+    Moves = ICEBEAM,THUNDER,CONFUSERAY,HYDROPUMP
+    Item = GANLONBERRY
+    IV = 21
+Pokemon = SEAKING,50
+    Moves = MEGAHORN,WATERFALL,POISONJAB,AGILITY
+    Item = WACANBERRY
+    IV = 21
+Pokemon = GOLDUCK,50
+    Moves = BLIZZARD,FOCUSBLAST,AQUAJET,HONECLAWS
+    Item = WATERGEM
+    IV = 21
+Pokemon = BLASTOISE,50
+    Moves = AVALANCHE,HYDROPUMP,HEADSMASH,IRONTAIL
+    Item = SALACBERRY
+    IV = 21
+#-------------------------------
+[LEADER_2,Lt.Surge,1]
+Pokemon = RAICHU,50
+    Moves = THUNDERWAVE,FOCUSBLAST,SIGNALBEAM,THUNDERBOLT
+    Item = ELECTRICGEM
+    IV = 21
+Pokemon = JOLTEON,50
+    Moves = RAINDANCE,SHADOWBALL,THUNDER,SIGNALBEAM
+    Item = SHUCABERRY
+    IV = 21
+Pokemon = ELECTIVIRE,50
+    Moves = ELECTROBALL,THUNDERPUNCH,DISCHARGE,THUNDERBOLT
+    IV = 21
+Pokemon = ELECTRODE,50
+    Moves = CHARGE,MIRRORCOAT,MAGNETRISE,THUNDER
+    Item = LUMBERRY
+    IV = 21
+Pokemon = MAGNETON,50
+    Moves = DISCHARGE,FLASHCANNON,BARRIER,SIGNALBEAM
+    Item = AIRBALLOON
+    IV = 21
+Pokemon = LANTURN,50
+    Moves = CHARGE,DISCHARGE,SURF,POWERGEM
+    Item = PETAYABERRY
+    IV = 21
+#-------------------------------
+[LEADER_3,Erika,1]
+Pokemon = VILEPLUME,50
+    Moves = PETALDANCE,SLEEPPOWDER,SUNNYDAY,MOONLIGHT
+    Item = GRASSGEM
+    IV = 21
+Pokemon = BELLOSSOM,50
+    Moves = SUNNYDAY,DRAINPUNCH,LEAFBLADE,MAGICALLEAF
+    Item = FIGHTINGGEM
+    IV = 21
+Pokemon = VICTREEBEL,50
+    Moves = SUCKERPUNCH,LEAFTORNADO,REFLECT,LEAFBLADE
+    Item = SALACBERRY
+    IV = 21
+Pokemon = EXEGGUTOR,50
+    Moves = PSYSHOCK,SOLARBEAM,HYPNOSIS,SUNNYDAY
+    Item = TANGABERRY
+    IV = 21
+Pokemon = JUMPLUFF,50
+    Moves = SWORDSDANCE,ROCKSLIDE,POWERWHIP,AERIALACE
+    Item = LIECHIBERRY
+    IV = 21
+Pokemon = VENUSAUR,50
+    Moves = SYNTHESIS,LIGHTSCREEN,LEAFSTORM,TOXIC
+    Item = SITRUSBERRY
+#-------------------------------
+[LEADER_4,Sabrina,1]
+Pokemon = ALAKAZAM,50
+    Moves = PSYSHOCK,SHADOWBALL,FOCUSBLAST,CHARGEBEAM
+    Item = COLBURBERRY
+    IV = 21
+Pokemon = HYPNO,50
+    Moves = HYPNOSIS,DREAMEATER,CALMMIND,SHADOWBALL
+    Item = SITRUSBERRY
+    IV = 21
+Pokemon = MRMIME,50
+    Moves = PSYCHIC,LIGHTSCREEN,CHARGEBEAM,REFLECT
+    Item = KASIBBERRY
+    IV = 21
+Pokemon = SLOWKING,50
+    Moves = PSYSHOCK,ICEBEAM,CALMMIND,SLACKOFF
+    Item = GANLONBERRY
+    IV = 21
+Pokemon = ESPEON,50
+    Moves = PSYSHOCK,SHADOWBALL,REFLECT,YAWN
+    Item = PETAYABERRY
+    IV = 21
+Pokemon = JYNX,50
+    Moves = LOVELYKISS,DREAMEATER,FROSTBREATH,ENERGYBALL
+    Item = SALACBERRY
+    IV = 21
+#-------------------------------
+[LEADER_5,Koga,1]
+Pokemon = ARIADOS,50
+    Moves = POISONJAB,STRUGGLEBUG,ELECTROWEB,SUCKERPUNCH
+    Item = PAYAPABERRY
+    IV = 21
+Pokemon = MUK,50
+    Moves = FIREBLAST,SLUDGEBOMB,ACIDARMOR,SLUDGEWAVE
+    Item = FIREGEM
+    IV = 21
+Pokemon = CROBAT,50
+    Moves = TOXIC,SUPERFANG,HEATWAVE,TAILWIND
+    Item = SITRUSBERRY
+    IV = 21
+Pokemon = ARBOK,50
+    Moves = GUNKSHOT,SUCKERPUNCH,COIL,DRAGONTAIL
+    Item = SHUCABERRY
+    IV = 21
+Pokemon = VENOMOTH,50
+    Moves = SIGNALBEAM,BUGBUZZ,GIGADRAIN,SLUDGEBOMB
+    Item = PETAYABERRY
+    IV = 21
+Pokemon = DUSTOX,50
+    Moves = TOXICSPIKES,SIGNALBEAM,AERIALACE,BARRIER
+    Item = APICOTBERRY
+    IV = 21
+#-------------------------------
+[LEADER_6,Blaine,1]
+Pokemon = FLAREON,50
+    Moves = FLAMECHARGE,SUPERPOWER,FLAIL,YAWN
+    Item = SALACBERRY
+    IV = 21
+Pokemon = ARCANINE,50
+    Moves = FLAREBLITZ,WILDCHARGE,CLOSECOMBAT,EXTREMESPEED
+    Item = LIECHIBERRY
+    IV = 21
+Pokemon = MAGMORTAR,50
+    Moves = FIREBLAST,PSYCHIC,THUNDERBOLT,FOCUSBLAST
+    Item = PETAYABERRY
+    IV = 21
+Pokemon = NINETALES,50
+    Moves = HEATWAVE,ENERGYBALL,HYPNOSIS,NASTYPLOT
+    Item = CHARTIBERRY
+    IV = 21
+Pokemon = CHARIZARD,50
+    Moves = INFERNO,DRAGONRUSH,FOCUSBLAST,HONECLAWS
+    Item = DRAGONGEM
+    IV = 21
+Pokemon = RAPIDASH,50
+    Moves = FLAREBLITZ,MEGAHORN,WILDCHARGE,HYPNOSIS
+    Item = SHUCABERRY
+    IV = 21
+#-------------------------------
+[LEADER_7,Rival,1]
+Pokemon = SANDSLASH,50
+    Moves = SANDSTORM,ROCKSLIDE,EARTHQUAKE,BRICKBREAK
+    Item = SALACBERRY
+    IV = 21
+Pokemon = NIDOKING,50
+    Moves = MEGAHORN,BLIZZARD,EARTHPOWER,SLUDGEWAVE
+    Item = SHUCABERRY
+    IV = 21
+Pokemon = TYRANITAR,50
+    Moves = THRASH,DARKPULSE,EARTHQUAKE,CRUNCH
+    Item = RINDOBERRY
+    IV = 21
+Pokemon = MAROWAK,50
+    Moves = BONEMERANG,STONEEDGE,OUTRAGE,THUNDERPUNCH
+    Item = YACHEBERRY
+    IV = 21
+Pokemon = NIDOQUEEN,50
+    Moves = SUPERPOWER,POISONJAB,EARTHPOWER,THUNDER
+    Item = PASSHOBERRY
+    IV = 21
+Pokemon = RHYDON,50
+    Moves = HAMMERARM,STONEEDGE,MEGAHORN,DRILLRUN
+    Item = LIECHIBERRY
+    IV = 21
+#-------------------------------
+[LEADER_8,Falkner]
+Pokemon = STARAPTOR,50
+    Moves = TAKEDOWN,CLOSECOMBAT,AGILITY,BRAVEBIRD
+    Item = SALACBERRY
+    IV = 21
+Pokemon = PIDGEOT,50
+    Moves = BRAVEBIRD,TAILWIND,HEATWAVE,UTURN
+    Item = SITRUSBERRY
+    IV = 21
+Pokemon = TOGEKISS,50
+    Moves = SKYATTACK,EXTREMESPEED,AURASPHERE,AIRSLASH
+    Item = WACANBERRY
+    IV = 21
+Pokemon = FEAROW,50
+    Moves = DRILLPECK,DRILLRUN,HEATWAVE,UTURN
+    Item = LIECHIBERRY
+    IV = 21
+Pokemon = HONCHKROW,50
+    Moves = AIRCUTTER,DARKPULSE,ICYWIND,NASTYPLOT
+    Item = SALACBERRY
+    IV = 21
+Pokemon = NOCTOWL,50
+    Moves = HYPNOSIS,DREAMEATER,REFLECT,AIRSLASH
+    Item = GANLONBERRY
+    IV = 21
+#-------------------------------
+[LEADER_9,Bugsy,1]
+Pokemon = BEEDRILL,50
+    Moves = AGILITY,SIGNALBEAM,POISONJAB,SHADOWBALL
+    Item = LIECHIBERRY
+    IV = 21
+Pokemon = HERACROSS,50
+    Moves = SWORDSDANCE,MEGAHORN,STONEEDGE,CLOSECOMBAT
+    Item = COBABERRY
+    IV = 21
+Pokemon = SCIZOR,50
+    Moves = SWORDSDANCE,AERIALACE,BULLETPUNCH,XSCISSOR
+    Item = OCCABERRY
+    IV = 21
+Pokemon = FORRETRESS,50
+    Moves = STRUGGLEBUG,GYROBALL,PAINSPLIT,STEALTHROCK
+    Item = APICOTBERRY
+    IV = 21
+Pokemon = YANMEGA,50
+    Moves = BUGBUZZ,PSYCHIC,HYPNOSIS,PROTECT
+    Item = CHARTIBERRY
+    IV = 21
+Pokemon = SHUCKLE,50
+    Moves = STRUGGLEBUG,FLASHCANNON,POWERSPLIT,SUBSTITUTE
+    Item = SITRUSBERRY
+    IV = 21
+#-------------------------------
+[LEADER_10,Whitney,1]
+Pokemon = MILTANK,50
+    Moves = HAMMERARM,ZENHEADBUTT,BODYSLAM,MILKDRINK
+    Item = LIECHIBERRY
+    IV = 21
+Pokemon = WIGGLYTUFF,50
+    Moves = HYPERVOICE,PERISHSONG,FIREBLAST,BLIZZARD
+    Item = NORMALGEM
+    IV = 21
+Pokemon = TAUROS,50
+    Moves = EARTHQUAKE,OUTRAGE,THRASH,STONEEDGE
+    Item = LUMBERRY
+    IV = 21
+Pokemon = AMBIPOM,50
+    Moves = DOUBLEHIT,ACROBATICS,UTURN,LOWSWEEP
+    Item = FLYINGGEM
+    IV = 21
+Pokemon = URSARING,50
+    Moves = HAMMERARM,THUNDERPUNCH,BULKUP,THRASH
+    Item = CHOPLEBERRY
+    IV = 21
+Pokemon = BLISSEY,50
+    Moves = HEALPULSE,EGGBOMB,LIGHTSCREEN,HEALINGWISH
+    Item = SITRUSBERRY
+    IV = 21
+#-------------------------------
+[LEADER_11,Morty,1]
+Pokemon = BANETTE,50
+    Moves = SHADOWCLAW,SUCKERPUNCH,CURSE,WILLOWISP
+    Item = LIECHIBERRY
+    IV = 21
+Pokemon = SABLEYE,50
+    Moves = OMINOUSWIND,FOULPLAY,CALMMIND,RECOVER
+    Item = GANLONBERRY
+    IV = 21
+Pokemon = FROSLASS,50
+    Moves = CONFUSERAY,THUNDERBOLT,ICEBEAM,SHADOWBALL
+    Item = ICEGEM
+    IV = 21
+Pokemon = GENGAR,50
+    Moves = SHADOWBALL,FOCUSBLAST,DARKPULSE,HYPNOSIS
+    Item = PETAYABERRY
+    IV = 21
+Pokemon = MISMAGIUS,50
+    Moves = SHADOWBALL,POWERGEM,PERISHSONG,PAINSPLIT
+    Item = KASIBBERRY
+    IV = 21
+Pokemon = DUSKNOIR,50
+    Moves = SHADOWPUNCH,BULLDOZE,THUNDERPUNCH,PAINSPLIT
+    Item = SITRUSBERRY
+    IV = 21
+#-------------------------------
+[LEADER_12,Chuck,1]
+Pokemon = HITMONTOP,50
+    Moves = BULKUP,DRILLRUN,CLOSECOMBAT,BULLETPUNCH
+    Item = GROUNDGEM
+    IV = 21
+Pokemon = HITMONCHAN,50
+    Moves = BULKUP,ICEPUNCH,MACHPUNCH,THUNDERPUNCH
+    Item = ICEGEM
+    IV = 21
+Pokemon = HITMONLEE,50
+    Moves = BULKUP,SUCKERPUNCH,JUMPKICK,BLAZEKICK
+    Item = SALACBERRY
+    IV = 21
+Pokemon = POLIWRATH,50
+    Moves = WATERFALL,BULKUP,HYPNOSIS,FOCUSPUNCH
+    Item = WATERGEM
+    IV = 21
+Pokemon = PRIMEAPE,50
+    Moves = OUTRAGE,CLOSECOMBAT,STONEEDGE,UTURN
+    Item = LIECHIBERRY
+    IV = 21
+Pokemon = MACHAMP,50
+    Moves = DUALCHOP,ROCKSLIDE,DYNAMICPUNCH,BULLDOZE
+    Item = PAYAPABERRY
+    IV = 21
+#-------------------------------
+[LEADER_13,Jasmine,1]
+Pokemon = STEELIX,50
+    Moves = CURSE,STONEEDGE,EARTHQUAKE,GYROBALL
+    Item = STEELGEM
+    IV = 21
+Pokemon = MAGNEZONE,50
+    Moves = FLASHCANNON,ZAPCANNON,GRAVITY,THUNDERWAVE
+    Item = SHUCABERRY
+    IV = 21
+Pokemon = FORRETRESS,50
+    Moves = EARTHQUAKE,ZAPCANNON,GRAVITY,GYROBALL
+    Item = OCCABERRY
+    IV = 21
+Pokemon = MAWILE,50
+    Moves = SWORDSDANCE,SUPERFANG,SUCKERPUNCH,IRONHEAD
+    Item = DARKGEM
+    IV = 21
+Pokemon = SKARMORY,50
+    Moves = SWORDSDANCE,STEALTHROCK,ROOST,BRAVEBIRD
+    Item = SALACBERRY
+    IV = 21
+Pokemon = AGGRON,50
+    Moves = METEORMASH,EARTHQUAKE,THUNDER,ICEBEAM
+    Item = LIECHIBERRY
+    IV = 21
+#-------------------------------
+[LEADER_14,Pryce,1]
+Pokemon = MAMOSWINE,50
+    Moves = ICICLECRASH,ROCKSLIDE,EARTHQUAKE,DOUBLEEDGE
+    Item = LIECHIBERRY
+    IV = 21
+Pokemon = JYNX,50
+    Moves = FOCUSBLAST,BLIZZARD,PSYCHIC,SHADOWBALL
+    Item = PSYCHICGEM
+    IV = 21
+Pokemon = DEWGONG,50
+    Moves = HAIL,BLIZZARD,PERISHSONG,BRINE
+    Item = SITRUSBERRY
+    IV = 21
+Pokemon = CLOYSTER,50
+    Moves = RAZORSHELL,SHELLSMASH,ROCKBLAST,ICICLESPEAR
+    Item = SALACBERRY
+    IV = 21
+Pokemon = LAPRAS,50
+    Moves = PSYCHIC,HYDROPUMP,BLIZZARD,HAIL
+    Item = PETAYABERRY
+    IV = 21
+Pokemon = WEAVILE,50
+    Moves = XSCISSOR,NIGHTSLASH,ICESHARD,FAKEOUT
+    Item = DARKGEM
+    IV = 21
+#-------------------------------
+[LEADER_15,Clair,1]
+Pokemon = DRAGONITE,50
+    Moves = HONECLAWS,HURRICANE,DRAGONRUSH,STONEEDGE
+    Item = LIECHIBERRY
+    IV = 21
+Pokemon = KINGDRA,50
+    Moves = YAWN,AGILITY,DRAGONPULSE,HYDROPUMP
+    Item = HABANBERRY
+    IV = 21
+Pokemon = ALTARIA,50
+    Moves = DRAGONBREATH,FIREBLAST,PERISHSONG,COTTONGUARD
+    Item = FIREGEM
+    IV = 21
+Pokemon = SALAMENCE,50
+    Moves = DRAGONPULSE,HEATWAVE,HYDROPUMP,EARTHQUAKE
+    Item = PETAYABERRY
+    IV = 21
+Pokemon = DRUDDIGON,50
+    Moves = GLARE,CRUNCH,DRAGONTAIL,SUPERPOWER
+    Item = SALACBERRY
+    IV = 21
+Pokemon = GARCHOMP,50
+    Moves = DUALCHOP,EARTHQUAKE,AQUATAIL,ROCKSLIDE
+    Item = YACHEBERRY
+    IV = 21
+#-------------------------------
+[LEADER_16,Roxanne,1]
+Pokemon = PROBOPASS,50
+    Moves = SANDSTORM,POWERGEM,FLASHCANNON,THUNDERWAVE
+    Item = SHUCABERRY
+    IV = 21
+Pokemon = ARMALDO,50
+    Moves = CURSE,AQUATAIL,XSCISSOR,STONEEDGE
+    Item = LIECHIBERRY
+    IV = 21
+Pokemon = CRADILY,50
+    Moves = ANCIENTPOWER,GIGADRAIN,STOCKPILE,STEALTHROCK
+    Item = SITRUSBERRY
+    IV = 21
+Pokemon = AGGRON,50
+    Moves = IRONTAIL,STONEEDGE,OUTRAGE,THUNDERWAVE
+    Item = CHOPLEBERRY
+    IV = 21
+Pokemon = RELICANTH,50
+    Moves = AMNESIA,YAWN,AQUATAIL,STONEEDGE
+    Item = RINDOBERRY
+    IV = 21
+Pokemon = GOLEM,50
+    Moves = ROCKSLIDE,IRONHEAD,STEAMROLLER,ROCKPOLISH
+    Item = SALACBERRY
+    IV = 21
+#-------------------------------
+[LEADER_17,Brawly,1]
+Pokemon = HARIYAMA,50
+    Moves = CLOSECOMBAT,BULLETPUNCH,EARTHQUAKE,BULKUP
+    Item = SITRUSBERRY
+    IV = 21
+Pokemon = MEDICHAM,50
+    Moves = BRICKBREAK,PSYCHOCUT,THUNDERPUNCH,ICEPUNCH
+    Item = PSYCHICGEM
+    IV = 21
+Pokemon = BRELOOM,50
+    Moves = FOCUSPUNCH,SPORE,STONEEDGE,MACHPUNCH
+    Item = COBABERRY
+    IV = 21
+Pokemon = MACHAMP,50
+    Moves = CLOSECOMBAT,EARTHQUAKE,STONEEDGE,BULKUP
+    Item = LUMBERRY
+    IV = 21
+Pokemon = HITMONTOP,50
+    Moves = TRIPLEKICK,DRILLRUN,ROCKSLIDE,AGILITY
+    Item = LIECHIBERRY
+    IV = 21
+Pokemon = HERACROSS,50
+    Moves = CLOSECOMBAT,MEGAHORN,AERIALACE,ROCKSLIDE
+    Item = SALACBERRY
+    IV = 21
+#-------------------------------
+[LEADER_18,Wattson,1]
+Pokemon = MANECTRIC,50
+    Moves = THUNDERBOLT,CHARGE,FLAMETHROWER,SIGNALBEAM
+    Item = PETAYABERRY
+    IV = 21
+Pokemon = MAGNEZONE,50
+    Moves = DISCHARGE,MAGNETRISE,TRIATTACK,METALSOUND
+    Item = AIRBALLOON
+    IV = 21
+Pokemon = ELECTRODE,50
+    Moves = LIGHTSCREEN,CHARGEBEAM,DOUBLETEAM,SIGNALBEAM
+    Item = SHUCABERRY
+    IV = 21
+Pokemon = PLUSLE,50
+    Moves = DISCHARGE,AGILITY,NASTYPLOT,BATONPASS
+    Item = SALACBERRY
+    IV = 21
+Pokemon = MINUN,50
+    Moves = FAKETEARS,THUNDERWAVE,VOLTSWITCH,CHARM
+    Item = ELECTRICGEM
+    IV = 21
+Pokemon = RAICHU,50
+    Moves = RETURN,WILDCHARGE,KNOCKOFF,BRICKBREAK
+    Item = LIECHIBERRY
+    IV = 21
+#-------------------------------
+[LEADER_19,Flannery,1]
+Pokemon = TORKOAL,50
+    Moves = FIREBLAST,STONEEDGE,GYROBALL,YAWN
+    Item = FIREGEM
+    IV = 21
+Pokemon = CAMERUPT,50
+    Moves = YAWN,FIREBLAST,EARTHPOWER,ROCKSLIDE
+    Item = PASSHOBERRY
+    IV = 21
+Pokemon = MAGCARGO,50
+    Moves = ANCIENTPOWER,EARTHPOWER,LAVAPLUME,SHELLSMASH
+    Item = SHUCABERRY
+    IV = 21
+Pokemon = BLAZIKEN,50
+    Moves = SKYUPPERCUT,BRAVEBIRD,FLAREBLITZ,BULKUP
+    Item = SALACBERRY
+    IV = 21
+Pokemon = HOUNDOOM,50
+    Moves = WILLOWISP,NASTYPLOT,FIREBLAST,DARKPULSE
+    Item = PETAYABERRY
+    IV = 21
+Pokemon = MAGMORTAR,50
+    Moves = ROCKSLIDE,CROSSCHOP,THUNDERPUNCH,FIREBLAST
+    Item = LIECHIBERRY
+    IV = 21
+#-------------------------------
+[LEADER_20,Norman,1]
+Pokemon = SLAKING,50
+    Moves = GIGAIMPACT,HAMMERARM,EARTHQUAKE,SLACKOFF
+    Item = SITRUSBERRY
+    IV = 21
+Pokemon = SPINDA,50
+    Moves = THRASH,SUCKERPUNCH,TEETERDANCE,ASSIST
+    Item = DARKGEM
+    IV = 21
+Pokemon = KECLEON,50
+    Moves = FAKEOUT,SHADOWCLAW,RECOVER,SKILLSWAP
+    Item = GANLONBERRY
+    IV = 21
+Pokemon = CASTFORM,50
+    Moves = FIREBLAST,ICYWIND,HYDROPUMP,DISABLE
+    Item = ICEGEM
+    IV = 21
+Pokemon = EXPLOUD,50
+    Moves = FIREBLAST,FOCUSBLAST,HYPERVOICE,ICEBEAM
+    Item = PETAYABERRY
+    IV = 21
+Pokemon = ZANGOOSE,50
+    Moves = RETURN,CLOSECOMBAT,ROCKSLIDE,NIGHTSLASH
+    Item = LIECHIBERRY
+    IV = 21
+#-------------------------------
+[LEADER_21,Winona,1]
+Pokemon = ALTARIA,50
+    Moves = COTTONGUARD,DREAMEATER,ROOST,SING
+    Item = APICOTBERRY
+    IV = 21
+Pokemon = PELIPPER,50
+    Moves = TAILWIND,ICEBEAM,HURRICANE,SCALD
+    Item = PETAYABERRY
+    IV = 21
+Pokemon = SWELLOW,50
+    Moves = DOUBLETEAM,BRAVEBIRD,ENDEAVOR,UTURN
+    Item = LIECHIBERRY
+    IV = 21
+Pokemon = SKARMORY,50
+    Moves = ROOST,BRAVEBIRD,WHIRLWIND,STEALTHROCK
+    Item = WACANBERRY
+    IV = 21
+Pokemon = TROPIUS,50
+    Moves = SUBSTITUTE,LEECHSEED,AIRSLASH,ROOST
+    Item = YACHEBERRY
+    IV = 21
+Pokemon = HONCHKROW,50
+    Moves = BRAVEBIRD,NIGHTSLASH,ICYWIND,HEATWAVE
+    Item = CHARTIBERRY
+    IV = 21
+#-------------------------------
+[LEADER_22,Tate,1]
+Pokemon = SOLROCK,50
+    Moves = ZENHEADBUTT,ROCKSLIDE,FIREBLAST,TRICKROOM
+    Item = LIECHIBERRY
+    IV = 21
+Pokemon = LUNATONE,50
+    Moves = HYPNOSIS,DREAMEATER,ICEBEAM,COSMICPOWER
+    Item = PETAYABERRY
+    IV = 21
+Pokemon = GARDEVOIR,50
+    Moves = DREAMEATER,SHADOWBALL,HYPNOSIS,THUNDERBOLT
+    Item = GHOSTGEM
+    IV = 21
+Pokemon = CLAYDOL,50
+    Moves = ZENHEADBUTT,BULLDOZE,COSMICPOWER,STONEEDGE
+    Item = SITRUSBERRY
+    IV = 21
+Pokemon = GRUMPIG,50
+    Moves = PSYSHOCK,FOCUSBLAST,POWERGEM,CALMMIND
+    Item = SALACBERRY
+    IV = 21
+Pokemon = XATU,50
+    Moves = PSYSHOCK,THUNDERWAVE,TAILWIND,HEATWAVE
+    Item = CHARTIBERRY
+    IV = 21
+#-------------------------------
+[LEADER_23,Liza,1]
+Pokemon = SOLROCK,50
+    Moves = ZENHEADBUTT,ROCKSLIDE,FIREBLAST,TRICKROOM
+    Item = LIECHIBERRY
+    IV = 21
+Pokemon = LUNATONE,50
+    Moves = HYPNOSIS,DREAMEATER,ICEBEAM,COSMICPOWER
+    Item = PETAYABERRY
+    IV = 21
+Pokemon = GARDEVOIR,50
+    Moves = DREAMEATER,SHADOWBALL,HYPNOSIS,THUNDERBOLT
+    Item = GHOSTGEM
+    IV = 21
+Pokemon = CLAYDOL,50
+    Moves = ZENHEADBUTT,BULLDOZE,COSMICPOWER,STONEEDGE
+    Item = SITRUSBERRY
+    IV = 21
+Pokemon = GRUMPIG,50
+    Moves = PSYSHOCK,FOCUSBLAST,POWERGEM,CALMMIND
+    Item = SALACBERRY
+    IV = 21
+Pokemon = XATU,50
+    Moves = PSYSHOCK,THUNDERWAVE,TAILWIND,HEATWAVE
+    Item = CHARTIBERRY
+    IV = 21
+#-------------------------------
+[LEADER_24,Wallace,1]
+Pokemon = MILOTIC,50
+    Moves = SCALD,ICYWIND,REST,SLEEPTALK
+    Item = ROCKYHELMET
+    IV = 26
+Pokemon = SHARPEDO,50
+    Moves = ZENHEADBUTT,AQUAJET,CRUNCH,HYDROPUMP
+    Item = FOCUSSASH
+    IV = 26
+Pokemon = WALREIN,50
+    Moves = YAWN,SURF,BLIZZARD,SHEERCOLD
+    Item = LEFTOVERS
+    IV = 26
+Pokemon = LUDICOLO,50
+    Moves = RAINDANCE,SURF,FOCUSBLAST,GIGADRAIN
+    Item = LIFEORB
+    IV = 26
+Pokemon = SWAMPERT,50
+    Moves = ICEBEAM,MUDDYWATER,EARTHPOWER,FOCUSBLAST
+    Item = RINDOBERRY
+    IV = 26
+Pokemon = STARMIE,50
+    Moves = THUNDERBOLT,PSYCHIC,SURF,SIGNALBEAM
+    Item = EXPERTBELT
+    IV = 26
+#-------------------------------
+[LEADER_25,Roark,1]
+Pokemon = RAMPARDOS,50
+    Moves = STONEEDGE,ZENHEADBUTT,EARTHQUAKE,OUTRAGE
+    Item = SALACBERRY
+    IV = 21
+Pokemon = PROBOPASS,50
+    Moves = POWERGEM,EARTHPOWER,SANDSTORM,STEALTHROCK
+    Item = CHOPLEBERRY
+    IV = 21
+Pokemon = SUDOWOODO,50
+    Moves = STONEEDGE,HAMMERARM,WOODHAMMER,SUCKERPUNCH
+    Item = LIECHIBERRY
+    IV = 21
+Pokemon = ONIX,50
+    Moves = STONEEDGE,ROAR,SANDSTORM,STEALTHROCK
+    Item = RINDOBERRY
+    IV = 21
+Pokemon = GOLEM,50
+    Moves = STEALTHROCK,GYROBALL,HAMMERARM,CURSE
+    Item = PASSHOBERRY
+    IV = 21
+Pokemon = RELICANTH,50
+    Moves = ROCKSLIDE,AMNESIA,SLEEPTALK,REST
+    Item = GANLONBERRY
+    IV = 21
+#-------------------------------
+[LEADER_26,Gardenia,1]
+Pokemon = ROSERADE,50
+    Moves = PETALDANCE,WEATHERBALL,SHADOWBALL,SUNNYDAY
+    Item = LUMBERRY
+    IV = 21
+Pokemon = CARNIVINE,50
+    Moves = POWERWHIP,CRUNCH,BUGBITE,SWORDSDANCE
+    Item = LIECHIBERRY
+    IV = 21
+Pokemon = CHERRIM,50
+    Moves = GIGADRAIN,LEECHSEED,SUBSTITUTE,SUNNYDAY
+    Item = GRASSGEM
+    IV = 21
+Pokemon = TANGROWTH,50
+    Moves = POWERWHIP,EARTHQUAKE,ANCIENTPOWER,FOCUSBLAST
+    Item = SALACBERRY
+    IV = 21
+Pokemon = LEAFEON,50
+    Moves = LEAFBLADE,XSCISSOR,QUICKATTACK,SWORDSDANCE
+    Item = OCCABERRY
+    IV = 21
+Pokemon = TORTERRA,50
+    Moves = WOODHAMMER,EARTHQUAKE,OUTRAGE,CURSE
+    Item = YACHEBERRY
+    IV = 21
+#-------------------------------
+[LEADER_27,Fantina,1]
+Pokemon = MISMAGIUS,50
+    Moves = CALMMIND,PSYCHIC,POWERGEM,SHADOWBALL
+    Item = SALACBERRY
+    IV = 21
+Pokemon = DRIFBLIM,50
+    Moves = TAILWIND,ACROBATICS,THUNDER,SHADOWBALL
+    Item = FLYINGGEM
+    IV = 21
+Pokemon = SPIRITOMB,50
+    Moves = CALMMIND,WILLOWISP,DARKPULSE,SHADOWBALL
+    Item = SITRUSBERRY
+    IV = 21
+Pokemon = DUSKNOIR,50
+    Moves = CURSE,CONFUSERAY,PAINSPLIT,SHADOWSNEAK
+    Item = APICOTBERRY
+    IV = 21
+Pokemon = ROTOM,50
+    Moves = SUBSTITUTE,CHARGEBEAM,PAINSPLIT,SHADOWBALL
+    Item = ELECTRICGEM
+    IV = 21
+Pokemon = GENGAR,50
+    Moves = HYPNOSIS,DREAMEATER,NIGHTMARE,HEX
+    Item = PSYCHICGEM
+    IV = 21
+#-------------------------------
+[LEADER_28,Mayleene,1]
+Pokemon = LUCARIO,50
+    Moves = CROSSCHOP,BONERUSH,EXTREMESPEED,SWORDSDANCE
+    Item = LIECHIBERRY
+    IV = 21
+Pokemon = INFERNAPE,50
+    Moves = CLOSECOMBAT,MACHPUNCH,FIREPUNCH,BULKUP
+    Item = FIREGEM
+    IV = 21
+Pokemon = TOXICROAK,50
+    Moves = SUCKERPUNCH,TORMENT,DRAINPUNCH,BULKUP
+    Item = PAYAPABERRY
+    IV = 21
+Pokemon = GALLADE,50
+    Moves = SLASH,PSYCHOCUT,CLOSECOMBAT,BULKUP
+    Item = COBABERRY
+    IV = 21
+Pokemon = MEDICHAM,50
+    Moves = BULLETPUNCH,ZENHEADBUTT,BRICKBREAK,BULKUP
+    Item = KASIBBERRY
+    IV = 21
+Pokemon = MACHAMP,50
+    Moves = CROSSCHOP,STONEEDGE,ICEPUNCH,FOCUSENERGY
+    Item = SITRUSBERRY
+    IV = 21
+#-------------------------------
+[LEADER_29,Wake,1]
+Pokemon = FLOATZEL,50
+    Moves = AQUAJET,ICEPUNCH,FOCUSBLAST,BULKUP
+    Item = LIECHIBERRY
+    IV = 21
+Pokemon = EMPOLEON,50
+    Moves = SURF,BLIZZARD,GRASSKNOT,FEATHERDANCE
+    Item = PETAYABERRY
+    IV = 21
+Pokemon = LUMINEON,50
+    Moves = SCALD,ICYWIND,UTURN,RAINDANCE
+    Item = ICEGEM
+    IV = 21
+Pokemon = GASTRODON,50
+    Moves = MUDDYWATER,EARTHPOWER,STOCKPILE,RECOVER
+    Item = APICOTBERRY
+    IV = 21
+Pokemon = QUAGSIRE,50
+    Moves = EARTHQUAKE,AQUATAIL,CURSE,RAINDANCE
+    Item = RINDOBERRY
+    IV = 21
+Pokemon = GYARADOS,50
+    Moves = STONEEDGE,AQUATAIL,DRAGONDANCE,OUTRAGE
+    Item = WACANBERRY
+    IV = 21
+#-------------------------------
+[LEADER_30,Byron,1]
+Pokemon = BASTIODON,50
+    Moves = METALBURST,FIREBLAST,IRONDEFENSE,STEALTHROCK
+    Item = SHUCABERRY
+    IV = 21
+Pokemon = STEELIX,50
+    Moves = GYROBALL,DRAGONTAIL,CURSE,STEALTHROCK
+    Item = PASSHOBERRY
+    IV = 21
+Pokemon = BRONZONG,50
+    Moves = GYROBALL,ZENHEADBUTT,HYPNOSIS,TRICKROOM
+    Item = SITRUSBERRY
+    IV = 21
+Pokemon = MAGNEZONE,50
+    Moves = FLASHCANNON,CHARGEBEAM,BARRIER,LIGHTSCREEN
+    Item = AIRBALLOON
+    IV = 21
+Pokemon = AGGRON,50
+    Moves = IRONHEAD,AUTOTOMIZE,ROCKSLIDE,OUTRAGE
+    Item = CHOPLEBERRY
+    IV = 21
+Pokemon = FORRETRESS,50
+    Moves = GYROBALL,IRONDEFENSE,LIGHTSCREEN,SPIKES
+    Item = OCCABERRY
+    IV = 21
+#-------------------------------
+[LEADER_31,Candice,1]
+Pokemon = FROSLASS,50
+    Moves = HAIL,BLIZZARD,SHADOWBALL,THUNDERBOLT
+    Item = PETAYABERRY
+    IV = 21
+Pokemon = ABOMASNOW,50
+    Moves = EARTHQUAKE,BLIZZARD,GRASSKNOT,INGRAIN
+    Item = OCCABERRY
+    IV = 21
+Pokemon = WEAVILE,50
+    Moves = TORMENT,NIGHTSLASH,ICEPUNCH,REVENGE
+    Item = CHOPLEBERRY
+    IV = 21
+Pokemon = GLACEON,50
+    Moves = ICYWIND,SHADOWBALL,SIGNALBEAM,YAWN
+    Item = SALACBERRY
+    IV = 21
+Pokemon = MAMOSWINE,50
+    Moves = ICICLECRASH,SUPERPOWER,BULLDOZE,ROCKTOMB
+    Item = LIECHIBERRY
+    IV = 21
+Pokemon = GLALIE,50
+    Moves = HAIL,ICEBEAM,CRUNCH,ROLLOUT
+    Item = ROCKGEM
+    IV = 21
+#-------------------------------
+[LEADER_32,Volkner,1]
+Pokemon = ELECTIVIRE,50
+    Moves = BRICKBREAK,BULLDOZE,WILDCHARGE,ICEPUNCH
+    Item = SALACBERRY
+    IV = 21
+Pokemon = LUXRAY,50
+    Moves = SUPERPOWER,CRUNCH,WILDCHARGE,THUNDERWAVE
+    Item = SHUCABERRY
+    IV = 21
+Pokemon = RAICHU,50
+    Moves = FOCUSBLAST,GRASSKNOT,CHARGE,CHARGEBEAM
+    Item = GRASSGEM
+    IV = 21
+Pokemon = ROTOM,50
+    Moves = HEX,PAINSPLIT,DISCHARGE,WILLOWISP
+    Item = COLBURBERRY
+    IV = 21
+Pokemon = JOLTEON,50
+    Moves = SHADOWBALL,CHARM,THUNDERBOLT,WISH
+    Item = SITRUSBERRY
+    IV = 21
+Pokemon = ELECTRODE,50
+    Moves = TAUNT,TORMENT,ELECTROBALL,SIGNALBEAM
+    Item = ELECTRICGEM
+    IV = 21
+#-------------------------------
+[LEADER_33,Cheren,1]
+Pokemon = STOUTLAND,50
+    Moves = TAKEDOWN,CRUNCH,WILDCHARGE,REVERSAL
+    Item = SALACBERRY
+    IV = 21
+Pokemon = ZANGOOSE,50
+    Moves = CRUSHCLAW,CLOSECOMBAT,XSCISSOR,SWORDSDANCE
+    Item = CHOPLEBERRY
+    IV = 21
+Pokemon = CINCCINO,50
+    Moves = TAILSLAP,ROCKBLAST,BULLETSEED,UTURN
+    Item = RAWSTBERRY
+    IV = 21
+Pokemon = LOPUNNY,50
+    Moves = DIZZYPUNCH,JUMPKICK,ICEPUNCH,CHARM
+    Item = LIECHIBERRY
+    IV = 21
+Pokemon = CASTFORM,50
+    Moves = WEATHERBALL,HYDROPUMP,BLIZZARD,FIREBLAST
+    Item = PETAYABERRY
+    IV = 21
+Pokemon = BOUFFALANT,50
+    Moves = HEADCHARGE,MEGAHORN,WILDCHARGE,EARTHQUAKE
+    Item = NORMALGEM
+    IV = 21
+#-------------------------------
+[LEADER_34,Roxie,1]
+Pokemon = SCOLIPEDE,50
+    Moves = VENOSHOCK,PROTECT,POISONSTING,ROLLOUT
+    Item = ORANBERRY
+    IV = 21
+Pokemon = SEVIPER,50
+    Moves = DARKPULSE,DRAGONTAIL,SLUDGEWAVE,GLARE
+    Item = SHUCABERRY
+    IV = 21
+Pokemon = GARBODOR,50
+    Moves = GUNKSHOT,ROCKBLAST,CLEARSMOG,STOCKPILE
+    Item = SALACBERRY
+    IV = 21
+Pokemon = CROBAT,50
+    Moves = CROSSPOISON,BRAVEBIRD,UTURN,TAILWIND
+    Item = PAYAPABERRY
+    IV = 21
+Pokemon = DRAPION,50
+    Moves = CROSSPOISON,NIGHTSLASH,FIREFANG,ACUPRESSURE
+    Item = SITRUSBERRY
+    IV = 21
+Pokemon = AMOONGUSS,50
+    Moves = TOXIC,SPORE,GIGADRAIN,SUBSTITUTE
+    Item = GANLONBERRY
+    IV = 21
+#-------------------------------
+[LEADER_35,Burgh,1]
+Pokemon = LEAVANNY,50
+    Moves = SWORDSDANCE,AERIALACE,LEAFBLADE,XSCISSOR
+    Item = COBABERRY
+    IV = 21
+Pokemon = VESPIQUEN,50
+    Moves = ROOST,TOXIC,DEFENDORDER,ATTACKORDER
+    Item = APICOTBERRY
+    IV = 21
+Pokemon = CRUSTLE,50
+    Moves = EARTHQUAKE,SHELLSMASH,ROCKSLIDE,XSCISSOR
+    Item = SALACBERRY
+    IV = 21
+Pokemon = ESCAVALIER,50
+    Moves = SWORDSDANCE,POISONJAB,MEGAHORN,IRONHEAD
+    Item = OCCABERRY
+    IV = 21
+Pokemon = ACCELGOR,50
+    Moves = GUARDSPLIT,FOCUSBLAST,BUGBUZZ,SPIKES
+    Item = PETAYABERRY
+    IV = 21
+Pokemon = DURANT,50
+    Moves = HONECLAWS,ROCKSLIDE,IRONHEAD,XSCISSOR
+    Item = LIECHIBERRY
+    IV = 21
+#-------------------------------
+[LEADER_36,Elesa,1]
+Pokemon = ZEBSTRIKA,50
+    Moves = WILDCHARGE,FLAMECHARGE,THRASH,MEFIRST
+    Item = LIECHIBERRY
+    IV = 21
+Pokemon = AMPHAROS,50
+    Moves = COTTONGUARD,POWERGEM,SIGNALBEAM,DISCHARGE
+    Item = SHUCABERRY
+    IV = 21
+Pokemon = GALVANTULA,50
+    Moves = THUNDER,ENERGYBALL,BUGBUZZ,DISABLE
+    Item = SITRUSBERRY
+    IV = 21
+Pokemon = EMOLGA,50
+    Moves = VOLTSWITCH,THUNDERWAVE,ACROBATICS,ATTRACT
+    Item = FLYINGGEM
+    IV = 21
+Pokemon = EELEKTROSS,50
+    Moves = ZAPCANNON,COIL,FLAMETHROWER,DRAGONCLAW
+    Item = SALACBERRY
+    IV = 21
+Pokemon = STUNFISK,50
+    Moves = EARTHPOWER,STONEEDGE,MUDDYWATER,DISCHARGE
+    Item = PETAYABERRY
+    IV = 21
+#-------------------------------
+[LEADER_37,Clay,1]
+Pokemon = EXCADRILL,50
+    Moves = DRILLRUN,ROCKSLIDE,SUBMISSION,SWORDSDANCE
+    Item = LIECHIBERRY
+    IV = 21
+Pokemon = CLAYDOL,50
+    Moves = EARTHPOWER,SANDSTORM,COSMICPOWER,PSYCHIC
+    Item = GANLONBERRY
+    IV = 21
+Pokemon = KROOKODILE,50
+    Moves = EARTHQUAKE,CRUNCH,ROCKSLIDE,OUTRAGE
+    Item = CHOPLEBERRY
+    IV = 21
+Pokemon = SEISMITOAD,50
+    Moves = ICEPUNCH,DRAINPUNCH,EARTHPOWER,MUDDYWATER
+    Item = RINDOBERRY
+    IV = 21
+Pokemon = MAMOSWINE,50
+    Moves = SANDSTORM,STONEEDGE,ICESHARD,EARTHQUAKE
+    Item = ICEGEM
+    IV = 21
+Pokemon = GOLURK,50
+    Moves = SHADOWPUNCH,STONEEDGE,HAMMERARM,EARTHQUAKE
+    Item = GHOSTGEM
+    IV = 21
+#-------------------------------
+[LEADER_38,Skyla,1]
+Pokemon = SWANNA,50
+    Moves = HURRICANE,TAILWIND,SCALD,ICEBEAM
+    Item = WACANBERRY
+    IV = 21
+Pokemon = UNFEZANT,50
+    Moves = UTURN,AIRSLASH,GIGAIMPACT,HYPNOSIS
+    Item = LIECHIBERRY
+    IV = 21
+Pokemon = SWOOBAT,50
+    Moves = PSYCHIC,CALMMIND,AIRSLASH,ATTRACT
+    Item = PETAYABERRY
+    IV = 21
+Pokemon = ARCHEOPS,50
+    Moves = ACROBATICS,STONEEDGE,EARTHQUAKE,DRAGONCLAW
+    Item = FLYINGGEM
+    IV = 21
+Pokemon = BRAVIARY,50
+    Moves = BRAVEBIRD,ROCKSLIDE,CRUSHCLAW,BULKUP
+    Item = NORMALGEM
+    IV = 21
+Pokemon = MANDIBUZZ,50
+    Moves = BRAVEBIRD,ROOST,DOUBLETEAM,TOXIC
+    Item = APICOTBERRY
+    IV = 21
+#-------------------------------
+[LEADER_39,Drayden,1]
+Pokemon = HAXORUS,50
+    Moves = OUTRAGE,DRAGONDANCE,EARTHQUAKE,BRICKBREAK
+    Item = DRAGONGEM
+    IV = 21
+Pokemon = DRUDDIGON,50
+    Moves = OUTRAGE,FIREFANG,SUCKERPUNCH,GLARE
+    Item = SALACBERRY
+    IV = 21
+Pokemon = HYDREIGON,50
+    Moves = DRAGONPULSE,DARKPULSE,FIREBLAST,FOCUSBLAST
+    Item = PETAYABERRY
+    IV = 21
+Pokemon = FLYGON,50
+    Moves = OUTRAGE,STONEEDGE,EARTHPOWER,FLAMETHROWER
+    Item = LIECHIBERRY
+    IV = 21
+Pokemon = ALTARIA,50
+    Moves = OUTRAGE,DRAGONDANCE,COTTONGUARD,ROOST
+    Item = APICOTBERRY
+    IV = 21
+Pokemon = SALAMENCE,50
+    Moves = DRAGONRUSH,THUNDERFANG,FIREBLAST,HONECLAWS
+    Item = YACHEBERRY
+    IV = 21
+#-------------------------------
+[LEADER_40,Marlon,1]
+Pokemon = JELLICENT,50
+    Moves = SCALD,HEX,ACIDARMOR,RECOVER
+    Item = RINDOBERRY
+    IV = 21
+Pokemon = CARRACOSTA,50
+    Moves = STONEEDGE,SHELLSMASH,HYDROPUMP,EARTHQUAKE
+    Item = LIECHIBERRY
+    IV = 21
+Pokemon = STARMIE,50
+    Moves = PSYSHOCK,COSMICPOWER,SCALD,RECOVER
+    Item = GANLONBERRY
+    IV = 21
+Pokemon = ALOMOMOLA,50
+    Moves = MIRRORCOAT,CALMMIND,SCALD,WISH
+    Item = APICOTBERRY
+    IV = 21
+Pokemon = MANTINE,50
+    Moves = SIGNALBEAM,ICEBEAM,HYDROPUMP,AGILITY
+    Item = PETAYABERRY
+    IV = 21
+Pokemon = WAILORD,50
+    Moves = HYDROPUMP,AVALANCHE,AQUARING,AMNESIA
+    Item = SITRUSBERRY
+    IV = 21
+#-------------------------------
+[SAILOR,Harry]
+Pokemon = AIPOM,10
+    Moves = SCRATCH,TAILWHIP
+Pokemon = ARBOK,10
+    Moves = WRAP,LEER,BITE,POISONSTING
+#-------------------------------
+[BEAUTY,Valerie]
+Pokemon = AZUMARILL,10
+    Moves = TACKLE,WATERGUN,TAILWHIP,WATERSPORT
+#-------------------------------
+[PkMnTRAINER_Wally,Wally]
+Pokemon = JELLICENT,50
+    Moves = SCALD,HEX,ACIDARMOR,RECOVER
+    Item = RINDOBERRY
+    IV = 21
+Pokemon = CARRACOSTA,50
+    Moves = STONEEDGE,SHELLSMASH,HYDROPUMP,EARTHQUAKE
+    Item = LIECHIBERRY
+    IV = 21
+Pokemon = STARMIE,50
+    Moves = PSYSHOCK,COSMICPOWER,SCALD,RECOVER
+    Item = GANLONBERRY
+    IV = 21
+Pokemon = ALOMOMOLA,50
+    Moves = MIRRORCOAT,CALMMIND,SCALD,WISH
+    Item = APICOTBERRY
+    IV = 21
+Pokemon = MANTINE,50
+    Moves = SIGNALBEAM,ICEBEAM,HYDROPUMP,AGILITY
+    Item = PETAYABERRY
+    IV = 21
+Pokemon = WAILORD,50
+    Moves = HYDROPUMP,AVALANCHE,AQUARING,AMNESIA
+    Item = SITRUSBERRY
+    IV = 21
+#-------------------------------
+[DARKPLAYER,Grunt]
+Pokemon = DITTO,1
+    Moves = TRANSFORM,TRANSFORM,TRANSFORM,RECOVER
+    IV = 21
+#-------------------------------
+[ZETA,Michael]
+Pokemon = CATERPIE,7
+Pokemon = CATERPIE,7
+#-------------------------------
+[DARKPLAYER,Mirror,1]
+Pokemon = DITTO,1
+    Moves = TRANSFORM,TRANSFORM,TRANSFORM,RECOVER
+    IV = 21
+#-------------------------------
+[PkMnTRAINER_A,Red]
+Pokemon = PIKACHU,50
+Pokemon = VENUSAUR,50
+Pokemon = BLASTOISE,50
+Pokemon = CHARIZARD,50
+Pokemon = LAPRAS,50
+Pokemon = SNORLAX,50
+#-------------------------------
+[PkMnTRAINER_B,Leaf]
+Pokemon = CLEFABLE,50
+Pokemon = GENGAR,50
+Pokemon = NINETALES,50
+Pokemon = KANGASKHAN,50
+Pokemon = VICTREEBEL,50
+Pokemon = BLASTOISE,50
+#-------------------------------
+[PkMnTRAINER_C,Oak]
+Pokemon = ALAKAZAM,50
+Pokemon = JOLTEON,50
+Pokemon = CHARIZARD,50
+Pokemon = GYARADOS,50
+Pokemon = ARCANINE,50
+Pokemon = MEW,50
+#-------------------------------
+[BLACKBELT,Watuck]
+Pokemon = PSYDUCK,65
+#-------------------------------
+[BLACKBELT,Wakrab]
+Pokemon = KRABBY,65
+#-------------------------------
+[BLACKBELT,Warill]
+Pokemon = MARILL,65
+#-------------------------------
+[BLACKBELT,Wawhirl]
+Pokemon = POLITOED,65
+#-------------------------------
+[BLACKBELT,Darua]
+Pokemon = ZORUA,65
+#-------------------------------
+[BLACKBELT,Daraggy]
+Pokemon = SCRAGGY,65
+#-------------------------------
+[BLACKBELT,Dakay]
+Pokemon = INKAY,65
+#-------------------------------
+[BLACKBELT,Dakorok]
+Pokemon = KROKOROK,65
+#-------------------------------
+[MASTERM,Mustard]
+Pokemon = KUBFU,70
+#-------------------------------
+[LEADER_41,Juan]
+Pokemon = KINGDRA,50
+    Moves = SCALD,ICEBEAM,HYDROPUMP,DRAGONPULSE
+    Item = RINDOBERRY
+    IV = 21
+Pokemon = WALREIN,50
+    Moves = SURF,TOXIC,HYDROPUMP,EARTHQUAKE
+    Item = LIECHIBERRY
+    IV = 21
+Pokemon = CRAWDAUNT,50
+    Moves = CRABHAMMER,RAINDANCE,SCALD,GUILLOTINE
+    Item = GANLONBERRY
+    IV = 21
+Pokemon = WHISCASH,50
+    Moves = EARTHQUAKE,WATERFALL,SCALD,REST
+    Item = APICOTBERRY
+    IV = 21
+Pokemon = POLITOED,50
+    Moves = HYPNOSIS,ICEBEAM,HYDROPUMP,AGILITY
+    Item = PETAYABERRY
+    IV = 21

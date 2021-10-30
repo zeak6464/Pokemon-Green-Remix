@@ -1,0 +1,1 @@
+start /affinity 0x2 Game.exe
