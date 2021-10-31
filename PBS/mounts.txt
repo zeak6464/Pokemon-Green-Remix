@@ -1,0 +1,101 @@
+[TAUROS]
+MountID = 1
+MountPokedexID = 128
+MountName = Tauros
+MountDescription = This Tauros' charge can break rocks.
+
+[LAPRAS]
+MountID = 2
+MountPokedexID = 131
+MountName = Lapras
+MountDescription = This Lapras allows you to fish on the water.
+
+[SHARPEDO]
+MountID = 3
+MountPokedexID = 319
+MountName = Sharpedo
+MountDescription = This Sharpedo's tackle can break rocks.
+
+[MACHAMP]
+MountID = 4
+MountPokedexID = 068
+MountName = Machamp
+MountDescription = This Machamp can move heavy boulders.
+
+[MUDSDALE]
+MountID = 5
+MountPokedexID = 750
+MountName = Mudsdale
+MountDescription = This Mudsdale can run over rocky terrain.
+
+[STOUTLAND]
+MountID = 6
+MountPokedexID = 508
+MountName = Stoutland
+MountDescription = This Stoutland can search for buried items.
+
+[RHYHORN]
+MountID = 7
+MountPokedexID = 111
+MountName = Rhyhorn
+MountDescription = This Rhyhorn can climb rocky cliffs.
+
+[KABUTOPS]
+MountID = 8
+MountPokedexID = 141
+MountName = Kabutops
+MountDescription = This Kabutops can cut down small trees.
+
+[AVALUGG]
+MountID = 9
+MountPokedexID = 713
+MountName = Avalugg
+MountDescription = This Avalugg can walk on ice without sliding.
+
+[GOGOAT]
+MountID = 10
+MountPokedexID = 673
+MountName = Gogoat
+MountDescription = This Gogoat can headbutt small trees and jump up ledges.
+
+[HIPPOWDON]
+MountID = 11
+MountPokedexID = 450
+MountName = Hippowdon
+MountDescription = This Hippowdon can dig out of caves.
+
+[LUXRAY]
+MountID = 12
+MountPokedexID = 405
+MountName = Luxray
+MountDescription = This Luxray can light up dark areas.
+
+[SWAMPERT]
+MountID = 13
+MountPokedexID = 260
+MountName = Swampert
+MountDescription = This Swampert can traverse murky swamps.
+
+[LANTURN]
+MountID = 14
+MountPokedexID = 171
+MountName = Lanturn
+MountDescription = This Lanturn can light up dark areas on and underwater.
+
+[ARAQUANID]
+MountID = 15
+MountPokedexID = 752
+MountName = Araquanid
+MountDescription = This Araquanid can walk on water, dive, and cut thick seaweed.
+
+[RAMPARDOS]
+MountID = 16
+MountPokedexID = 409
+MountName = Rampardos
+MountDescription = This Rampardos' charge can break rocks.
+
+[FLYGON]
+MountID = 17
+MountPokedexID = 330
+MountName = Flygon
+MountDescription = This Flygon can fly over water, lava, and holes.
