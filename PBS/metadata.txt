@@ -1626,8 +1626,16 @@ SnapEdges = false
 Outdoor = true
 ShowArea = true
 #-------------------------------
+[296]
+# Mt.Silver
+SnapEdges = true
+Outdoor = true
+ShowArea = true
+#-------------------------------
 [297]
 # Mt.Silver
+SnapEdges = true
+Outdoor = true
 #-------------------------------
 [298]
 # Galar Stadium
