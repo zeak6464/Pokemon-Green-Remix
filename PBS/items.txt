@@ -926,3 +926,4 @@
 895,HOENNBADGESCASE,HOENNBADGESCASE,HOENNBADGESCASEs,8,0,"A Badge Case for the Hoenn Region.",0,0,6,
 896,GREENORB,Green Orb,Green Orbs,1,0,"A shiny green orb that is said to have a legend tied to it. It's known to be connected with the Hoenn region.",0,0,0,
 897,PC,PC,PCs,8,0,"A Portal PC in your Pocket.",0,0,6,
+898,ALOLANFLOWER,Alolan Flower,Alolan Flowers,2,1000,"A flower that looks very weird and might have odd effects on a pokemon.",1,0,0,
