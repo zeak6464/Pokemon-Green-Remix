@@ -1,6 +1,7 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
 [BOSS,Giovanni,1]
+Items = MEGARING
 Pokemon = ONIX,25
     Moves = ROCKTHROW,BIND,RAGE,SCREECH
     IV = 15
@@ -10,6 +11,7 @@ Pokemon = RHYHORN,24
 Pokemon = PERSIAN,29
     Moves = PAYDAY,SCRATCH,BITE,GROWL
     IV = 15
+	DynamaxLvl = 5
 #-------------------------------
 [RIVAL,???]
 Pokemon = EEVEE,5
@@ -23,12 +25,15 @@ Pokemon = CATERPIE,7
     Moves = TACKLE,STRINGSHOT
 #-------------------------------
 [RIVAL,???,1]
+Items = MEGARING
 Pokemon = SPEAROW,9
     Moves = PECK,GROWL,LEER
     IV = 16
 Pokemon = EEVEE,8
     Moves = TACKLE,TAILWHIP,SANDATTACK
     IV = 17
+	DynamaxLvl = 5
+	Gigantamax = yes
 #-------------------------------
 [LASS,Nicole]
 Pokemon = NIDORANmA,6
@@ -62,12 +67,14 @@ Pokemon = SANDSHREW,9
     Moves = POISONSTING,ROLLOUT,RAPIDSPIN,SWIFT
 #-------------------------------
 [LEADER_BROCK,Brock]
+Items = MEGARING
 Pokemon = GEODUDE,10
     Moves = TACKLE
     IV = 16
 Pokemon = ONIX,12
     Moves = TACKLE,BIDE,SCREECH,BIND
     IV = 16
+	DynamaxLvl = 5
 #-------------------------------
 [LASS,Jessica]
 Pokemon = PIDGEY,9
@@ -103,6 +110,7 @@ Pokemon = METAPOD,11
 Pokemon = JIGGLYPUFF,14
 #-------------------------------
 [TEAMROCKET_JJ,JJ]
+Items = MEGARING
 Pokemon = EKANS,14
     Moves = LEER,POISONSTING,BITE,GLARE
     IV = 16
@@ -112,6 +120,8 @@ Pokemon = KOFFING,14
 Pokemon = MEOWTH,14
     Moves = GROWL,BITE,FAKEOUT,FURYSWIPES
     IV = 16
+	DynamaxLvl = 5
+	Gigantamax = yes
 #-------------------------------
 [BUGCATCHER,David]
 Pokemon = CATERPIE,10
@@ -175,6 +185,7 @@ Pokemon = PARAS,31
 Pokemon = PARASECT,31
 #-------------------------------
 [LEADER_MISTY,Misty]
+Items = MEGARING
 Pokemon = STARYU,18
     Moves = TACKLE,WATERGUN
     IV = 16
@@ -184,6 +195,8 @@ Pokemon = STARMIE,21
 Pokemon = GYARADOS,22
     Moves = HYDROPUMP,WATERFALL,TACKLE,SURF
     IV = 16
+	DynamaxLvl = 5
+	Gigantamax = yes
 #-------------------------------
 [JRTRAINER_f,Jess]
 Pokemon = GOLDEEN,19
@@ -254,6 +267,7 @@ Pokemon = MACHOP,15
 Pokemon = GEODUDE,15
 #-------------------------------
 [RIVAL,???,2]
+Items = MEGARING
 Pokemon = SPEAROW,18
     Moves = PECK,GROWL,LEER,FURYATTACK
     IV = 16
@@ -266,6 +280,8 @@ Pokemon = RATTATA,15
 Pokemon = EEVEE,17
     Moves = TACKLE,TAILWHIP,SANDATTACK
     IV = 16
+	DynamaxLvl = 5
+	Gigantamax = yes
 #-------------------------------
 [BUGCATCHER,Joshua]
 Pokemon = WEEDLE,16
@@ -296,6 +312,7 @@ Pokemon = MACHOP,17
 Pokemon = DROWZEE,17
 #-------------------------------
 [RIVAL,???,3]
+Items = MEGARING
 Pokemon = SPEAROW,19
     Moves = PECK,GROWL,LEER,FURYATTACK
     IV = 16
@@ -308,14 +325,19 @@ Pokemon = RATTATA,16
 Pokemon = EEVEE,17
     Moves = TACKLE,TAILWHIP,SANDATTACK,GROWL
     IV = 16
+	DynamaxLvl = 5
+	Gigantamax = yes
 #-------------------------------
 [LEADER_SURGE,Lt. Surge]
+Items = MEGARING
 Pokemon = RAICHU,28
     Moves = THUNDERSHOCK,TAILWHIP,QUICKATTACK,THUNDERBOLT
     IV = 19
 Pokemon = PIKACHU,28
     Moves = THUNDERSHOCK,TAILWHIP,QUICKATTACK,THUNDERBOLT
     IV = 19
+	DynamaxLvl = 5
+	Gigantamax = yes
 Pokemon = VOLTORB,28
     Moves = THUNDERSHOCK,THUNDERBOLT,QUICKATTACK,THUNDERBOLT
     IV = 19
@@ -514,6 +536,7 @@ Pokemon = SLOWPOKE,20
 Pokemon = SLOWPOKE,20
 #-------------------------------
 [RIVAL,???,4]
+Items = MEGARING
 Pokemon = FEAROW,25
     Moves = MIRRORMOVE,GROWL,LEER,FURYATTACK
     IV = 19
@@ -531,8 +554,11 @@ Pokemon = MAGNEMITE,22
 Pokemon = EEVEE,25
     Moves = QUICKATTACK,TAILWHIP,SANDATTACK,GROWL
     IV = 19
+	DynamaxLvl = 5
+	Gigantamax = yes
 #-------------------------------
 [RIVAL,???,5]
+Items = MEGARING
 Pokemon = FEAROW,25
     Moves = MIRRORMOVE,GROWL,LEER,FURYATTACK
     IV = 19
@@ -548,8 +574,11 @@ Pokemon = SHELLDER,22
 Pokemon = EEVEE,25
     Moves = QUICKATTACK,TAILWHIP,SANDATTACK,GROWL
     IV = 19
+	DynamaxLvl = 5
+	Gigantamax = yes
 #-------------------------------
 [RIVAL,???,5]
+Items = MEGARING
 Pokemon = FEAROW,25
     Moves = MIRRORMOVE,GROWL,LEER,FURYATTACK
     IV = 19
@@ -565,6 +594,8 @@ Pokemon = VULPIX,22
 Pokemon = EEVEE,25
     Moves = QUICKATTACK,TAILWHIP,SANDATTACK,GROWL
     IV = 19
+	DynamaxLvl = 5
+	Gigantamax = yes
 #-------------------------------
 [CHANNELER,Hope]
 Pokemon = GASTLY,23
@@ -695,6 +726,7 @@ Pokemon = RATICATE,20
 Pokemon = DROWZEE,20
 #-------------------------------
 [LEADER_ERIKA,Erika]
+Items = MEGARING
 Pokemon = TANGELA,30
     Moves = BIND,MEGADRAIN,VINEWHIP,CONSTRICT
     IV = 21
@@ -707,6 +739,8 @@ Pokemon = GLOOM,32
 Pokemon = VENUSAUR,36
     Moves = ACID,PETALDANCE,STUNSPORE,SLEEPPOWDER
     IV = 21
+	DynamaxLvl = 5
+	Gigantamax = yes
 #-------------------------------
 [LASS,Michelle]
 Pokemon = BELLSPROUT,23
@@ -800,6 +834,7 @@ Pokemon = SLOWPOKE,31
 Pokemon = KADABRA,31
 #-------------------------------
 [LEADER_SABRINA,Sabrina]
+Items = MEGARING
 Pokemon = ABRA,50
     Moves = PSYCHIC,FLASH
     IV = 23
@@ -812,6 +847,8 @@ Pokemon = ALAKAZAM,50
 Pokemon = GENGAR,50
     Moves = PSYBEAM,PSYWAVE,PSYCHIC,RECOVER
     IV = 23
+	DynamaxLvl = 5
+	Gigantamax = yes
 Pokemon = HAUNTER,50
     Moves = PSYBEAM,PSYWAVE,HYPNOSIS,RECOVER
     IV = 23
@@ -968,6 +1005,8 @@ Pokemon = WEEZING,31
 Pokemon = MEOWTH,31
     Moves = BITE,SCREECH,GROWL,PAYDAY
     IV = 23
+	DynamaxLvl = 5
+	Gigantamax = yes
 #-------------------------------
 [BOSS,Giovanni,2]
 Pokemon = NIDORINO,37
@@ -979,11 +1018,14 @@ Pokemon = RHYHORN,37
 Pokemon = PERSIAN,35
     Moves = SCRATCH,GROWL,BITE,PAYDAY
     IV = 23
+	DynamaxLvl = 5
+	Gigantamax = yes
 Pokemon = NIDOQUEEN,41
     Moves = DOUBLEKICK,TAILWHIP,POISONSTING,BODYSLAM
     IV = 23
 #-------------------------------
 [RIVAL,???,6]
+Items = MEGARING
 Pokemon = SANDSLASH,38
     Moves = SLASH,SANDATTACK,POISONSTING,SWIFT
     IV = 23
@@ -999,8 +1041,11 @@ Pokemon = NINETALES,35
 Pokemon = JOLTEON,40
     Moves = THUNDERSHOCK,QUICKATTACK,DOUBLEKICK,PINMISSILE
     IV = 23
+	DynamaxLvl = 5
+	Gigantamax = yes
 #-------------------------------
 [RIVAL,???,7]
+Items = MEGARING
 Pokemon = SANDSLASH,35
     Moves = SLASH,SANDATTACK,POISONSTING,SWIFT
     IV = 23
@@ -1016,8 +1061,11 @@ Pokemon = CLOYSTER,35
 Pokemon = FLAREON,40
     Moves = EMBER,QUICKATTACK,BITE,FIRESPIN
     IV = 23
+	DynamaxLvl = 5
+	Gigantamax = yes
 #-------------------------------
 [RIVAL,???,8]
+Items = MEGARING
 Pokemon = SANDSLASH,35
     Moves = SLASH,SANDATTACK,POISONSTING,SWIFT
     IV = 23
@@ -1033,6 +1081,8 @@ Pokemon = MAGNETON,35
 Pokemon = VAPOREON,40
     Moves = WATERGUN,QUICKATTACK,BITE,AURORABEAM
     IV = 23
+	DynamaxLvl = 5
+	Gigantamax = yes
 #-------------------------------
 [CUEBALL,Isaiah]
 Pokemon = MACHOP,29
@@ -1302,6 +1352,7 @@ Pokemon = RATICATE,20
 Pokemon = ZUBAT,20
 #-------------------------------
 [LEADER_KOGA,Koga]
+Items = MEGARING
 Pokemon = VENONAT,44
     Moves = TACKLE,TOXIC,SLEEPPOWDER,PSYCHIC
     IV = 25
@@ -1314,6 +1365,8 @@ Pokemon = VENONAT,48
 Pokemon = VENOMOTH,50
     Moves = TOXIC,PSYCHIC,LEECHLIFE,DOUBLETEAM
     IV = 25
+	DynamaxLvl = 5
+	Gigantamax = yes
 #-------------------------------
 [JUGGLER,Marcus]
 Pokemon = DROWZEE,34
@@ -1439,6 +1492,7 @@ Pokemon = GROWLITHE,37
 Pokemon = VULPIX,37
 #-------------------------------
 [LEADER_BLAINE,Blaine]
+Items = MEGARING
 Pokemon = NINETALES,48
     Moves = CONFUSERAY,QUICKATTACK,TAILWHIP,FLAMETHROWER
     IV = 25
@@ -1454,6 +1508,8 @@ Pokemon = MAGMAR,57
 Pokemon = CHARIZARD,60
     Moves = FIREBLAST,FIREFANG,FIREPUNCH,FIRESPIN
     IV = 25
+	DynamaxLvl = 5
+	Gigantamax = yes
 Pokemon = CHARMELEON,50
     Moves = FIREBLAST,FIREFANG,FIREPUNCH,FIRESPIN
     IV = 25
@@ -1489,6 +1545,7 @@ Pokemon = NIDORINO,39
 Pokemon = NIDOKING,39
 #-------------------------------
 [LEADER_GIOVANNI,Giovanni]
+Items = MEGARING
 Pokemon = DUGTRIO,60
     Moves = SANDATTACK,DIG,FISSURE,EARTHQUAKE
     IV = 27
@@ -1507,6 +1564,8 @@ Pokemon = RHYDON,65
 Pokemon = MEWTWO,70
     Moves = THUNDER,ICEBEAM,HYPERBEAM,PSYCHIC
     IV = 27
+	DynamaxLvl = 5
+	Gigantamax = yes
 #-------------------------------
 [BEAUTY,Jess]
 Pokemon = POLIWAG,31
@@ -1596,6 +1655,7 @@ Pokemon = HORSEA,29
 Pokemon = STARYU,29
 #-------------------------------
 [RIVAL,???,9]
+Items = MEGARING
 Pokemon = SANDSLASH,47
     Moves = SLASH,SWIFT,FURYATTACK,POISONSTING
     IV = 27
@@ -1614,8 +1674,11 @@ Pokemon = CLOYSTER,47
 Pokemon = JOLTEON,53
     Moves = THUNDER,THUNDERWAVE,PINMISSILE,AGILITY
     IV = 27
+	DynamaxLvl = 5
+	Gigantamax = yes
 #-------------------------------
 [RIVAL,???,10]
+Items = MEGARING
 Pokemon = SANDSLASH,47
     Moves = SLASH,SWIFT,FURYATTACK,POISONSTING
     IV = 27
@@ -1634,8 +1697,11 @@ Pokemon = MAGNETON,47
 Pokemon = FLAREON,53
     Moves = FLAMETHROWER,LEER,FIRESPIN,SMOG
     IV = 27
+	DynamaxLvl = 5
+	Gigantamax = yes
 #-------------------------------
 [RIVAL,???,11]
+Items = MEGARING
 Pokemon = SANDSLASH,47
     Moves = SLASH,SWIFT,FURYATTACK,POISONSTING
     IV = 27
@@ -1654,6 +1720,8 @@ Pokemon = NINETALES,47
 Pokemon = VAPOREON,53
     Moves = HYDROPUMP,AURORABEAM,HAZE,ACIDARMOR
     IV = 27
+	DynamaxLvl = 5
+	Gigantamax = yes
 #-------------------------------
 [LASS,Testing]
 Pokemon = ABOMASNOW,10
@@ -1744,6 +1812,8 @@ Pokemon = JYNX,56
 Pokemon = LAPRAS,56
     Moves = BODYSLAM,CONFUSERAY,HYDROPUMP,BLIZZARD
     IV = 29
+	DynamaxLvl = 5
+	Gigantamax = yes
 #-------------------------------
 [ELITE_BRUNO,Bruno]
 Pokemon = ONIX,53
@@ -1761,6 +1831,8 @@ Pokemon = ONIX,56
 Pokemon = MACHAMP,58
     Moves = LEER,STRENGTH,KARATECHOP,SUBMISSION
     IV = 29
+	DynamaxLvl = 5
+	Gigantamax = yes
 #-------------------------------
 [ELITE_AGATHA,Agatha]
 Pokemon = GENGAR,56
@@ -1778,6 +1850,8 @@ Pokemon = ARBOK,58
 Pokemon = GENGAR,60
     Moves = CONFUSERAY,PSYCHIC,HYPNOSIS,DREAMEATER
     IV = 29
+	DynamaxLvl = 5
+	Gigantamax = yes
 #-------------------------------
 [ELITE_LANCE,Lance]
 Pokemon = GYARADOS,58
@@ -1795,6 +1869,8 @@ Pokemon = AERODACTYL,60
 Pokemon = DRAGONITE,62
     Moves = BLIZZARD,FIREBLAST,THUNDER,HYPERBEAM
     IV = 29
+	DynamaxLvl = 5
+	Gigantamax = yes
 #-------------------------------
 [CHAMPION,???]
 Pokemon = SANDSLASH,61
@@ -1815,6 +1891,8 @@ Pokemon = MAGNETON,63
 Pokemon = VAPOREON,65
     Moves = HYDROPUMP,AURORABEAM,QUICKATTACK,MIST
     IV = 29
+	DynamaxLvl = 5
+	Gigantamax = yes
 #-------------------------------
 [CHAMPION,???,1]
 Pokemon = SANDSLASH,61
@@ -1835,6 +1913,8 @@ Pokemon = NINETALES,63
 Pokemon = JOLTEON,65
     Moves = THUNDER,THUNDERBOLT,QUICKATTACK,PINMISSILE
     IV = 29
+	DynamaxLvl = 5
+	Gigantamax = yes
 #-------------------------------
 [CHAMPION,???,2]
 Pokemon = SANDSLASH,61
@@ -1855,6 +1935,8 @@ Pokemon = CLOYSTER,61
 Pokemon = FLAREON,65
     Moves = FLAMETHROWER,QUICKATTACK,REFLECT,FIRESPIN
     IV = 29
+	DynamaxLvl = 5
+	Gigantamax = yes
 #-------------------------------
 [SAILOR,Mario]
 Pokemon = SHELLDER,21
@@ -2048,6 +2130,7 @@ Pokemon = ABOMASNOW,10
     Moves = POWDERSNOW,LEER,RAZORLEAF,ICYWIND
 #-------------------------------
 [LEADER_BROCK,Brock,1]
+Items = MEGARING
 Pokemon = ONIX,50
     Moves = STEALTHROCK,DRAGONBREATH,SANDTOMB,IRONTAIL
     IV = 21
@@ -2063,6 +2146,8 @@ Pokemon = KABUTOPS,50
     Moves = STONEEDGE,AQUAJET,SUPERPOWER,SWORDSDANCE
     Item = LIECHIBERRY
     IV = 21
+	DynamaxLvl = 5
+	Gigantamax = yes
 Pokemon = OMASTAR,50
     Moves = HYDROPUMP,ANCIENTPOWER,EARTHPOWER,ICEBEAM
     Item = RINDOBERRY
@@ -2073,6 +2158,7 @@ Pokemon = RELICANTH,50
     IV = 21
 #-------------------------------
 [LEADER_MISTY,Misty,1]
+Items = MEGARING
 Pokemon = STARMIE,50
     Moves = PSYCHIC,HYDROPUMP,ICEBEAM,THUNDERBOLT
     Item = PETAYABERRY
@@ -2085,6 +2171,8 @@ Pokemon = LAPRAS,50
     Moves = ICEBEAM,THUNDER,CONFUSERAY,HYDROPUMP
     Item = GANLONBERRY
     IV = 21
+	DynamaxLvl = 5
+	Gigantamax = yes
 Pokemon = SEAKING,50
     Moves = MEGAHORN,WATERFALL,POISONJAB,AGILITY
     Item = WACANBERRY
@@ -2099,10 +2187,13 @@ Pokemon = BLASTOISE,50
     IV = 21
 #-------------------------------
 [LEADER_SURGE,Lt.Surge,1]
+Items = MEGARING
 Pokemon = RAICHU,50
     Moves = THUNDERWAVE,FOCUSBLAST,SIGNALBEAM,THUNDERBOLT
     Item = ELECTRICGEM
     IV = 21
+	DynamaxLvl = 5
+	Gigantamax = yes
 Pokemon = JOLTEON,50
     Moves = RAINDANCE,SHADOWBALL,THUNDER,SIGNALBEAM
     Item = SHUCABERRY
@@ -2124,6 +2215,7 @@ Pokemon = LANTURN,50
     IV = 21
 #-------------------------------
 [LEADER_ERIKA,Erika,1]
+Items = MEGARING
 Pokemon = VILEPLUME,50
     Moves = PETALDANCE,SLEEPPOWDER,SUNNYDAY,MOONLIGHT
     Item = GRASSGEM
@@ -2148,8 +2240,11 @@ Pokemon = VENUSAUR,50
     Moves = SYNTHESIS,LIGHTSCREEN,LEAFSTORM,TOXIC
     Item = SITRUSBERRY
     IV = 21
+	DynamaxLvl = 5
+	Gigantamax = yes
 #-------------------------------
 [LEADER_SABRINA,Sabrina,1]
+Items = MEGARING
 Pokemon = ALAKAZAM,50
     Moves = PSYSHOCK,SHADOWBALL,FOCUSBLAST,CHARGEBEAM
     Item = COLBURBERRY
@@ -2162,6 +2257,8 @@ Pokemon = MRMIME,50
     Moves = PSYCHIC,LIGHTSCREEN,CHARGEBEAM,REFLECT
     Item = KASIBBERRY
     IV = 21
+	DynamaxLvl = 5
+	Gigantamax = yes
 Pokemon = SLOWKING,50
     Moves = PSYSHOCK,ICEBEAM,CALMMIND,SLACKOFF
     Item = GANLONBERRY
@@ -2176,6 +2273,7 @@ Pokemon = JYNX,50
     IV = 21
 #-------------------------------
 [LEADER_KOGA,Koga,1]
+Items = MEGARING
 Pokemon = ARIADOS,50
     Moves = POISONJAB,STRUGGLEBUG,ELECTROWEB,SUCKERPUNCH
     Item = PAYAPABERRY
@@ -2188,6 +2286,8 @@ Pokemon = CROBAT,50
     Moves = TOXIC,SUPERFANG,HEATWAVE,TAILWIND
     Item = SITRUSBERRY
     IV = 21
+	DynamaxLvl = 5
+	Gigantamax = yes
 Pokemon = ARBOK,50
     Moves = GUNKSHOT,SUCKERPUNCH,COIL,DRAGONTAIL
     Item = SHUCABERRY
@@ -2202,6 +2302,7 @@ Pokemon = DUSTOX,50
     IV = 21
 #-------------------------------
 [LEADER_BLAINE,Blaine,1]
+Items = MEGARING
 Pokemon = FLAREON,50
     Moves = FLAMECHARGE,SUPERPOWER,FLAIL,YAWN
     Item = SALACBERRY
@@ -2222,12 +2323,15 @@ Pokemon = CHARIZARD,50
     Moves = INFERNO,DRAGONRUSH,FOCUSBLAST,HONECLAWS
     Item = DRAGONGEM
     IV = 21
+	DynamaxLvl = 5
+	Gigantamax = yes
 Pokemon = RAPIDASH,50
     Moves = FLAREBLITZ,MEGAHORN,WILDCHARGE,HYPNOSIS
     Item = SHUCABERRY
     IV = 21
 #-------------------------------
 [LEADER_GIOVANNI,Giovanni,1]
+Items = MEGARING
 Pokemon = SANDSLASH,50
     Moves = SANDSTORM,ROCKSLIDE,EARTHQUAKE,BRICKBREAK
     Item = SALACBERRY
@@ -2240,6 +2344,8 @@ Pokemon = TYRANITAR,50
     Moves = THRASH,DARKPULSE,EARTHQUAKE,CRUNCH
     Item = RINDOBERRY
     IV = 21
+	DynamaxLvl = 5
+	Gigantamax = yes
 Pokemon = MAROWAK,50
     Moves = BONEMERANG,STONEEDGE,OUTRAGE,THUNDERPUNCH
     Item = YACHEBERRY
@@ -2260,8 +2366,11 @@ Pokemon = ABRA,10
     Moves = TELEPORT
 #-------------------------------
 [ELITE_ASH,Ash]
+Items = MEGARING
 Pokemon = PIKACHU,99
     Moves = AGILITY,WILDCHARGE,LIGHTSCREEN,THUNDER
+	DynamaxLvl = 5
+	Gigantamax = yes
 Pokemon = CRAWDAUNT,99
     Moves = SWORDSDANCE,CRUNCH,CRABHAMMER,GUILLOTINE
 Pokemon = GLALIE,99
@@ -2274,10 +2383,13 @@ Pokemon = LYCANROC,99
     Moves = ROCKSLIDE,SCARYFACE,CRUNCH,STONEEDGE
 #-------------------------------
 [LEADER_Falkner,Falkner]
+Items = MEGARING
 Pokemon = PIDGEOT,60
     Moves = TACKLE,SANDATTACK,GUST,QUICKATTACK
 Pokemon = CHARIZARD,60
     Moves = SCRATCH,GROWL,EMBER,SMOKESCREEN
+	DynamaxLvl = 5
+	Gigantamax = yes
 Pokemon = DODRIO,60
     Moves = PECK,GROWL,QUICKATTACK,RAGE
 Pokemon = GLIGAR,60
@@ -2288,6 +2400,7 @@ Pokemon = ZAPDOS,60
     Moves = DRILLPECK,PECK,THUNDERSHOCK,THUNDERWAVE
 #-------------------------------
 [LEADER_Bugsy,Bugsy]
+Items = MEGARING
 Pokemon = SCYTHER,50
     Moves = QUICKATTACK,LEER,FOCUSENERGY,PURSUIT
 Pokemon = HERACROSS,50
@@ -2298,12 +2411,17 @@ Pokemon = QUAGSIRE,50
     Moves = WATERGUN,TAILWHIP,MUDSPORT,MUDSHOT
 Pokemon = SUICUNE,50
     Moves = TAILWIND,BITE,LEER,BUBBLEBEAM
+	DynamaxLvl = 5
+	Gigantamax = yes
 Pokemon = SUDOWOODO,50
     Moves = COPYCAT,FLAIL,LOWKICK,ROCKTHROW
 #-------------------------------
 [LEADER_Whitney,Whitney]
+Items = MEGARING
 Pokemon = MILTANK,70
     Moves = GROWL,DEFENSECURL,STOMP,MILKDRINK
+	DynamaxLvl = 5
+	Gigantamax = yes
 Pokemon = DONPHAN,70
     Moves = GROWL,DEFENSECURL,RAPIDSPIN,ROLLOUT
 Pokemon = FLAAFFY,70
@@ -2316,8 +2434,11 @@ Pokemon = HITMONCHAN,70
     Moves = FOCUSPUNCH,REVENGE,COMETPUNCH,AGILITY
 #-------------------------------
 [LEADER_Morty,Morty]
+Items = MEGARING
 Pokemon = GENGAR,70
     Moves = HYPNOSIS,LICK,SPITE,MEANLOOK
+	DynamaxLvl = 5
+	Gigantamax = yes
 Pokemon = MISMAGIUS,70
     Moves = GROWL,PSYWAVE,SPITE,ASTONISH
 Pokemon = MANTINE,70
@@ -2330,10 +2451,13 @@ Pokemon = EXEGGUTOR,70
     Moves = BARRAGE,HYPNOSIS,CONFUSION,STOMP
 #-------------------------------
 [LEADER_Chuck,Chuck]
+Items = MEGARING
 Pokemon = POLIWRATH,70
     Moves = BUBBLEBEAM,HYPNOSIS,DOUBLESLAP,SUBMISSION
 Pokemon = MACHAMP,70
     Moves = FOCUSENERGY,KARATECHOP,FORESIGHT,LOWSWEEP
+	DynamaxLvl = 5
+	Gigantamax = yes
 Pokemon = HITMONCHAN,70
     Moves = REVENGE,COMETPUNCH,AGILITY,PURSUIT
 Pokemon = HITMONLEE,70
@@ -2344,6 +2468,7 @@ Pokemon = ELECTABUZZ,70
     Moves = QUICKATTACK,LEER,THUNDERSHOCK,LOWKICK
 #-------------------------------
 [LEADER_Pryce,Pryce]
+Items = MEGARING
 Pokemon = MAMOSWINE,90
     Moves = PECK,ODORSLEUTH,MUDSPORT,POWDERSNOW
 Pokemon = JYNX,90
@@ -2352,12 +2477,15 @@ Pokemon = CLOYSTER,90
     Moves = SUPERSONIC,PROTECT,AURORABEAM,SPIKECANNON
 Pokemon = LAPRAS,90
     Moves = WATERGUN,MIST,CONFUSERAY,ICESHARD
+	DynamaxLvl = 5
+	Gigantamax = yes
 Pokemon = WEAVILE,90
     Moves = LEER,TAUNT,QUICKATTACK,FEINTATTACK
 Pokemon = ARTICUNO,90
     Moves = SHEERCOLD,GUST,POWDERSNOW,MIST
 #-------------------------------
 [LEADER_Clair,Clair]
+Items = MEGARING
 Pokemon = KINGDRA,90
     Moves = BUBBLE,SMOKESCREEN,LEER,WATERGUN
 Pokemon = DRAGONITE,90
@@ -2370,8 +2498,11 @@ Pokemon = DRUDDIGON,90
     Moves = SCRATCH,HONECLAWS,BITE,SCARYFACE
 Pokemon = GARCHOMP,90
     Moves = TACKLE,SANDATTACK,DRAGONRAGE,SANDSTORM
+	DynamaxLvl = 5
+	Gigantamax = yes
 #-------------------------------
 [LEADER_Jasmine,Jasmine]
+Items = MEGARING
 Pokemon = STEELIX,10
     Moves = IRONTAIL,CRUNCH,ROCKSLIDE,SCREECH
 Pokemon = MAGNEZONE,90
@@ -2382,6 +2513,8 @@ Pokemon = SKARMORY,90
     Moves = LEER,PECK,SANDATTACK,METALCLAW
 Pokemon = METAGROSS,90
     Moves = MAGNETRISE,TAKEDOWN,CONFUSION,METALCLAW
+	DynamaxLvl = 5
+	Gigantamax = yes
 Pokemon = LUCARIO,90
     Moves = FORESIGHT,QUICKATTACK,DETECT,METALCLAW
 #-------------------------------
@@ -2445,6 +2578,7 @@ Pokemon = PYROAR,100
 Pokemon = GYARADOS,100
 #-------------------------------
 [LEADER_0,Brock,1]
+Items = MEGARING
 Pokemon = ONIX,50
     Moves = STEALTHROCK,DRAGONBREATH,SANDTOMB,IRONTAIL
     Item = SITRUSBERRY
@@ -2465,6 +2599,8 @@ Pokemon = OMASTAR,50
     Moves = HYDROPUMP,ANCIENTPOWER,EARTHPOWER,ICEBEAM
     Item = RINDOBERRY
     IV = 21
+	DynamaxLvl = 5
+	Gigantamax = yes
 Pokemon = RELICANTH,50
     Moves = ROCKSLIDE,WATERFALL,YAWN,ROCKPOLISH
     Ability = 0
@@ -2472,6 +2608,7 @@ Pokemon = RELICANTH,50
     Happiness = 21
 #-------------------------------
 [LEADER_1,Misty,1]
+Items = MEGARING
 Pokemon = STARMIE,50
     Moves = PSYCHIC,HYDROPUMP,ICEBEAM,THUNDERBOLT
     Item = PETAYABERRY
@@ -2484,6 +2621,8 @@ Pokemon = LAPRAS,50
     Moves = ICEBEAM,THUNDER,CONFUSERAY,HYDROPUMP
     Item = GANLONBERRY
     IV = 21
+	DynamaxLvl = 5
+	Gigantamax = yes
 Pokemon = SEAKING,50
     Moves = MEGAHORN,WATERFALL,POISONJAB,AGILITY
     Item = WACANBERRY
@@ -2498,6 +2637,7 @@ Pokemon = BLASTOISE,50
     IV = 21
 #-------------------------------
 [LEADER_2,Lt.Surge,1]
+Items = MEGARING
 Pokemon = RAICHU,50
     Moves = THUNDERWAVE,FOCUSBLAST,SIGNALBEAM,THUNDERBOLT
     Item = ELECTRICGEM
@@ -2509,6 +2649,8 @@ Pokemon = JOLTEON,50
 Pokemon = ELECTIVIRE,50
     Moves = ELECTROBALL,THUNDERPUNCH,DISCHARGE,THUNDERBOLT
     IV = 21
+	DynamaxLvl = 5
+	Gigantamax = yes
 Pokemon = ELECTRODE,50
     Moves = CHARGE,MIRRORCOAT,MAGNETRISE,THUNDER
     Item = LUMBERRY
@@ -2523,6 +2665,7 @@ Pokemon = LANTURN,50
     IV = 21
 #-------------------------------
 [LEADER_3,Erika,1]
+Items = MEGARING
 Pokemon = VILEPLUME,50
     Moves = PETALDANCE,SLEEPPOWDER,SUNNYDAY,MOONLIGHT
     Item = GRASSGEM
@@ -2546,8 +2689,11 @@ Pokemon = JUMPLUFF,50
 Pokemon = VENUSAUR,50
     Moves = SYNTHESIS,LIGHTSCREEN,LEAFSTORM,TOXIC
     Item = SITRUSBERRY
+	DynamaxLvl = 5
+	Gigantamax = yes
 #-------------------------------
 [LEADER_4,Sabrina,1]
+Items = MEGARING
 Pokemon = ALAKAZAM,50
     Moves = PSYSHOCK,SHADOWBALL,FOCUSBLAST,CHARGEBEAM
     Item = COLBURBERRY
@@ -2572,8 +2718,11 @@ Pokemon = JYNX,50
     Moves = LOVELYKISS,DREAMEATER,FROSTBREATH,ENERGYBALL
     Item = SALACBERRY
     IV = 21
+	DynamaxLvl = 5
+	Gigantamax = yes
 #-------------------------------
 [LEADER_5,Koga,1]
+Items = MEGARING
 Pokemon = ARIADOS,50
     Moves = POISONJAB,STRUGGLEBUG,ELECTROWEB,SUCKERPUNCH
     Item = PAYAPABERRY
@@ -2586,6 +2735,8 @@ Pokemon = CROBAT,50
     Moves = TOXIC,SUPERFANG,HEATWAVE,TAILWIND
     Item = SITRUSBERRY
     IV = 21
+	DynamaxLvl = 5
+	Gigantamax = yes
 Pokemon = ARBOK,50
     Moves = GUNKSHOT,SUCKERPUNCH,COIL,DRAGONTAIL
     Item = SHUCABERRY
@@ -2600,6 +2751,7 @@ Pokemon = DUSTOX,50
     IV = 21
 #-------------------------------
 [LEADER_6,Blaine,1]
+Items = MEGARING
 Pokemon = FLAREON,50
     Moves = FLAMECHARGE,SUPERPOWER,FLAIL,YAWN
     Item = SALACBERRY
@@ -2620,12 +2772,15 @@ Pokemon = CHARIZARD,50
     Moves = INFERNO,DRAGONRUSH,FOCUSBLAST,HONECLAWS
     Item = DRAGONGEM
     IV = 21
+	DynamaxLvl = 5
+	Gigantamax = yes
 Pokemon = RAPIDASH,50
     Moves = FLAREBLITZ,MEGAHORN,WILDCHARGE,HYPNOSIS
     Item = SHUCABERRY
     IV = 21
 #-------------------------------
 [LEADER_7,Rival,1]
+Items = MEGARING
 Pokemon = SANDSLASH,50
     Moves = SANDSTORM,ROCKSLIDE,EARTHQUAKE,BRICKBREAK
     Item = SALACBERRY
@@ -2646,16 +2801,21 @@ Pokemon = NIDOQUEEN,50
     Moves = SUPERPOWER,POISONJAB,EARTHPOWER,THUNDER
     Item = PASSHOBERRY
     IV = 21
+	DynamaxLvl = 5
+	Gigantamax = yes
 Pokemon = RHYDON,50
     Moves = HAMMERARM,STONEEDGE,MEGAHORN,DRILLRUN
     Item = LIECHIBERRY
     IV = 21
 #-------------------------------
 [LEADER_8,Falkner]
+Items = MEGARING
 Pokemon = STARAPTOR,50
     Moves = TAKEDOWN,CLOSECOMBAT,AGILITY,BRAVEBIRD
     Item = SALACBERRY
     IV = 21
+	DynamaxLvl = 5
+	Gigantamax = yes
 Pokemon = PIDGEOT,50
     Moves = BRAVEBIRD,TAILWIND,HEATWAVE,UTURN
     Item = SITRUSBERRY
@@ -2678,6 +2838,7 @@ Pokemon = NOCTOWL,50
     IV = 21
 #-------------------------------
 [LEADER_9,Bugsy,1]
+Items = MEGARING
 Pokemon = BEEDRILL,50
     Moves = AGILITY,SIGNALBEAM,POISONJAB,SHADOWBALL
     Item = LIECHIBERRY
@@ -2694,6 +2855,8 @@ Pokemon = FORRETRESS,50
     Moves = STRUGGLEBUG,GYROBALL,PAINSPLIT,STEALTHROCK
     Item = APICOTBERRY
     IV = 21
+	DynamaxLvl = 5
+	Gigantamax = yes
 Pokemon = YANMEGA,50
     Moves = BUGBUZZ,PSYCHIC,HYPNOSIS,PROTECT
     Item = CHARTIBERRY
@@ -2704,10 +2867,13 @@ Pokemon = SHUCKLE,50
     IV = 21
 #-------------------------------
 [LEADER_10,Whitney,1]
+Items = MEGARING
 Pokemon = MILTANK,50
     Moves = HAMMERARM,ZENHEADBUTT,BODYSLAM,MILKDRINK
     Item = LIECHIBERRY
     IV = 21
+	DynamaxLvl = 5
+	Gigantamax = yes
 Pokemon = WIGGLYTUFF,50
     Moves = HYPERVOICE,PERISHSONG,FIREBLAST,BLIZZARD
     Item = NORMALGEM
@@ -2730,6 +2896,7 @@ Pokemon = BLISSEY,50
     IV = 21
 #-------------------------------
 [LEADER_11,Morty,1]
+Items = MEGARING
 Pokemon = BANETTE,50
     Moves = SHADOWCLAW,SUCKERPUNCH,CURSE,WILLOWISP
     Item = LIECHIBERRY
@@ -2746,6 +2913,8 @@ Pokemon = GENGAR,50
     Moves = SHADOWBALL,FOCUSBLAST,DARKPULSE,HYPNOSIS
     Item = PETAYABERRY
     IV = 21
+	DynamaxLvl = 5
+	Gigantamax = yes
 Pokemon = MISMAGIUS,50
     Moves = SHADOWBALL,POWERGEM,PERISHSONG,PAINSPLIT
     Item = KASIBBERRY
@@ -2756,6 +2925,7 @@ Pokemon = DUSKNOIR,50
     IV = 21
 #-------------------------------
 [LEADER_12,Chuck,1]
+Items = MEGARING
 Pokemon = HITMONTOP,50
     Moves = BULKUP,DRILLRUN,CLOSECOMBAT,BULLETPUNCH
     Item = GROUNDGEM
@@ -2772,6 +2942,8 @@ Pokemon = POLIWRATH,50
     Moves = WATERFALL,BULKUP,HYPNOSIS,FOCUSPUNCH
     Item = WATERGEM
     IV = 21
+	DynamaxLvl = 5
+	Gigantamax = yes
 Pokemon = PRIMEAPE,50
     Moves = OUTRAGE,CLOSECOMBAT,STONEEDGE,UTURN
     Item = LIECHIBERRY
@@ -2782,6 +2954,7 @@ Pokemon = MACHAMP,50
     IV = 21
 #-------------------------------
 [LEADER_13,Jasmine,1]
+Items = MEGARING
 Pokemon = STEELIX,50
     Moves = CURSE,STONEEDGE,EARTHQUAKE,GYROBALL
     Item = STEELGEM
@@ -2802,12 +2975,15 @@ Pokemon = SKARMORY,50
     Moves = SWORDSDANCE,STEALTHROCK,ROOST,BRAVEBIRD
     Item = SALACBERRY
     IV = 21
+	DynamaxLvl = 5
+	Gigantamax = yes
 Pokemon = AGGRON,50
     Moves = METEORMASH,EARTHQUAKE,THUNDER,ICEBEAM
     Item = LIECHIBERRY
     IV = 21
 #-------------------------------
 [LEADER_14,Pryce,1]
+Items = MEGARING
 Pokemon = MAMOSWINE,50
     Moves = ICICLECRASH,ROCKSLIDE,EARTHQUAKE,DOUBLEEDGE
     Item = LIECHIBERRY
@@ -2816,6 +2992,8 @@ Pokemon = JYNX,50
     Moves = FOCUSBLAST,BLIZZARD,PSYCHIC,SHADOWBALL
     Item = PSYCHICGEM
     IV = 21
+	DynamaxLvl = 5
+	Gigantamax = yes
 Pokemon = DEWGONG,50
     Moves = HAIL,BLIZZARD,PERISHSONG,BRINE
     Item = SITRUSBERRY
@@ -2834,6 +3012,7 @@ Pokemon = WEAVILE,50
     IV = 21
 #-------------------------------
 [LEADER_15,Clair,1]
+Items = MEGARING
 Pokemon = DRAGONITE,50
     Moves = HONECLAWS,HURRICANE,DRAGONRUSH,STONEEDGE
     Item = LIECHIBERRY
@@ -2842,6 +3021,8 @@ Pokemon = KINGDRA,50
     Moves = YAWN,AGILITY,DRAGONPULSE,HYDROPUMP
     Item = HABANBERRY
     IV = 21
+	DynamaxLvl = 5
+	Gigantamax = yes
 Pokemon = ALTARIA,50
     Moves = DRAGONBREATH,FIREBLAST,PERISHSONG,COTTONGUARD
     Item = FIREGEM
@@ -2860,10 +3041,13 @@ Pokemon = GARCHOMP,50
     IV = 21
 #-------------------------------
 [LEADER_16,Roxanne,1]
+Items = MEGARING
 Pokemon = PROBOPASS,50
     Moves = SANDSTORM,POWERGEM,FLASHCANNON,THUNDERWAVE
     Item = SHUCABERRY
     IV = 21
+	DynamaxLvl = 5
+	Gigantamax = yes
 Pokemon = ARMALDO,50
     Moves = CURSE,AQUATAIL,XSCISSOR,STONEEDGE
     Item = LIECHIBERRY
@@ -2886,10 +3070,13 @@ Pokemon = GOLEM,50
     IV = 21
 #-------------------------------
 [LEADER_17,Brawly,1]
+Items = MEGARING
 Pokemon = HARIYAMA,50
     Moves = CLOSECOMBAT,BULLETPUNCH,EARTHQUAKE,BULKUP
     Item = SITRUSBERRY
     IV = 21
+	DynamaxLvl = 5
+	Gigantamax = yes
 Pokemon = MEDICHAM,50
     Moves = BRICKBREAK,PSYCHOCUT,THUNDERPUNCH,ICEPUNCH
     Item = PSYCHICGEM
@@ -2912,10 +3099,13 @@ Pokemon = HERACROSS,50
     IV = 21
 #-------------------------------
 [LEADER_18,Wattson,1]
+Items = MEGARING
 Pokemon = MANECTRIC,50
     Moves = THUNDERBOLT,CHARGE,FLAMETHROWER,SIGNALBEAM
     Item = PETAYABERRY
     IV = 21
+	DynamaxLvl = 5
+	Gigantamax = yes
 Pokemon = MAGNEZONE,50
     Moves = DISCHARGE,MAGNETRISE,TRIATTACK,METALSOUND
     Item = AIRBALLOON
@@ -2938,6 +3128,7 @@ Pokemon = RAICHU,50
     IV = 21
 #-------------------------------
 [LEADER_19,Flannery,1]
+Items = MEGARING
 Pokemon = TORKOAL,50
     Moves = FIREBLAST,STONEEDGE,GYROBALL,YAWN
     Item = FIREGEM
@@ -2954,6 +3145,8 @@ Pokemon = BLAZIKEN,50
     Moves = SKYUPPERCUT,BRAVEBIRD,FLAREBLITZ,BULKUP
     Item = SALACBERRY
     IV = 21
+	DynamaxLvl = 5
+	Gigantamax = yes
 Pokemon = HOUNDOOM,50
     Moves = WILLOWISP,NASTYPLOT,FIREBLAST,DARKPULSE
     Item = PETAYABERRY
@@ -2964,6 +3157,7 @@ Pokemon = MAGMORTAR,50
     IV = 21
 #-------------------------------
 [LEADER_20,Norman,1]
+Items = MEGARING
 Pokemon = SLAKING,50
     Moves = GIGAIMPACT,HAMMERARM,EARTHQUAKE,SLACKOFF
     Item = SITRUSBERRY
@@ -2972,6 +3166,8 @@ Pokemon = SPINDA,50
     Moves = THRASH,SUCKERPUNCH,TEETERDANCE,ASSIST
     Item = DARKGEM
     IV = 21
+	DynamaxLvl = 5
+	Gigantamax = yes
 Pokemon = KECLEON,50
     Moves = FAKEOUT,SHADOWCLAW,RECOVER,SKILLSWAP
     Item = GANLONBERRY
@@ -2990,6 +3186,7 @@ Pokemon = ZANGOOSE,50
     IV = 21
 #-------------------------------
 [LEADER_21,Winona,1]
+Items = MEGARING
 Pokemon = ALTARIA,50
     Moves = COTTONGUARD,DREAMEATER,ROOST,SING
     Item = APICOTBERRY
@@ -2998,6 +3195,8 @@ Pokemon = PELIPPER,50
     Moves = TAILWIND,ICEBEAM,HURRICANE,SCALD
     Item = PETAYABERRY
     IV = 21
+	DynamaxLvl = 5
+	Gigantamax = yes
 Pokemon = SWELLOW,50
     Moves = DOUBLETEAM,BRAVEBIRD,ENDEAVOR,UTURN
     Item = LIECHIBERRY
@@ -3016,6 +3215,7 @@ Pokemon = HONCHKROW,50
     IV = 21
 #-------------------------------
 [LEADER_22,Tate,1]
+Items = MEGARING
 Pokemon = SOLROCK,50
     Moves = ZENHEADBUTT,ROCKSLIDE,FIREBLAST,TRICKROOM
     Item = LIECHIBERRY
@@ -3032,6 +3232,8 @@ Pokemon = CLAYDOL,50
     Moves = ZENHEADBUTT,BULLDOZE,COSMICPOWER,STONEEDGE
     Item = SITRUSBERRY
     IV = 21
+	DynamaxLvl = 5
+	Gigantamax = yes
 Pokemon = GRUMPIG,50
     Moves = PSYSHOCK,FOCUSBLAST,POWERGEM,CALMMIND
     Item = SALACBERRY
@@ -3042,6 +3244,7 @@ Pokemon = XATU,50
     IV = 21
 #-------------------------------
 [LEADER_23,Liza,1]
+Items = MEGARING
 Pokemon = SOLROCK,50
     Moves = ZENHEADBUTT,ROCKSLIDE,FIREBLAST,TRICKROOM
     Item = LIECHIBERRY
@@ -3062,12 +3265,15 @@ Pokemon = GRUMPIG,50
     Moves = PSYSHOCK,FOCUSBLAST,POWERGEM,CALMMIND
     Item = SALACBERRY
     IV = 21
+	DynamaxLvl = 5
+	Gigantamax = yes
 Pokemon = XATU,50
     Moves = PSYSHOCK,THUNDERWAVE,TAILWIND,HEATWAVE
     Item = CHARTIBERRY
     IV = 21
 #-------------------------------
 [LEADER_24,Wallace,1]
+Items = MEGARING
 Pokemon = MILOTIC,50
     Moves = SCALD,ICYWIND,REST,SLEEPTALK
     Item = ROCKYHELMET
@@ -3076,6 +3282,8 @@ Pokemon = SHARPEDO,50
     Moves = ZENHEADBUTT,AQUAJET,CRUNCH,HYDROPUMP
     Item = FOCUSSASH
     IV = 26
+	DynamaxLvl = 5
+	Gigantamax = yes
 Pokemon = WALREIN,50
     Moves = YAWN,SURF,BLIZZARD,SHEERCOLD
     Item = LEFTOVERS
@@ -3094,6 +3302,7 @@ Pokemon = STARMIE,50
     IV = 26
 #-------------------------------
 [LEADER_25,Roark,1]
+Items = MEGARING
 Pokemon = RAMPARDOS,50
     Moves = STONEEDGE,ZENHEADBUTT,EARTHQUAKE,OUTRAGE
     Item = SALACBERRY
@@ -3110,6 +3319,8 @@ Pokemon = ONIX,50
     Moves = STONEEDGE,ROAR,SANDSTORM,STEALTHROCK
     Item = RINDOBERRY
     IV = 21
+	DynamaxLvl = 5
+	Gigantamax = yes
 Pokemon = GOLEM,50
     Moves = STEALTHROCK,GYROBALL,HAMMERARM,CURSE
     Item = PASSHOBERRY
@@ -3120,6 +3331,7 @@ Pokemon = RELICANTH,50
     IV = 21
 #-------------------------------
 [LEADER_26,Gardenia,1]
+Items = MEGARING
 Pokemon = ROSERADE,50
     Moves = PETALDANCE,WEATHERBALL,SHADOWBALL,SUNNYDAY
     Item = LUMBERRY
@@ -3128,6 +3340,8 @@ Pokemon = CARNIVINE,50
     Moves = POWERWHIP,CRUNCH,BUGBITE,SWORDSDANCE
     Item = LIECHIBERRY
     IV = 21
+	DynamaxLvl = 5
+	Gigantamax = yes
 Pokemon = CHERRIM,50
     Moves = GIGADRAIN,LEECHSEED,SUBSTITUTE,SUNNYDAY
     Item = GRASSGEM
@@ -3146,10 +3360,13 @@ Pokemon = TORTERRA,50
     IV = 21
 #-------------------------------
 [LEADER_27,Fantina,1]
+Items = MEGARING
 Pokemon = MISMAGIUS,50
     Moves = CALMMIND,PSYCHIC,POWERGEM,SHADOWBALL
     Item = SALACBERRY
     IV = 21
+	DynamaxLvl = 5
+	Gigantamax = yes
 Pokemon = DRIFBLIM,50
     Moves = TAILWIND,ACROBATICS,THUNDER,SHADOWBALL
     Item = FLYINGGEM
@@ -3172,6 +3389,7 @@ Pokemon = GENGAR,50
     IV = 21
 #-------------------------------
 [LEADER_28,Mayleene,1]
+Items = MEGARING
 Pokemon = LUCARIO,50
     Moves = CROSSCHOP,BONERUSH,EXTREMESPEED,SWORDSDANCE
     Item = LIECHIBERRY
@@ -3192,12 +3410,15 @@ Pokemon = MEDICHAM,50
     Moves = BULLETPUNCH,ZENHEADBUTT,BRICKBREAK,BULKUP
     Item = KASIBBERRY
     IV = 21
+	DynamaxLvl = 5
+	Gigantamax = yes
 Pokemon = MACHAMP,50
     Moves = CROSSCHOP,STONEEDGE,ICEPUNCH,FOCUSENERGY
     Item = SITRUSBERRY
     IV = 21
 #-------------------------------
 [LEADER_29,Wake,1]
+Items = MEGARING
 Pokemon = FLOATZEL,50
     Moves = AQUAJET,ICEPUNCH,FOCUSBLAST,BULKUP
     Item = LIECHIBERRY
@@ -3210,6 +3431,8 @@ Pokemon = LUMINEON,50
     Moves = SCALD,ICYWIND,UTURN,RAINDANCE
     Item = ICEGEM
     IV = 21
+	DynamaxLvl = 5
+	Gigantamax = yes
 Pokemon = GASTRODON,50
     Moves = MUDDYWATER,EARTHPOWER,STOCKPILE,RECOVER
     Item = APICOTBERRY
@@ -3224,6 +3447,7 @@ Pokemon = GYARADOS,50
     IV = 21
 #-------------------------------
 [LEADER_30,Byron,1]
+Items = MEGARING
 Pokemon = BASTIODON,50
     Moves = METALBURST,FIREBLAST,IRONDEFENSE,STEALTHROCK
     Item = SHUCABERRY
@@ -3232,6 +3456,8 @@ Pokemon = STEELIX,50
     Moves = GYROBALL,DRAGONTAIL,CURSE,STEALTHROCK
     Item = PASSHOBERRY
     IV = 21
+	DynamaxLvl = 5
+	Gigantamax = yes
 Pokemon = BRONZONG,50
     Moves = GYROBALL,ZENHEADBUTT,HYPNOSIS,TRICKROOM
     Item = SITRUSBERRY
@@ -3250,10 +3476,13 @@ Pokemon = FORRETRESS,50
     IV = 21
 #-------------------------------
 [LEADER_31,Candice,1]
+Items = MEGARING
 Pokemon = FROSLASS,50
     Moves = HAIL,BLIZZARD,SHADOWBALL,THUNDERBOLT
     Item = PETAYABERRY
     IV = 21
+	DynamaxLvl = 5
+	Gigantamax = yes
 Pokemon = ABOMASNOW,50
     Moves = EARTHQUAKE,BLIZZARD,GRASSKNOT,INGRAIN
     Item = OCCABERRY
@@ -3276,10 +3505,13 @@ Pokemon = GLALIE,50
     IV = 21
 #-------------------------------
 [LEADER_32,Volkner,1]
+Items = MEGARING
 Pokemon = ELECTIVIRE,50
     Moves = BRICKBREAK,BULLDOZE,WILDCHARGE,ICEPUNCH
     Item = SALACBERRY
     IV = 21
+	DynamaxLvl = 5
+	Gigantamax = yes
 Pokemon = LUXRAY,50
     Moves = SUPERPOWER,CRUNCH,WILDCHARGE,THUNDERWAVE
     Item = SHUCABERRY
@@ -3302,10 +3534,13 @@ Pokemon = ELECTRODE,50
     IV = 21
 #-------------------------------
 [LEADER_33,Cheren,1]
+Items = MEGARING
 Pokemon = STOUTLAND,50
     Moves = TAKEDOWN,CRUNCH,WILDCHARGE,REVERSAL
     Item = SALACBERRY
     IV = 21
+	DynamaxLvl = 5
+	Gigantamax = yes
 Pokemon = ZANGOOSE,50
     Moves = CRUSHCLAW,CLOSECOMBAT,XSCISSOR,SWORDSDANCE
     Item = CHOPLEBERRY
@@ -3328,6 +3563,7 @@ Pokemon = BOUFFALANT,50
     IV = 21
 #-------------------------------
 [LEADER_34,Roxie,1]
+Items = MEGARING
 Pokemon = SCOLIPEDE,50
     Moves = VENOSHOCK,PROTECT,POISONSTING,ROLLOUT
     Item = ORANBERRY
@@ -3336,6 +3572,8 @@ Pokemon = SEVIPER,50
     Moves = DARKPULSE,DRAGONTAIL,SLUDGEWAVE,GLARE
     Item = SHUCABERRY
     IV = 21
+	DynamaxLvl = 5
+	Gigantamax = yes
 Pokemon = GARBODOR,50
     Moves = GUNKSHOT,ROCKBLAST,CLEARSMOG,STOCKPILE
     Item = SALACBERRY
@@ -3354,10 +3592,13 @@ Pokemon = AMOONGUSS,50
     IV = 21
 #-------------------------------
 [LEADER_35,Burgh,1]
+Items = MEGARING
 Pokemon = LEAVANNY,50
     Moves = SWORDSDANCE,AERIALACE,LEAFBLADE,XSCISSOR
     Item = COBABERRY
     IV = 21
+	DynamaxLvl = 5
+	Gigantamax = yes
 Pokemon = VESPIQUEN,50
     Moves = ROOST,TOXIC,DEFENDORDER,ATTACKORDER
     Item = APICOTBERRY
@@ -3380,6 +3621,7 @@ Pokemon = DURANT,50
     IV = 21
 #-------------------------------
 [LEADER_36,Elesa,1]
+Items = MEGARING
 Pokemon = ZEBSTRIKA,50
     Moves = WILDCHARGE,FLAMECHARGE,THRASH,MEFIRST
     Item = LIECHIBERRY
@@ -3392,6 +3634,8 @@ Pokemon = GALVANTULA,50
     Moves = THUNDER,ENERGYBALL,BUGBUZZ,DISABLE
     Item = SITRUSBERRY
     IV = 21
+	DynamaxLvl = 5
+	Gigantamax = yes
 Pokemon = EMOLGA,50
     Moves = VOLTSWITCH,THUNDERWAVE,ACROBATICS,ATTRACT
     Item = FLYINGGEM
@@ -3406,6 +3650,7 @@ Pokemon = STUNFISK,50
     IV = 21
 #-------------------------------
 [LEADER_37,Clay,1]
+Items = MEGARING
 Pokemon = EXCADRILL,50
     Moves = DRILLRUN,ROCKSLIDE,SUBMISSION,SWORDSDANCE
     Item = LIECHIBERRY
@@ -3414,6 +3659,8 @@ Pokemon = CLAYDOL,50
     Moves = EARTHPOWER,SANDSTORM,COSMICPOWER,PSYCHIC
     Item = GANLONBERRY
     IV = 21
+	DynamaxLvl = 5
+	Gigantamax = yes
 Pokemon = KROOKODILE,50
     Moves = EARTHQUAKE,CRUNCH,ROCKSLIDE,OUTRAGE
     Item = CHOPLEBERRY
@@ -3432,10 +3679,13 @@ Pokemon = GOLURK,50
     IV = 21
 #-------------------------------
 [LEADER_38,Skyla,1]
+Items = MEGARING
 Pokemon = SWANNA,50
     Moves = HURRICANE,TAILWIND,SCALD,ICEBEAM
     Item = WACANBERRY
     IV = 21
+	DynamaxLvl = 5
+	Gigantamax = yes
 Pokemon = UNFEZANT,50
     Moves = UTURN,AIRSLASH,GIGAIMPACT,HYPNOSIS
     Item = LIECHIBERRY
@@ -3458,6 +3708,7 @@ Pokemon = MANDIBUZZ,50
     IV = 21
 #-------------------------------
 [LEADER_39,Drayden,1]
+Items = MEGARING
 Pokemon = HAXORUS,50
     Moves = OUTRAGE,DRAGONDANCE,EARTHQUAKE,BRICKBREAK
     Item = DRAGONGEM
@@ -3470,6 +3721,8 @@ Pokemon = HYDREIGON,50
     Moves = DRAGONPULSE,DARKPULSE,FIREBLAST,FOCUSBLAST
     Item = PETAYABERRY
     IV = 21
+	DynamaxLvl = 5
+	Gigantamax = yes
 Pokemon = FLYGON,50
     Moves = OUTRAGE,STONEEDGE,EARTHPOWER,FLAMETHROWER
     Item = LIECHIBERRY
@@ -3484,6 +3737,7 @@ Pokemon = SALAMENCE,50
     IV = 21
 #-------------------------------
 [LEADER_40,Marlon,1]
+Items = MEGARING
 Pokemon = JELLICENT,50
     Moves = SCALD,HEX,ACIDARMOR,RECOVER
     Item = RINDOBERRY
@@ -3492,6 +3746,8 @@ Pokemon = CARRACOSTA,50
     Moves = STONEEDGE,SHELLSMASH,HYDROPUMP,EARTHQUAKE
     Item = LIECHIBERRY
     IV = 21
+	DynamaxLvl = 5
+	Gigantamax = yes
 Pokemon = STARMIE,50
     Moves = PSYSHOCK,COSMICPOWER,SCALD,RECOVER
     Item = GANLONBERRY
@@ -3524,6 +3780,8 @@ Pokemon = JELLICENT,50
     Moves = SCALD,HEX,ACIDARMOR,RECOVER
     Item = RINDOBERRY
     IV = 21
+	DynamaxLvl = 5
+	Gigantamax = yes
 Pokemon = CARRACOSTA,50
     Moves = STONEEDGE,SHELLSMASH,HYDROPUMP,EARTHQUAKE
     Item = LIECHIBERRY
@@ -3611,6 +3869,7 @@ Pokemon = KROKOROK,65
 Pokemon = KUBFU,70
 #-------------------------------
 [LEADER_41,Juan]
+Items = MEGARING
 Pokemon = KINGDRA,50
     Moves = SCALD,ICEBEAM,HYDROPUMP,DRAGONPULSE
     Item = RINDOBERRY
@@ -3619,6 +3878,8 @@ Pokemon = WALREIN,50
     Moves = SURF,TOXIC,HYDROPUMP,EARTHQUAKE
     Item = LIECHIBERRY
     IV = 21
+	DynamaxLvl = 5
+	Gigantamax = yes
 Pokemon = CRAWDAUNT,50
     Moves = CRABHAMMER,RAINDANCE,SCALD,GUILLOTINE
     Item = GANLONBERRY

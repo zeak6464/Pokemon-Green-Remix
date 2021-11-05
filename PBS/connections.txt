@@ -1,119 +1,5 @@
-# Route 2 (12) - Route 16 (126)
-12,South,90,126,North,0
-# Route 17 (129) - Route 16 (126)
-129,North,6,126,South,0
-# Celadon City (80) - Route 16 (126)
-80,West,8,126,East,0
-# Route 13 (155) - Route 14 (154)
-155,South,12,154,North,0
-# Route 15 (153) - Route 14 (154)
-153,East,4,154,West,0
-# Route 21 (163) - Cinnabar Island (160)
-163,South,0,160,North,0
-# Route 20 (174) - Cinnabar Island (160)
-174,West,0,160,East,0
-# Route 8 (73) - Route 6 (39)
-73,South,0,39,North,75
-# Vermilion City (41) - Route 6 (39)
-41,North,0,39,South,12
-# Naval Rock (295) - Route 6 (39)
-295,North,8,39,South,0
-# Saffron City (98) - Route 6 (39)
-98,South,0,39,North,6
-# Celadon City (80) - Route 7 (78)
-80,East,0,78,West,4
-# Saffron City (98) - Route 7 (78)
-98,West,24,78,East,0
-# Route 4 (24) - Route 5 (34)
-24,South,80,34,North,0
-# Cerulean City (26) - Route 5 (34)
-26,South,0,34,North,18
-# Saffron City (98) - Route 5 (34)
-98,North,0,34,South,6
-# Route 10 (58) - Route 9 (56)
-58,North,1,56,South,0
-# Cerulean City (26) - Route 9 (56)
-26,East,24,56,West,0
-# Route 11 (52) - Route 13 (155)
-52,South,0,155,North,32
-# Route 1 (3) - Route 13 (155)
-3,South,322,155,North,0
-# Route 12 (54) - Route 13 (155)
-54,South,0,155,North,92
-# Route 18 (130) - Fuchsia City (133)
-130,East,0,133,West,20
-# Route 19 (175) - Fuchsia City (133)
-175,North,3,133,South,0
-# Route 15 (153) - Fuchsia City (133)
-153,West,10,133,East,0
-# Viridian City (9) - Route 2 (12)
-9,North,22,12,South,0
-# Pewter City (15) - Route 2 (12)
-15,South,0,12,North,3
-# Route 23 (184) - Route 22 (18)
-184,East,148,18,West,0
-# Route 1 (3) - Route 22 (18)
-3,West,0,18,East,42
-# Indigo Plateau (185) - Route 22 (18)
-185,East,169,18,West,0
-# Viridian City (9) - Route 22 (18)
-9,West,20,18,East,0
-# Route 12 (156) - Route 8 (73)
-156,West,0,73,East,37
-# Route 10 (58) - Route 8 (73)
-58,South,0,73,North,8
-# Lavender Town (59) - Route 8 (73)
-59,West,0,73,East,0
-# Saffron City (98) - Route 8 (73)
-98,East,25,73,West,0
-# Route 3 (20) - Route 4 (24)
-20,East,4,24,West,0
-# Indigo Plateau (185) - Route 4 (24)
-185,South,294,24,North,0
-# Cerulean City (26) - Route 4 (24)
-26,West,1,24,East,0
-# Lavender Town (59) - Route 12 (156)
-59,South,0,156,North,0
-# Route 12 (54) - Route 12 (156)
-54,North,0,156,South,4
-# Route 11 (52) - Pallet Town (2)
-52,South,0,2,North,326
-# Route 1 (3) - Pallet Town (2)
-3,South,28,2,North,0
-# Route 21 (163) - Pallet Town (2)
-163,North,0,2,South,0
-# Route 20 (174) - Pallet Town (2)
-174,West,0,2,East,123
-# Route 12 (54) - Pallet Town (2)
-54,South,0,2,North,386
-# Indigo Plateau (185) - Route 23 (184)
-185,South,0,184,North,0
-# Route 11 (52) - Vermilion City (41)
-52,West,7,41,East,0
-# Naval Rock (295) - Vermilion City (41)
-295,East,0,41,West,0
-# Route 12 (54) - Route 11 (52)
-54,West,12,52,East,0
-# Route 18 (130) - Route 17 (129)
-130,North,0,129,South,1
-# Route 20 (174) - Route 1 (3)
-174,West,0,3,East,184
-# Viridian City (9) - Route 1 (3)
-9,South,0,3,North,0
-# Lavender Town (59) - Route 10 (58)
-59,North,0,58,South,61
-# Cerulean City (26) - Route 24 (31)
-26,North,22,31,South,0
-# Route 25 (32) - Route 24 (31)
-32,South,1,31,North,0
-# Pewter City (15) - Route 3 (20)
-15,East,23,20,West,0
-# Route 20 (174) - Route 21 (163)
-174,West,0,163,East,95
-# Viridian City (9) - Route 20 (174)
-9,East,246,174,West,0
-# Route 19 (175) - Route 20 (174)
-175,West,31,174,East,0
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
 # Route 127 (303) - Route 126 (302)
 303,West,0,302,East,0
 # Route 128 (304) - Route 126 (302)
@@ -244,3 +130,119 @@
 274,North,2,240,South,0
 # Oldale Town (251) - Route 103 (273)
 251,North,0,273,South,20
+# Route 2 (12) - Route 16 (126)
+12,South,90,126,North,0
+# Route 17 (129) - Route 16 (126)
+129,North,6,126,South,0
+# Celadon City (80) - Route 16 (126)
+80,West,8,126,East,0
+# Route 13 (155) - Route 14 (154)
+155,South,12,154,North,0
+# Route 15 (153) - Route 14 (154)
+153,East,4,154,West,0
+# Route 21 (163) - Cinnabar Island (160)
+163,South,0,160,North,0
+# Route 20 (174) - Cinnabar Island (160)
+174,West,0,160,East,0
+# Route 8 (73) - Route 6 (39)
+73,South,0,39,North,75
+# Vermillion City (41) - Route 6 (39)
+41,North,0,39,South,12
+# Naval Rock (295) - Route 6 (39)
+295,North,8,39,South,0
+# Saffron City (98) - Route 6 (39)
+98,South,0,39,North,6
+# Celadon City (80) - Route 7 (78)
+80,East,0,78,West,4
+# Saffron City (98) - Route 7 (78)
+98,West,24,78,East,0
+# Route 4 (24) - Route 5 (34)
+24,South,80,34,North,0
+# Cerulean City (26) - Route 5 (34)
+26,South,0,34,North,18
+# Saffron City (98) - Route 5 (34)
+98,North,0,34,South,6
+# Route 10 (58) - Route 9 (56)
+58,North,1,56,South,0
+# Cerulean City (26) - Route 9 (56)
+26,East,24,56,West,0
+# Viridian City (9) - Route 2 (12)
+9,North,22,12,South,0
+# Pewter City (15) - Route 2 (12)
+15,South,0,12,North,3
+# Route 18 (130) - Fuchsia City (133)
+130,East,0,133,West,20
+# Route 19 (175) - Fuchsia City (133)
+175,North,3,133,South,0
+# Route 15 (153) - Fuchsia City (133)
+153,West,10,133,East,0
+# Route 11 (52) - Route 13 (155)
+52,South,0,155,North,32
+# Route 1 (3) - Route 13 (155)
+3,South,322,155,North,0
+# Route 12 (54) - Route 13 (155)
+54,South,0,155,North,92
+# Route 12 (156) - Route 8 (73)
+156,West,0,73,East,37
+# Route 10 (58) - Route 8 (73)
+58,South,0,73,North,8
+# Lavender Town (59) - Route 8 (73)
+59,West,0,73,East,0
+# Saffron City (98) - Route 8 (73)
+98,East,25,73,West,0
+# Route 23 (184) - Route 22 (18)
+184,East,148,18,West,0
+# Route 1 (3) - Route 22 (18)
+3,West,0,18,East,42
+# Viridian City (9) - Route 22 (18)
+9,West,20,18,East,0
+# Indigo Plateau (185) - Route 22 (18)
+185,East,169,18,West,0
+# Route 3 (20) - Route 4 (24)
+20,East,4,24,West,0
+# Indigo Plateau (185) - Route 4 (24)
+185,South,294,24,North,0
+# Cerulean City (26) - Route 4 (24)
+26,West,1,24,East,0
+# Lavender Town (59) - Route 12 (156)
+59,South,0,156,North,0
+# Route 12 (54) - Route 12 (156)
+54,North,0,156,South,4
+# Route 11 (52) - Pallet Town (2)
+52,South,0,2,North,326
+# Route 1 (3) - Pallet Town (2)
+3,South,28,2,North,0
+# Route 21 (163) - Pallet Town (2)
+163,North,0,2,South,0
+# Route 20 (174) - Pallet Town (2)
+174,West,0,2,East,123
+# Route 12 (54) - Pallet Town (2)
+54,South,0,2,North,386
+# Route 11 (52) - Vermillion City (41)
+52,West,7,41,East,0
+# Naval Rock (295) - Vermillion City (41)
+295,East,0,41,West,0
+# Route 12 (54) - Route 11 (52)
+54,West,12,52,East,0
+# Route 18 (130) - Route 17 (129)
+130,North,0,129,South,1
+# Indigo Plateau (185) - Route 23 (184)
+185,South,0,184,North,0
+# Lavender Town (59) - Route 10 (58)
+59,North,0,58,South,61
+# Route 20 (174) - Route 1 (3)
+174,West,0,3,East,184
+# Viridian City (9) - Route 1 (3)
+9,South,0,3,North,0
+# Route 20 (174) - Route 21 (163)
+174,West,0,163,East,95
+# Viridian City (9) - Route 20 (174)
+9,East,246,174,West,0
+# Route 19 (175) - Route 20 (174)
+175,West,31,174,East,0
+# Cerulean City (26) - Route 24 (31)
+26,North,22,31,South,0
+# Route 25 (32) - Route 24 (31)
+32,South,1,31,North,0
+# Pewter City (15) - Route 3 (20)
+15,East,23,20,West,0
