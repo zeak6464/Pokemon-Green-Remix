@@ -3,6 +3,7 @@
 [000]
 PlayerA = PkMnTRAINER_Male,trchar000.png,128.PNG,trchar000.png,trchar000.png,trchar000.png,trchar000.png,trchar000.png
 PlayerB = PkMnTRAINER_Female,trchar001.png,128.PNG,trchar001.png,trchar001.png,trchar001.png,trchar001.png,trchar001.png
+PlayerC = PkMnTRAINER_Male,trchar612.png,128.PNG,trchar612.png,trchar612.png,trchar612.png,trchar612.png,trchar612.png
 TrainerVictoryME = Victory - Trainer.mid
 WildVictoryME = Victory - Wild Pokemon.mid
 TrainerBattleBGM = 210 - Vs. Kanto Trainer.mp3
