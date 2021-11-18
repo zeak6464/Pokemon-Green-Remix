@@ -690,7 +690,7 @@
 668,GALARICACUFF,Galarica Cuff,Galarica Cuffs,1,3000,"A cuff made from woven-together Galarica Twigs. Giving it to Galarian Slowpoke makes the Pokémon very happy.",1,0,0,
 669,GALARICAWREATH,Galarica Wreath,Galarica Wreaths,1,3000,"A wreath made from woven- Galarica Twigs. Placing it on the head of a Galarian Slowpoke makes it very happy.",1,0,0,
 670,SWEETAPPLE,Sweet Apple,Sweet Apples,1,2200,"A peculiar apple that can make a certain species of Pokémon evolve. It's exceptionally sweet.",1,0,7,
-671,TARTAPPLE,Sweet Apple,Sweet Apples,1,2200,"A peculiar apple that can make a certain species of Pokémon evolve. It's exceptionally tart.",1,0,7,
+671,TARTAPPLE,Tarta Apple,Tarta Apples,1,2200,"A peculiar apple that can make a certain species of Pokémon evolve. It's exceptionally tart.",1,0,7,
 672,CRACKEDPOT,Cracked Pot,Cracked Pot,1,1600,"A peculiar teapot that can make a certain species of Pokémon evolve. It may be cracked, but tea poured from it is delicious.",1,0,0,
 673,CHIPPEDPOT,Chipped Pot,Chipped Pots,1,1600,"A peculiar teapot that can make a certain species of Pokémon evolve. It's chipped, but tea poured from it is delicious.",1,0,7,
 674,STRAWBERRYSWEET,Strawberry Sweet,Strawberry Sweets,1,500,"A strawberry-shaped sweet. When a Milcery holds this, it will spin around happily.",0,0,13,
@@ -927,3 +927,4 @@
 896,GREENORB,Green Orb,Green Orbs,1,0,"A shiny green orb that is said to have a legend tied to it. It's known to be connected with the Hoenn region.",0,0,0,
 897,PC,PC,PCs,8,0,"A Portal PC in your Pocket.",0,0,6,
 898,ALOLANFLOWER,Alolan Flower,Alolan Flowers,2,1000,"A flower that looks very weird and might have odd effects on a pokemon.",1,0,0,
+899,SECRETKEY,SECRET KEY,SECRET KEYs,8,0,"A secret key.",0,0,6,
