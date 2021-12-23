@@ -3923,3 +3923,65 @@ Pokemon = POLITOED,50
     Item = PETAYABERRY
     IV = 21
 #-------------------------------
+[CAMPER_F,Lisi]
+Pokemon = BULBASAUR,10
+#-------------------------------
+[CAMPER_F,Lisi,1]
+Pokemon = BULBASAUR,10
+Pokemon = BULBASAUR,10
+#-------------------------------
+[BIRDKEEPER,Pedro]
+Pokemon = BULBASAUR,10
+Pokemon = BULBASAUR,17
+#-------------------------------
+[CAMPER_M,Roldán]
+Pokemon = BULBASAUR,10
+#-------------------------------
+[CAMPER_F,Nicolasa]
+Pokemon = BULBASAUR,10
+#-------------------------------
+[CAMPER_F,Nicolasa,1]
+Pokemon = BULBASAUR,10
+#-------------------------------
+[POKEFAN_M,Orestes]
+Pokemon = BULBASAUR,10
+#-------------------------------
+[PSYCHIC_M,Manuel]
+Pokemon = BULBASAUR,10
+#-------------------------------
+[ESCOLAR,Arturo]
+Pokemon = BULBASAUR,10
+#-------------------------------
+[PSYCHIC_M,Gregorio]
+Pokemon = BULBASAUR,10
+#-------------------------------
+[ESCOLAR,Javier]
+Pokemon = BULBASAUR,10
+Pokemon = BULBASAUR,10
+#-------------------------------
+[SWIMMER_M,Roberto]
+Pokemon = BULBASAUR,10
+#-------------------------------
+[SWIMMER_M,Claudio]
+Pokemon = BULBASAUR,10
+#-------------------------------
+[SWIMMER_F,Elena]
+Pokemon = BULBASAUR,10
+#-------------------------------
+[SWIMMER_F,Susana]
+Pokemon = BULBASAUR,10
+#-------------------------------
+[SWIMMER_F,Clara]
+Pokemon = BULBASAUR,10
+#-------------------------------
+[SWIMMER_M,Jorge]
+Pokemon = BULBASAUR,10
+#-------------------------------
+[SWIMMER_M,Marco]
+Pokemon = BULBASAUR,10
+#-------------------------------
+[HIKER,Ángel]
+Pokemon = BULBASAUR,10
+#-------------------------------
+[HIKER,Ángel,1]
+Pokemon = BULBASAUR,10
