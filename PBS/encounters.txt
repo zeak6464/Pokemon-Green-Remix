@@ -2775,6 +2775,374 @@ SuperRod
     WAILMER,25,45
     WAILMER,25,45
 #-------------------------------
+399 # Route 29
+25,10,10
+Land
+    PIDGEY,5
+    PIDGEY,5
+    RATTATA,5
+    RATTATA,5
+    RATTATA,5
+    RATTATA,5
+    SENTRET,5
+    SENTRET,5
+    HOOTHOOT,5
+    HOOTHOOT,5
+    HOOTHOOT,5
+    HOPPIP,5
+#-------------------------------
+400 # Route 30
+25,10,10
+Land
+    SPINARAK,5
+    SPINARAK,5
+    SPINARAK,5
+    LEDYBA,5
+    LEDYBA,5
+    HOOTHOOT,5
+    HOOTHOOT,5
+    HOOTHOOT,5
+    HOOTHOOT,5
+    HOOTHOOT,5
+    HOOTHOOT,5
+    HOPPIP,5
+Water
+    POLIWAG,5
+    POLIWAG,5
+    POLIWAG,5
+    POLIWHIRL,5
+    POLIWHIRL,5
+#-------------------------------
+401 # Route 31
+25,10,10
+Land
+    CATERPIE,5
+    CATERPIE,5
+    PIDGEY,5
+    LEDYBA,5
+    LEDYBA,5
+    WEEDLE,5
+    WEEDLE,5
+    BELLSPROUT,5
+    SPINARAK,5
+    KAKUNA,5
+    HOOTHOOT,5
+    HOPPIP,5
+Water
+    POLIWAG,5
+    POLIWAG,5
+    POLIWAG,5
+    POLIWHIRL,5
+    POLIWHIRL,5
+#-------------------------------
+402 # Route 32
+25,10,10
+Land
+    RATTATA,5
+    BELLSPROUT,5
+    MAREEP,5
+    LEDYBA,5
+    LEDYBA,5
+    EKANS,5
+    WOOPER,5
+    HOOTHOOT,5
+    HOOTHOOT,5
+    HOOTHOOT,5
+    HOOTHOOT,5
+    HOPPIP,5
+Water
+    MAGIKARP,5
+    MAGIKARP,5
+    MAGIKARP,5
+    TENTACOOL,5
+    TENTACOOL,5
+#-------------------------------
+403 # Route 34
+25,10,10
+Land
+    DROWZEE,5
+    DROWZEE,5
+    DROWZEE,5
+    RATTATA,5
+    RATTATA,5
+    ABRA,5
+    ABRA,5
+    ABRA,5
+    ABRA,5
+    ABRA,5
+    ABRA,5
+    DITTO,5
+Water
+    TENTACOOL,5
+    TENTACOOL,5
+    TENTACOOL,5
+    TENTACRUEL,5
+    TENTACRUEL,5
+#-------------------------------
+404 # Route 35
+25,10,10
+Land
+    NIDORINA,5
+    NIDORINA,5
+    NIDORINO,5
+    NIDORINO,5
+    DROWZEE,5
+    ABRA,5
+    PIDGEY,5
+    PIDGEY,5
+    PIDGEY,5
+    PIDGEY,5
+    DITTO,5
+    YANMA,5
+Water
+    PSYDUCK,5
+    PSYDUCK,5
+    PSYDUCK,5
+    GOLDUCK,5
+    GOLDUCK,5		
+#-------------------------------
+405 # Route 36
+25,10,10
+Land
+    NIDORINA,5
+    NIDORINA,5
+    NIDORINO,5
+    NIDORINO,5
+    PIDGEY,5
+    GROWLITHE,5
+    GROWLITHE,5
+    VULPIX,5
+    VULPIX,5
+    STANTLER,5
+    STANTLER,5
+    STANTLER,5
+Water
+    POLIWAG,5
+    POLIWAG,5
+    POLIWAG,5
+    POLIWHIRL,5
+    POLIWHIRL,5
+#-------------------------------
+406 # Route 38
+25,10,10
+Land
+    RATTATA,5
+    RATTATA,5
+    RATICATE,5
+    RATICATE,5
+    MAGNEMITE,5
+    MAGNEMITE,5
+    MILTANK,5
+    TAUROS,5
+    SNUBBULL,5
+    MEOWTH,5
+    HOOTHOOT,5
+    HOPPIP,5
+Water
+    POLIWAG,5
+    POLIWAG,5
+    POLIWAG,5
+    POLIWHIRL,5
+    POLIWHIRL,5		
+#-------------------------------
+407 # Route 39
+25,10,10
+Land
+    RATTATA,5
+    RATTATA,5
+    RATICATE,5
+    RATICATE,5
+    MAGNEMITE,5
+    MAGNEMITE,5
+    MILTANK,5
+    TAUROS,5
+    SNUBBULL,5
+    MEOWTH,5
+    HOOTHOOT,5
+    HOPPIP,5
+Water
+    POLIWAG,5
+    POLIWAG,5
+    POLIWAG,5
+    POLIWHIRL,5
+    POLIWHIRL,5
+#-------------------------------
+408 # Route 40
+25,10,10
+Land
+    SPINARAK,5
+    SPINARAK,5
+    SPINARAK,5
+    LEDYBA,5
+    LEDYBA,5
+    HOOTHOOT,5
+    HOOTHOOT,5
+    HOOTHOOT,5
+    HOOTHOOT,5
+    HOOTHOOT,5
+    HOOTHOOT,5
+    HOPPIP,5
+Water
+    TENTACOOL,5
+    TENTACOOL,5
+    TENTACOOL,5
+    TENTACRUEL,5
+    TENTACRUEL,5		
+#-------------------------------
+409 # Route 41
+25,10,10
+Land
+    SPINARAK,5
+    SPINARAK,5
+    SPINARAK,5
+    LEDYBA,5
+    LEDYBA,5
+    HOOTHOOT,5
+    HOOTHOOT,5
+    HOOTHOOT,5
+    HOOTHOOT,5
+    HOOTHOOT,5
+    HOOTHOOT,5
+    HOPPIP,5
+Water
+    TENTACOOL,5
+    TENTACOOL,5
+    TENTACOOL,5
+    TENTACRUEL,5
+    MANTINE,5
+#-------------------------------
+410 # Route 42
+25,10,10
+Land
+    SPEAROW,5
+    SPEAROW,5
+    SPEAROW,5
+    MANKEY,5
+    MANKEY,5
+    MAREEP,5
+    MAREEP,5
+    MAREEP,5
+    FLAAFFY,5
+    FLAAFFY,5
+    FLAAFFY,5
+    FLAAFFY,5
+Water
+    GOLDEEN,5
+    GOLDEEN,5
+    GOLDEEN,5
+    SEAKING,5
+    SEAKING,5
+#-------------------------------
+411 # Route 43
+25,10,10
+Land
+    GIRAFARIG,5
+    GIRAFARIG,5
+    GIRAFARIG,5
+    PIDGEOTTO,5
+    PIDGEOTTO,5
+    PIDGEOTTO,5
+    MAREEP,5
+    MAREEP,5
+    FLAAFFY,5
+    FLAAFFY,5
+    VENONAT,5
+    VENONAT,5
+Water
+    MAGIKARP,5
+    MAGIKARP,5
+    MAGIKARP,5
+    POLIWAG,5
+    POLIWAG,5		
+#-------------------------------
+412 # Route 44
+25,10,10
+Land
+    WEEPINBELL,5
+    WEEPINBELL,5
+    WEEPINBELL,5
+    TANGELA,5
+    TANGELA,5
+    BELLSPROUT,5
+    BELLSPROUT,5
+    BELLSPROUT,5
+    BELLSPROUT,5
+    LICKITUNG,5
+    LICKITUNG,5
+    LICKITUNG,5
+Water
+    POLIWAG,5
+    POLIWAG,5
+    POLIWAG,5
+    POLIWHIRL,5
+    POLIWHIRL,5
+#-------------------------------
+413 # Route 45
+25,10,10
+Land
+    GRAVELER,5
+    GRAVELER,5
+    GRAVELER,5
+    GEODUDE,5
+    GEODUDE,5
+    GLIGAR,5
+    GLIGAR,5
+    GLIGAR,5
+    PHANPY,5
+    PHANPY,5
+    TEDDIURSA,5
+    TEDDIURSA,5
+Water
+    POLIWAG,5
+    POLIWAG,5
+    POLIWAG,5
+    MAGIKARP,5
+    MAGIKARP,5	
+#-------------------------------
+414 # Route 46
+25,10,10
+Land
+    GEODUDE,5
+    GEODUDE,5
+    GEODUDE,5
+    GEODUDE,5
+    GEODUDE,5
+    SPEAROW,5
+    SPEAROW,5
+    SPEAROW,5
+    RATTATA,5
+    RATTATA,5
+    RATTATA,5
+    RATTATA,5
+Water
+    POLIWAG,5
+    POLIWAG,5
+    POLIWAG,5
+    POLIWHIRL,5
+    POLIWHIRL,5	
+#-------------------------------
+415 # Route 47
+25,10,10
+Land
+    DITTO,5
+    DITTO,5
+    DITTO,5
+    MILTANK,5
+    MILTANK,5
+    RATICATE,5
+    RATICATE,5
+    SPEAROW,5
+    GLOOM,5
+    GLOOM,5
+    FEAROW,5
+    FEAROW,5
+Water
+    TENTACOOL,5
+    TENTACOOL,5
+    SEEL,5
+    STARYU,5
+    STARYU,5		
+#-------------------------------
 754
 20,0,0
 LandMorning

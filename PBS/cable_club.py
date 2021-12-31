@@ -9,7 +9,7 @@ import select
 import socket
 import traceback
 
-HOST = r"0.0.0.0"
+HOST = r"127.0.0.1"
 PORT = 9999
 PBS_DIR = r"."
 
