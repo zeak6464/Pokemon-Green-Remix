@@ -246,18 +246,6 @@
 32,South,1,31,North,0
 # Pewter City (15) - Route 3 (20)
 15,East,23,20,West,0
-# Route 27 (382) - Route 26 (390)
-382,East,0,390,West,84
-# Route 27 (382) - New Bark Town (385)
-382,West,0,385,East,0
-# Route 29 (399) - New Bark Town (385)
-399,East,1,385,West,0
-# Route 29 (399) - Cherrygrove City (386)
-399,West,0,386,East,0
-# Route 30 (400) - Cherrygrove City (386)
-400,South,0,386,North,18
-# Route 30 (400) - Route 29 (399)
-400,South,42,399,North,0
 # Violet City (391) - Route 32 (402)
 391,South,0,402,North,6
 # Ecruteak City (394) - Route 36 (405)
@@ -276,3 +264,17 @@
 409,North,39,408,South,0
 # Olivine City (395) - Route 40 (408)
 395,West,1,408,East,0
+# Route 30 (400) - Route 31 (401)
+400,North,0,401,South,26
+# Route 27 (382) - Route 26 (390)
+382,East,0,390,West,84
+# Route 27 (382) - New Bark Town (385)
+382,West,0,385,East,0
+# Route 29 (399) - New Bark Town (385)
+399,East,1,385,West,0
+# Route 29 (399) - Cherrygrove City (386)
+399,West,0,386,East,0
+# Route 30 (400) - Cherrygrove City (386)
+400,South,0,386,North,18
+# Route 30 (400) - Route 29 (399)
+400,South,42,399,North,0

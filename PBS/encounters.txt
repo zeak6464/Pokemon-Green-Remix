@@ -2899,7 +2899,7 @@ Water
     PSYDUCK,5
     PSYDUCK,5
     GOLDUCK,5
-    GOLDUCK,5		
+    GOLDUCK,5
 #-------------------------------
 405 # Route 36
 25,10,10
@@ -2943,7 +2943,7 @@ Water
     POLIWAG,5
     POLIWAG,5
     POLIWHIRL,5
-    POLIWHIRL,5		
+    POLIWHIRL,5
 #-------------------------------
 407 # Route 39
 25,10,10
@@ -2987,7 +2987,7 @@ Water
     TENTACOOL,5
     TENTACOOL,5
     TENTACRUEL,5
-    TENTACRUEL,5		
+    TENTACRUEL,5
 #-------------------------------
 409 # Route 41
 25,10,10
@@ -3053,7 +3053,7 @@ Water
     MAGIKARP,5
     MAGIKARP,5
     POLIWAG,5
-    POLIWAG,5		
+    POLIWAG,5
 #-------------------------------
 412 # Route 44
 25,10,10
@@ -3097,7 +3097,7 @@ Water
     POLIWAG,5
     POLIWAG,5
     MAGIKARP,5
-    MAGIKARP,5	
+    MAGIKARP,5
 #-------------------------------
 414 # Route 46
 25,10,10
@@ -3119,7 +3119,7 @@ Water
     POLIWAG,5
     POLIWAG,5
     POLIWHIRL,5
-    POLIWHIRL,5	
+    POLIWHIRL,5
 #-------------------------------
 415 # Route 47
 25,10,10
@@ -3141,7 +3141,7 @@ Water
     TENTACOOL,5
     SEEL,5
     STARYU,5
-    STARYU,5		
+    STARYU,5
 #-------------------------------
 754
 20,0,0

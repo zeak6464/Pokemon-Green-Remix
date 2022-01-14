@@ -480,7 +480,7 @@ BicycleAlways = false
 ShowArea = true
 #-------------------------------
 [079]
-# Route 7 -> Saffron
+# GateHouse
 Bicycle = true
 MapPosition = 0,4,6
 Outdoor = true
@@ -814,7 +814,7 @@ Outdoor = true
 ShowArea = true
 #-------------------------------
 [135]
-# SnowPoint
+# Canalave
 SafariMap = true
 Outdoor = true
 #-------------------------------
@@ -1228,7 +1228,7 @@ WildBattleBGM = VS Johto Wild.mp3
 ShowArea = false
 #-------------------------------
 [207]
-# Gym
+# Celestic
 BattleBack = IndoorC
 Outdoor = false
 #-------------------------------
@@ -1240,14 +1240,14 @@ WildBattleBGM = VS Johto Trainer.mp3
 ShowArea = true
 #-------------------------------
 [209]
-# Temple
+# Hearthome
 Bicycle = true
 MapPosition = 1,8,12
 Outdoor = false
 ShowArea = true
 #-------------------------------
 [210]
-# PokeMart
+# Oreburgh
 Bicycle = true
 MapPosition = 1,7,12
 Outdoor = false
@@ -1258,11 +1258,11 @@ ShowArea = true
 Outdoor = false
 #-------------------------------
 [212]
-# Pokemon Center
+# Eterna
 Outdoor = false
 #-------------------------------
 [213]
-# Temple
+# Pastiria
 Outdoor = false
 #-------------------------------
 [214]
@@ -1754,11 +1754,11 @@ Outdoor = false
 Outdoor = false
 #-------------------------------
 [354]
-# Sinjoh Ruins
+# Jubilife
 Outdoor = true
 #-------------------------------
 [355]
-# Ruins
+# Sandgem
 Outdoor = false
 #-------------------------------
 [357]
