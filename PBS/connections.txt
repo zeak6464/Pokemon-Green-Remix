@@ -248,8 +248,6 @@
 15,East,23,20,West,0
 # Violet City (391) - Route 32 (402)
 391,South,0,402,North,6
-# Ecruteak City (394) - Route 36 (405)
-394,South,6,405,North,0
 # Mahogany Town (397) - Route 44 (412)
 397,East,0,412,West,3
 # Route 42 (410) - Mahogany Town (397)
@@ -278,3 +276,29 @@
 400,South,0,386,North,18
 # Route 30 (400) - Route 29 (399)
 400,South,42,399,North,0
+# Route 36 (405) - Route 35 (404)
+405,South,0,404,North,18
+# Route 36 (405) - Ecruteak City (394)
+405,North,0,394,South,6
+# Sandgem (355) - 202 (434)
+355,North,0,434,South,2
+# 219 (464) - 221 (468)
+464,South,67,468,North,0
+# 220 (466) - 221 (468)
+466,East,0,468,West,0
+# Jubilife (354) - 203 (435)
+354,East,6,435,West,0
+# Jubilife (354) - 204 (436)
+354,North,32,436,South,0
+# Sandgem (355) - 219 (464)
+355,South,0,464,North,2
+# 220 (466) - 219 (464)
+466,North,0,464,South,0
+# 201 (450) - 219 (464)
+450,South,84,464,North,0
+# Twinleaf (432) - Sandgem (355)
+432,North,86,355,South,0
+# 201 (450) - Sandgem (355)
+450,East,0,355,West,10
+# 201 (450) - Twinleaf (432)
+450,South,0,432,North,0
